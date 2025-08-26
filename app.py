@@ -34,12 +34,12 @@ grid_html = """
         align-items: center;
         justify-content: center;
         font-size: 12px;
-        color: white;
+        color: black;
         padding: 10px;
         text-align: center;
     }
-    .booked { background-color: #28a745; } /* Green */
-    .vacant { background-color: #007bff; } /* Blue */
+    .booked { background-color: #00FFFF; } /* Aqua */
+    .vacant { background-color: #778899; } /* Grey */
     @media (max-width: 600px) {
         .table-cell {
             font-size: 10px;
