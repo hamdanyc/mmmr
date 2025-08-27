@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
+from datetime import datetime
 
 # Set page title and config
 st.set_page_config(page_title="Majlis Makan Malam RAFOC 2025", layout="wide")
@@ -9,8 +10,22 @@ st.set_page_config(page_title="Majlis Makan Malam RAFOC 2025", layout="wide")
 tetamu_df = pd.read_csv("tetamu.csv")
 tajaan_df = pd.read_csv("tajaan.csv")
 
+# Countdown to event
+event_date = datetime(2025, 12, 14)
+now = datetime.now()
+delta = event_date - now
+if delta.total_seconds() < 0:
+    countdown_text = "Event has started!"
+else:
+    days = delta.days
+    hours, remainder = divmod(delta.seconds, 3600)
+    minutes, seconds = divmod(remainder, 60)
+    countdown_text = f"{days} days, {hours} hours, {minutes} minutes, {seconds} seconds"
+
 # 1. Table Layout Grid (Responsive)
-st.markdown("<h1 style='text-align: center; color: #8B0000;'>Majlis Makan Malam RAFOC 2025</h1>", unsafe_allow_html=True)
+st.markdown("<h2 style='text-align: right; color: red; font-weight: bold'</h2>"f"⏳ Countdown: {countdown_text}", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: blue;'>Majlis Makan Malam RAFOC | 14 Dis 2025</h1>", unsafe_allow_html=True)
+st.markdown("<h2 style='text-align: center; color: blue; font-weight: bold'>Status Tempahan Meja | Tajaan | Tetamu</h2>", unsafe_allow_html=True)
 st.markdown("<h3 style='color: #00008B;'>🗺️ Tempahan Meja</h3>", unsafe_allow_html=True)
 
 # Filter MR tables only
@@ -64,90 +79,92 @@ grid_html += "</div>"
 st.markdown(grid_html, unsafe_allow_html=True)
 
 # 2. Tajaan vs Target with Gauge Meter
-st.markdown("<h3 style='color: #00008B;'>💰 Tajaan</h3>", unsafe_allow_html=True)
-total_collections = tajaan_df['Jumlah'].sum()
-collection_target = 800000
-percentage = (total_collections / collection_target) * 100 if collection_target > 0 else 0
-
-# Create gauge chart for collections
-fig_collections = go.Figure(go.Indicator(
-    mode="gauge+number",
-    value=percentage,
-    domain={'x': [0, 1], 'y': [0, 1]},
-    title={'text': "Collections Progress"},
-    gauge={
-        'axis': {'range': [0, 100], 'tickwidth': 1, 'tickcolor': "black"},
-        'bar': {'color': "black"},
-        'bgcolor': "white",
-        'borderwidth': 2,
-        'bordercolor': "black",
-        'steps': [
-            {'range': [0, 30], 'color': "red"},
-            {'range': [30, 80], 'color': "gold"},
-            {'range': [80, 100], 'color': "green"}
-        ],
-        'threshold': {
-            'line': {'color': "black", 'width': 4},
-            'thickness': 0.75,
-            'value': percentage
-        }
-    }
-))
-
-# Reduce chart size
-st.plotly_chart(fig_collections, use_container_width=True)
-
-st.info(f"Sasaran: RM {collection_target}")
-st.metric(label="Tajaan", value=f"RM {total_collections:,.2f}")
-
 # 3. Tetamu with Gauge Meter
-st.markdown("<h3 style='color: #00008B;'>👥 Tetamu</h3>", unsafe_allow_html=True)
-total_guests = len(tetamu_df)
-guests_target = 600
-guests_percentage = (total_guests / guests_target) * 100 if guests_target > 0 else 0
+# 4. Menu Preferences - Display all in columns
+st.markdown("<h3 style='color: #00008B;'>💰 Tajaan & 👥 Tetamu</h3>", unsafe_allow_html=True)
 
-# Create gauge chart for guests
-fig_guests = go.Figure(go.Indicator(
-    mode="gauge+number",
-    value=guests_percentage,
-    domain={'x': [0, 1], 'y': [0, 1]},
-    title={'text': "Guests Progress"},
-    gauge={
-        'axis': {'range': [0, 100], 'tickwidth': 1, 'tickcolor': "black"},
-        'bar': {'color': "black"},
-        'bgcolor': "white",
-        'borderwidth': 2,
-        'bordercolor': "black",
-        'steps': [
-            {'range': [0, 30], 'color': "red"},
-            {'range': [30, 80], 'color': "gold"},
-            {'range': [80, 100], 'color': "green"}
-        ],
-        'threshold': {
-            'line': {'color': "black", 'width': 4},
-            'thickness': 0.75,
-            'value': guests_percentage
+col1, col2, col3 = st.columns(3)
+
+# Tajaan Gauge
+with col1:
+    total_collections = tajaan_df['Jumlah'].sum()
+    collection_target = 100000
+    percentage = (total_collections / collection_target) * 100 if collection_target > 0 else 0
+
+    fig_collections = go.Figure(go.Indicator(
+        mode="gauge+number",
+        value=percentage,
+        domain={'x': [0, 1], 'y': [0, 1]},
+        title={'text': "Tajaan"},
+        gauge={
+            'axis': {'range': [0, 100], 'tickwidth': 1, 'tickcolor': "black"},
+            'bar': {'color': "black"},
+            'bgcolor': "white",
+            'borderwidth': 2,
+            'bordercolor': "black",
+            'steps': [
+                {'range': [0, 30], 'color': "red"},
+                {'range': [30, 80], 'color': "gold"},
+                {'range': [80, 100], 'color': "green"}
+            ],
+            'threshold': {
+                'line': {'color': "black", 'width': 4},
+                'thickness': 0.75,
+                'value': percentage
+            }
         }
+    ))
+    fig_collections.update_layout(height=150, margin=dict(l=0, r=0, b=0, t=30, pad=0))
+    st.plotly_chart(fig_collections, use_container_width=True)
+    st.info(f"Sasaran: RM {collection_target}")
+    st.metric(label="Tajaan", value=f"RM {total_collections:,.2f}")
+
+# Tetamu Gauge
+with col2:
+    total_guests = len(tetamu_df)
+    guests_target = 600
+    guests_percentage = (total_guests / guests_target) * 100 if guests_target > 0 else 0
+
+    fig_guests = go.Figure(go.Indicator(
+        mode="gauge+number",
+        value=guests_percentage,
+        domain={'x': [0, 1], 'y': [0, 1]},
+        title={'text': "Tetamu"},
+        gauge={
+            'axis': {'range': [0, 100], 'tickwidth': 1, 'tickcolor': "black"},
+            'bar': {'color': "black"},
+            'bgcolor': "white",
+            'borderwidth': 2,
+            'bordercolor': "black",
+            'steps': [
+                {'range': [0, 30], 'color': "red"},
+                {'range': [30, 80], 'color': "gold"},
+                {'range': [80, 100], 'color': "green"}
+            ],
+            'threshold': {
+                'line': {'color': "black", 'width': 4},
+                'thickness': 0.75,
+                'value': guests_percentage
+            }
+        }
+    ))
+    fig_guests.update_layout(height=150, margin=dict(l=0, r=0, b=0, t=30, pad=0))
+    st.plotly_chart(fig_guests, use_container_width=True)
+    st.info(f"Sasaran: {guests_target} Tetamu")
+    st.metric(label="Tetamu", value=total_guests)
+
+# Menu Preferences
+with col3:
+    st.markdown("<h3 style='color: #00008B;'>🍽️ Menu Pilihan</h3>", unsafe_allow_html=True)
+    menu_counts = tetamu_df['Menu'].value_counts()
+    menu_icons = {
+        "Daging": "🥩",
+        "Ayam": "🍗",
+        "Ikan": "🐟",
+        "Vegetarian": "🥬"
     }
-))
-
-# Reduce chart size
-st.plotly_chart(fig_guests, use_container_width=True)
-
-st.info(f"Sasaran: {guests_target} Tetamu")
-st.metric(label="Tetamu", value=total_guests)
-
-# 4. Menu Preferences (Text-based with icons)
-st.markdown("<h3 style='color: #00008B;'>🍽️ Menu Pilihan</h3>", unsafe_allow_html=True)
-menu_counts = tetamu_df['Menu'].value_counts()
-menu_icons = {
-    "Daging": "🥩",
-    "Ayam": "🍗",
-    "Ikan": "🐟",
-    "Vegetarian": "🥬"
-}
-menu_display = "\n".join([f"<span style='font-size: 20px; color: #006400; font-weight: bold;'>{menu_icons.get(menu, '❓')} <strong>{menu}</strong>: {count}</span>" for menu, count in menu_counts.items()])
-st.markdown(menu_display, unsafe_allow_html=True)
+    menu_display = "\n".join([f"<span style='font-size: 20px; color: #006400; font-weight: bold;'>{menu_icons.get(menu, '❓')} <strong>{menu}</strong>: {count}</span>" for menu, count in menu_counts.items()])
+    st.markdown(menu_display, unsafe_allow_html=True)
 
 # Apply dark red and blue theme and responsive styles
 st.markdown(
