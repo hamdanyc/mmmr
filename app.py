@@ -20,7 +20,7 @@ else:
     days = delta.days
     hours, remainder = divmod(delta.seconds, 3600)
     minutes, seconds = divmod(remainder, 60)
-    countdown_text = f"{days} days, {hours} hours, {minutes} minutes, {seconds} seconds"
+    countdown_text = f"{days} hari: {hours} jam: {minutes} min: {seconds} saat"
 
 # 1. Table Layout Grid (Responsive)
 st.markdown("<h2 style='text-align: right; color: red; font-weight: bold'</h2>"f"⏳ Countdown: {countdown_text}", unsafe_allow_html=True)
