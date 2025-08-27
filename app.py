@@ -23,7 +23,7 @@ else:
     countdown_text = f"{days} hari: {hours} jam: {minutes} min: {seconds} saat"
 
 # 1. Table Layout Grid (Responsive)
-st.markdown("<h2 style='text-align: right; color: red; font-weight: bold'</h2>"f"⏳ Countdown: {countdown_text}", unsafe_allow_html=True)
+st.markdown("<h2 style='text-align: right; color: red; font-weight: bold'</h2>"f"⏳ Detik Pelaksanaan: {countdown_text}", unsafe_allow_html=True)
 st.markdown("<h2 style='text-align: center; color: blue; font-weight: bold'>Majlis Makan Malam RAFOC | 14 Dis 2025</h2>", unsafe_allow_html=True)
 st.markdown("<h2 style='text-align: center; color: blue; font-weight: bold'>Status Tempahan Meja | Tajaan | Tetamu</h2>", unsafe_allow_html=True)
 st.markdown("<h3 style='color: #00008B;'>🗺️ Tempahan Meja</h3>", unsafe_allow_html=True)
