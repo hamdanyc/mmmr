@@ -66,7 +66,7 @@ grid_html = """
 """
 
 # Create 8 rows with 6 columns each (48 tables total)
-for row in range(10):
+for row in range(8):
     for col in range(6):
         table_number = row * 6 + col + 1 
         table_id = f"R{table_number}"
