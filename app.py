@@ -122,7 +122,7 @@ with col1:
 # Tetamu Gauge
 with col2:
     total_guests = len(tetamu_df)
-    guests_target = 600
+    guests_target = 500
     guests_percentage = (total_guests / guests_target) * 100 if guests_target > 0 else 0
 
     fig_guests = go.Figure(go.Indicator(
