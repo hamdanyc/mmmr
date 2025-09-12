@@ -34,7 +34,7 @@ def main():
     table_guest_count = 0
 
     with open(output_file, 'w', newline='') as outfile:
-        writer = csv.DictWriter(outfile, fieldnames=['name', 'seat', 'table_number', 'kategori', 'menu'])
+        writer = csv.DictWriter(outfile, fieldnames=['name', 'seat', 'table_number', 'menu', 'category'])
         writer.writeheader()
 
         with open(csv_file, newline='', encoding='utf-8') as f:
@@ -53,15 +53,15 @@ def main():
                                 'name': f"{guest_name.title()}",
                                 'seat': str(seat_number),
                                 'table_number': str(table_number),
-                                'kategori': 'Tetamu',
+                                'category': 'Tetamu',
                                 'menu': get_menu(seat_number)
                             })
                         else:
                             writer.writerow({
-                                'name': f"Tetamu #{i} {guest_name.title()}",
+                                'name': f"Tetamu #{i}",
                                 'seat': str(seat_number),
                                 'table_number': str(table_number),
-                                'kategori': 'Tetamu',
+                                'category': 'Tetamu',
                                 'menu': get_menu(seat_number)
                             })
                         seat_number += 1
@@ -74,7 +74,7 @@ def main():
                             'name': f"Simpanan #{table_number}:{seat_number}",
                             'seat': str(seat_number),
                             'table_number': str(table_number),
-                            'kategori': 'Tetamu',
+                            'category': 'Tetamu',
                             'menu': ''
                         })
                         seat_number += 1
@@ -88,15 +88,15 @@ def main():
                                 'name': f"{guest_name.title()}",
                                 'seat': str(seat_number),
                                 'table_number': str(table_number),
-                                'kategori': 'Tetamu',
+                                'category': 'Tetamu',
                                 'menu': get_menu(seat_number)
                             })
                         else:
                             writer.writerow({
-                                'name': f"Tetamu #{i} {guest_name.title()}",
+                                'name': f"Tetamu #{i}",
                                 'seat': str(seat_number),
                                 'table_number': str(table_number),
-                                'kategori': 'Tetamu',
+                                'category': 'Tetamu',
                                 'menu': get_menu(seat_number)
                             })
                         seat_number += 1
@@ -111,7 +111,7 @@ def main():
                                 'name': f"{guest_name.title()}",
                                 'seat': str(seat_number),
                                 'table_number': str(table_number),
-                                'kategori': 'Tajaan',
+                                'category': 'Tajaan',
                                 'menu': get_menu(seat_number)
                             })
                         else:
@@ -119,7 +119,7 @@ def main():
                                 'name': f"Tetamu #{i} {guest_name.title()}",
                                 'seat': str(seat_number),
                                 'table_number': str(table_number),
-                                'kategori': 'Tajaan',
+                                'category': 'Tajaan',
                                 'menu': get_menu(seat_number)
                             })
                         seat_number += 1
