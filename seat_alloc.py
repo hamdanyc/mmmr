@@ -26,7 +26,7 @@ def get_menu(seat_number):
         return 'Ikan'
 
 def main():
-    csv_file = "tetamu.csv"
+    csv_file = "tempahan.csv"
     output_file = "guest_seat.csv"
     
     table_number = 13
