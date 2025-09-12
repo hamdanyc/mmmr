@@ -19,17 +19,17 @@ def get_menu(seat_number):
     """
     pos = (seat_number - 1) % 10 + 1
     if 1 <= pos <= 5:
-        return 'daging'
+        return 'Daging'
     elif 6 <= pos <= 8:
-        return 'ayam'
+        return 'Ayam'
     else:
-        return 'ikan'
+        return 'Ikan'
 
 def main():
     csv_file = "tetamu.csv"
     output_file = "guest_seat.csv"
     
-    table_number = 1
+    table_number = 13
     seat_number = 1
     table_guest_count = 0
 
@@ -42,7 +42,7 @@ def main():
             for row in reader:
                 guest_name = row['Nama']
                 guest_name = clean_txt(guest_name)
-                value = row['Jumlah Kehadiran'].strip()
+                value = row['Bil_tetamu'].strip()
                 number_guest = int(value) if value else 1
 
                 if table_guest_count + number_guest <= 10:
@@ -53,15 +53,15 @@ def main():
                                 'name': f"{guest_name.title()}",
                                 'seat': str(seat_number),
                                 'table_number': str(table_number),
-                                'kategori': 'Tajaan',
+                                'kategori': 'Tetamu',
                                 'menu': get_menu(seat_number)
                             })
                         else:
                             writer.writerow({
-                                'name': f"Ahli Keluarga #{i} {guest_name.title()}",
+                                'name': f"Tetamu #{i} {guest_name.title()}",
                                 'seat': str(seat_number),
                                 'table_number': str(table_number),
-                                'kategori': 'Tajaan',
+                                'kategori': 'Tetamu',
                                 'menu': get_menu(seat_number)
                             })
                         seat_number += 1
@@ -74,7 +74,7 @@ def main():
                             'name': f"Simpanan #{table_number}:{seat_number}",
                             'seat': str(seat_number),
                             'table_number': str(table_number),
-                            'kategori': 'Tajaan',
+                            'kategori': 'Tetamu',
                             'menu': get_menu(seat_number)
                         })
                         seat_number += 1
@@ -88,15 +88,15 @@ def main():
                                 'name': f"{guest_name.title()}",
                                 'seat': str(seat_number),
                                 'table_number': str(table_number),
-                                'kategori': 'Tajaan',
+                                'kategori': 'Tetamu',
                                 'menu': get_menu(seat_number)
                             })
                         else:
                             writer.writerow({
-                                'name': f"Ahli Keluarga #{i} {guest_name.title()}",
+                                'name': f"Tetamu #{i} {guest_name.title()}",
                                 'seat': str(seat_number),
                                 'table_number': str(table_number),
-                                'kategori': 'Tajaan',
+                                'kategori': 'Tetamu',
                                 'menu': get_menu(seat_number)
                             })
                         seat_number += 1
@@ -116,7 +116,7 @@ def main():
                             })
                         else:
                             writer.writerow({
-                                'name': f"Ahli Keluarga #{i} {guest_name.title()}",
+                                'name': f"Tetamu #{i} {guest_name.title()}",
                                 'seat': str(seat_number),
                                 'table_number': str(table_number),
                                 'kategori': 'Tajaan',
