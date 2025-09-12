@@ -45,11 +45,10 @@ def generate_pdf(guests, output_file):
         # Table data
         data = [["Tetamu", "Siri", "Menu"]]
         for name, seat, menu in entries:
-            name_paragraph = Paragraph(name, styles['Normal'])
-            data.append([name_paragraph, seat, menu])
+            data.append([name, seat, menu])
 
         # Create and style the table
-        table = Table(data, colWidths=(300, 50))
+        table = Table(data, colWidths=(300, 50, 50))  # Fixed to have 3 column widths
         table.setStyle(TableStyle([
             ('BACKGROUND', (0, 0), (-1, 0), '#cccccc'),
             ('ALIGN', (0, 0), (-1, -1), 'LEFT'),
