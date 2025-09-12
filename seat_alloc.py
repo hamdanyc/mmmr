@@ -75,7 +75,7 @@ def main():
                             'seat': str(seat_number),
                             'table_number': str(table_number),
                             'kategori': 'Tetamu',
-                            'menu': get_menu(seat_number)
+                            'menu': ''
                         })
                         seat_number += 1
                     table_guest_count = 0
