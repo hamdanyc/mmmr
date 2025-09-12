@@ -95,7 +95,6 @@ with col1:
         mode="gauge+number",
         value=percentage,
         domain={'x': [0, 1], 'y': [0, 1]},
-        title={'text': "Tajaan"},
         gauge={
             'axis': {'range': [0, 100], 'tickwidth': 1, 'tickcolor': "black"},
             'bar': {'color': "black"},
@@ -129,7 +128,6 @@ with col2:
         mode="gauge+number",
         value=guests_percentage,
         domain={'x': [0, 1], 'y': [0, 1]},
-        title={'text': "Tetamu"},
         gauge={
             'axis': {'range': [0, 100], 'tickwidth': 1, 'tickcolor': "black"},
             'bar': {'color': "black"},
