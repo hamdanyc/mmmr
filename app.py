@@ -20,17 +20,17 @@ else:
     days = delta.days
     hours, remainder = divmod(delta.seconds, 3600)
     minutes, seconds = divmod(remainder, 60)
-    countdown_text = f"{days} hari: {hours} jam: {minutes} min: {seconds} saat"
+    countdown_text = f"{days} days: {hours} hours: {minutes} minutes: {seconds} seconds"
 
 # 1. Table Layout Grid (Responsive)
-st.markdown("<h2 style='text-align: right; color: red; font-weight: bold'</h2>"f"⏳ Detik Pelaksanaan: {countdown_text}", unsafe_allow_html=True)
+st.markdown("<h2 style='text-align: right; color: red; font-weight: bold'</h2>"f"⏳ Countdown: {countdown_text}", unsafe_allow_html=True)
 st.markdown("<h2 style='text-align: center; color: blue; font-weight: bold'>Majlis Makan Malam RAFOC | 14 Dis 2025</h2>", unsafe_allow_html=True)
 st.markdown("<h2 style='text-align: center; color: blue; font-weight: bold'>Status Tempahan Meja | Tajaan | Tetamu</h2>", unsafe_allow_html=True)
 st.markdown("<h3 style='color: #00008B;'>🗺️ Tempahan Meja</h3>", unsafe_allow_html=True)
 
 # Filter MR tables only
-mr_tables = tetamu_df['No_Meja'].astype(int)
-booked_tables = set(mr_tables)
+tables = tetamu_df['No_Meja'].astype(int)
+booked_tables = set(tables)
 
 # Generate responsive grid with 8 rows and 6 columns
 grid_html = """
@@ -65,8 +65,8 @@ grid_html = """
 <div class="table-grid">
 """
 
-# Create 8 rows with 6 columns each (48 tables total)
-for row in range(8):
+# Create 10 rows with 6 columns each (60 tables total)
+for row in range(10):
     for col in range(6):
         table_number = row * 6 + col + 1 
         table_id = f"R{table_number}"
@@ -122,7 +122,7 @@ with col1:
 # Tetamu Gauge
 with col2:
     total_guests = len(tetamu_df)
-    guests_target = 500
+    guests_target = 600
     guests_percentage = (total_guests / guests_target) * 100 if guests_target > 0 else 0
 
     fig_guests = go.Figure(go.Indicator(
@@ -171,7 +171,7 @@ st.markdown(
     """
     <style>
     body {
-        background-color: #1e1e1e;
+        background-color: blue;
         color: #f5f5f5;
         font-family: Arial, sans-serif;
     }
