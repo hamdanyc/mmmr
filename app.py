@@ -30,7 +30,17 @@ st.markdown("<h2 style='text-align: center; color: blue; font-weight: bold'>Stat
 st.markdown("<h3 style='color: #00008B;'>🗺️ Tempahan Meja</h3>", unsafe_allow_html=True)
 
 # Create a dictionary mapping table numbers to wakil names
-table_wakil_map = dict(zip(tempah_df['Nama'], tempah_df['Wakil']))
+table_wakil_map = {}
+for _, row in tempah_df.iterrows():
+    table_name = row['Nama']
+    if table_name.startswith("R"):
+        table_wakil_map[table_name] = row['Wakil']
+    else:
+        # Try to match with table numbers in the format "Table X"
+        if " " in table_name:
+            table_number = table_name.split(" ")[1]
+            if table_number.isdigit():
+                table_wakil_map[f"R{table_number}"] = row['Wakil']
 
 # Filter MR tables only
 tables = tetamu_df['table_number'].astype(int)
