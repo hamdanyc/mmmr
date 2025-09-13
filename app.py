@@ -9,6 +9,7 @@ st.set_page_config(page_title="Majlis Makan Malam RAFOC 2025", layout="wide")
 # Load data
 tetamu_df = pd.read_csv("guest_seat.csv")
 tajaan_df = pd.read_csv("tajaan.csv")
+tempah_df = pd.read_csv("tempahan.csv")
 
 # Countdown to event
 event_date = datetime(2025, 12, 14)
@@ -28,9 +29,9 @@ st.markdown("<h2 style='text-align: center; color: blue; font-weight: bold'>Majl
 st.markdown("<h2 style='text-align: center; color: blue; font-weight: bold'>Status Tempahan Meja | Tajaan | Tetamu</h2>", unsafe_allow_html=True)
 st.markdown("<h3 style='color: #00008B;'>🗺️ Tempahan Meja</h3>", unsafe_allow_html=True)
 
-# Filter MR tables only
-tables = tetamu_df['table_number'].astype(int)
-booked_tables = set(tables)
+# Get wakil names in the same order as booked tables
+wakil_names = tempah_df['Nama'].tolist()
+booked_tables = tetamu_df['table_number'].astype(int).tolist()
 
 # Generate responsive grid with 8 rows and 6 columns
 grid_html = """
@@ -52,6 +53,7 @@ grid_html = """
         color: black;
         padding: 10px;
         text-align: center;
+        flex-direction: column;
     }
     .booked { background-color: #00FFFF; } /* Aqua */
     .vacant { background-color: #778899; } /* Grey */
@@ -66,12 +68,16 @@ grid_html = """
 """
 
 # Create 10 rows with 6 columns each (60 tables total)
+wakil_index = 0
 for row in range(10):
     for col in range(6):
         table_number = row * 6 + col + 1 
         table_id = f"R{table_number}"
-        if table_number in booked_tables:
-            grid_html += f'<div class="table-cell booked">{table_id}</div>'
+        
+        # If this table is in the booked tables list and we still have wakil names
+        if table_number in booked_tables and wakil_index < len(wakil_names):
+            grid_html += f'<div class="table-cell booked">{table_id}<br>{wakil_names[wakil_index]}</div>'
+            wakil_index += 1
         else:
             grid_html += f'<div class="table-cell vacant">{table_id}</div>'
 
