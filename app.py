@@ -30,7 +30,7 @@ st.markdown("<h2 style='text-align: center; color: blue; font-weight: bold'>Stat
 st.markdown("<h3 style='color: #00008B;'>🗺️ Tempahan Meja</h3>", unsafe_allow_html=True)
 
 # Get wakil names in the same order as booked tables
-wakil_names = tempah_df['Wakil'].tolist()
+wakil_names = tempah_df['Nama'].tolist()
 booked_tables = tetamu_df['table_number'].astype(int).tolist()
 
 # Generate responsive grid with 8 rows and 6 columns
@@ -76,7 +76,7 @@ for row in range(10):
         
         # If this table is in the booked tables list and we still have wakil names
         if table_number in booked_tables and wakil_index < len(wakil_names):
-            grid_html += f'<div class="table-cell booked">{table_id}<br>{wakil_names[wakil_index]}</div>'
+            grid_html += f'<div class="table-cell booked">{table_id} | {wakil_names[wakil_index]}</div>'
             wakil_index += 1
         else:
             grid_html += f'<div class="table-cell vacant">{table_id}</div>'

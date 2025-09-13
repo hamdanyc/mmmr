@@ -13,14 +13,14 @@ def get_menu(seat_number):
     """
     Determine menu type based on seat position within the table.
     Menu distribution:
-        daging: 1-5 (5 seats)
-        ayam: 6-8 (3 seats)
-        ikan: 9-10 (2 seats)
+        daging: 1-4 (4 seats)
+        ayam: 5-7 (3 seats)
+        ikan: 8 (1 seats)
     """
-    pos = (seat_number - 1) % 10 + 1
-    if 1 <= pos <= 5:
+    pos = (seat_number - 1) % 8 + 1
+    if 1 <= pos <= 4:
         return 'Daging'
-    elif 6 <= pos <= 8:
+    elif 5 <= pos <= 7:
         return 'Ayam'
     else:
         return 'Ikan'
@@ -29,7 +29,7 @@ def main():
     csv_file = "tempahan.csv"
     output_file = "guest_seat.csv"
     
-    table_number = 13
+    table_number = 13 # Table 1 - 12 premium pax
     seat_number = 1
     table_guest_count = 0
 
@@ -45,7 +45,7 @@ def main():
                 value = row['Bil_tetamu'].strip()
                 number_guest = int(value) if value else 1
 
-                if table_guest_count + number_guest <= 10:
+                if table_guest_count + number_guest <= 8:
                     # Add to current table
                     for i in range(1, number_guest + 1):
                         if i == 1:
@@ -67,8 +67,8 @@ def main():
                         seat_number += 1
                     table_guest_count += number_guest
 
-                elif table_guest_count < 10:
-                    remaining = 10 - table_guest_count
+                elif table_guest_count < 8:
+                    remaining = 8 - table_guest_count
                     for i in range(1, remaining + 1):
                         writer.writerow({
                             'name': f"Simpanan #{table_number}:{seat_number}",
