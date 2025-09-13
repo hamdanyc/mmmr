@@ -1,5 +1,5 @@
 name,seat,table_number,menu,category
-Op 75 | Kol Md Nor Azam (B),1,13,Daging,Tetamu
+Op 75,1,13,Daging,Tetamu
 Tetamu #2,2,13,Daging,Tetamu
 Tetamu #3,3,13,Daging,Tetamu
 Tetamu #4,4,13,Daging,Tetamu
@@ -7,11 +7,59 @@ Tetamu #5,5,13,Ayam,Tetamu
 Tetamu #6,6,13,Ayam,Tetamu
 Tetamu #7,7,13,Ayam,Tetamu
 Tetamu #8,8,13,Ikan,Tetamu
-MMU | KKO,9,14,Daging,Tajaan
-Tetamu #2 MMU | KKO,10,14,Daging,Tajaan
-Tetamu #3 MMU | KKO,11,14,Daging,Tajaan
-Tetamu #4 MMU | KKO,12,14,Daging,Tajaan
-Tetamu #5 MMU | KKO,13,14,Ayam,Tajaan
-Tetamu #6 MMU | KKO,14,14,Ayam,Tajaan
-Tetamu #7 MMU | KKO,15,14,Ayam,Tajaan
-Tetamu #8 MMU | KKO,16,14,Ikan,Tajaan
+MMU,9,14,Daging,Tajaan
+Tetamu #2 MMU,10,14,Daging,Tajaan
+Tetamu #3 MMU,11,14,Daging,Tajaan
+Tetamu #4 MMU,12,14,Daging,Tajaan
+Tetamu #5 MMU,13,14,Ayam,Tajaan
+Tetamu #6 MMU,14,14,Ayam,Tajaan
+Tetamu #7 MMU,15,14,Ayam,Tajaan
+Tetamu #8 MMU,16,14,Ikan,Tajaan
+Intake 26 #1,17,15,Daging,Tajaan
+Tetamu #2 Intake 26 #1,18,15,Daging,Tajaan
+Tetamu #3 Intake 26 #1,19,15,Daging,Tajaan
+Tetamu #4 Intake 26 #1,20,15,Daging,Tajaan
+Tetamu #5 Intake 26 #1,21,15,Ayam,Tajaan
+Tetamu #6 Intake 26 #1,22,15,Ayam,Tajaan
+Tetamu #7 Intake 26 #1,23,15,Ayam,Tajaan
+Tetamu #8 Intake 26 #1,24,15,Ikan,Tajaan
+Intake 26 #2,25,16,Daging,Tajaan
+Tetamu #2 Intake 26 #2,26,16,Daging,Tajaan
+Tetamu #3 Intake 26 #2,27,16,Daging,Tajaan
+Tetamu #4 Intake 26 #2,28,16,Daging,Tajaan
+Tetamu #5 Intake 26 #2,29,16,Ayam,Tajaan
+Tetamu #6 Intake 26 #2,30,16,Ayam,Tajaan
+Tetamu #7 Intake 26 #2,31,16,Ayam,Tajaan
+Tetamu #8 Intake 26 #2,32,16,Ikan,Tajaan
+Intake 26 #3,33,17,Daging,Tajaan
+Tetamu #2 Intake 26 #3,34,17,Daging,Tajaan
+Tetamu #3 Intake 26 #3,35,17,Daging,Tajaan
+Tetamu #4 Intake 26 #3,36,17,Daging,Tajaan
+Tetamu #5 Intake 26 #3,37,17,Ayam,Tajaan
+Tetamu #6 Intake 26 #3,38,17,Ayam,Tajaan
+Tetamu #7 Intake 26 #3,39,17,Ayam,Tajaan
+Tetamu #8 Intake 26 #3,40,17,Ikan,Tajaan
+Intake 26 #4,41,18,Daging,Tajaan
+Tetamu #2 Intake 26 #4,42,18,Daging,Tajaan
+Tetamu #3 Intake 26 #4,43,18,Daging,Tajaan
+Tetamu #4 Intake 26 #4,44,18,Daging,Tajaan
+Tetamu #5 Intake 26 #4,45,18,Ayam,Tajaan
+Tetamu #6 Intake 26 #4,46,18,Ayam,Tajaan
+Tetamu #7 Intake 26 #4,47,18,Ayam,Tajaan
+Tetamu #8 Intake 26 #4,48,18,Ikan,Tajaan
+Intake 26 #5,49,19,Daging,Tajaan
+Tetamu #2 Intake 26 #5,50,19,Daging,Tajaan
+Tetamu #3 Intake 26 #5,51,19,Daging,Tajaan
+Tetamu #4 Intake 26 #5,52,19,Daging,Tajaan
+Tetamu #5 Intake 26 #5,53,19,Ayam,Tajaan
+Tetamu #6 Intake 26 #5,54,19,Ayam,Tajaan
+Tetamu #7 Intake 26 #5,55,19,Ayam,Tajaan
+Tetamu #8 Intake 26 #5,56,19,Ikan,Tajaan
+Intake 26 #6,57,20,Daging,Tajaan
+Tetamu #2 Intake 26 #6,58,20,Daging,Tajaan
+Tetamu #3 Intake 26 #6,59,20,Daging,Tajaan
+Tetamu #4 Intake 26 #6,60,20,Daging,Tajaan
+Tetamu #5 Intake 26 #6,61,20,Ayam,Tajaan
+Tetamu #6 Intake 26 #6,62,20,Ayam,Tajaan
+Tetamu #7 Intake 26 #6,63,20,Ayam,Tajaan
+Tetamu #8 Intake 26 #6,64,20,Ikan,Tajaan
