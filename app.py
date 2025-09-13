@@ -29,23 +29,9 @@ st.markdown("<h2 style='text-align: center; color: blue; font-weight: bold'>Majl
 st.markdown("<h2 style='text-align: center; color: blue; font-weight: bold'>Status Tempahan Meja | Tajaan | Tetamu</h2>", unsafe_allow_html=True)
 st.markdown("<h3 style='color: #00008B;'>🗺️ Tempahan Meja</h3>", unsafe_allow_html=True)
 
-# Create a dictionary mapping table numbers to wakil names
-table_wakil_map = {}
-for _, row in tempah_df.iterrows():
-    table_name = row['Nama']
-    if table_name.startswith("R"):
-        table_wakil_map[table_name] = row['Wakil']
-    else:
-        # Try to match with table numbers in the format "Table X"
-        if " " in table_name:
-            table_number = table_name.split(" ")[1]
-            if table_number.isdigit():
-                table_wakil_map[f"R{table_number}"] = row['Wakil']
-
-# Filter MR tables only
-tables = tetamu_df['table_number'].astype(int)
-booked_tables = set(tables)
-booked_id = list(tempah_df["Nama"])
+# Get wakil names in the same order as booked tables
+wakil_names = tempah_df['Wakil'].tolist()
+booked_tables = tetamu_df['table_number'].astype(int).tolist()
 
 # Generate responsive grid with 8 rows and 6 columns
 grid_html = """
@@ -82,14 +68,16 @@ grid_html = """
 """
 
 # Create 10 rows with 6 columns each (60 tables total)
+wakil_index = 0
 for row in range(10):
     for col in range(6):
         table_number = row * 6 + col + 1 
         table_id = f"R{table_number}"
-        if table_number in booked_tables:
-            # Find the corresponding wakil from the mapping
-            wakil_name = table_wakil_map.get(f"R{table_number}", "")
-            grid_html += f'<div class="table-cell booked">{table_id}<br>{wakil_name}</div>'
+        
+        # If this table is in the booked tables list and we still have wakil names
+        if table_number in booked_tables and wakil_index < len(wakil_names):
+            grid_html += f'<div class="table-cell booked">{table_id}<br>{wakil_names[wakil_index]}</div>'
+            wakil_index += 1
         else:
             grid_html += f'<div class="table-cell vacant">{table_id}</div>'
 
