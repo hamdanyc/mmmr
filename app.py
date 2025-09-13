@@ -76,7 +76,7 @@ for row in range(10):
         
         # If this table is in the booked tables list and we still have wakil names
         if table_number in booked_tables and wakil_index < len(wakil_names):
-            grid_html += f'<div class="table-cell booked">{table_id}<br>{wakil_names[wakil_index]}</div>'
+            grid_html += f'<div class="table-cell booked">{table_id} | {wakil_names[wakil_index]}</div>'
             wakil_index += 1
         else:
             grid_html += f'<div class="table-cell vacant">{table_id}</div>'
