@@ -29,6 +29,9 @@ st.markdown("<h2 style='text-align: center; color: blue; font-weight: bold'>Majl
 st.markdown("<h2 style='text-align: center; color: blue; font-weight: bold'>Status Tempahan Meja | Tajaan | Tetamu</h2>", unsafe_allow_html=True)
 st.markdown("<h3 style='color: #00008B;'>🗺️ Tempahan Meja</h3>", unsafe_allow_html=True)
 
+# Create a dictionary mapping table numbers to wakil names
+table_wakil_map = dict(zip(tempah_df['Nama'], tempah_df['Wakil']))
+
 # Filter MR tables only
 tables = tetamu_df['table_number'].astype(int)
 booked_tables = set(tables)
@@ -54,6 +57,7 @@ grid_html = """
         color: black;
         padding: 10px;
         text-align: center;
+        flex-direction: column;
     }
     .booked { background-color: #00FFFF; } /* Aqua */
     .vacant { background-color: #778899; } /* Grey */
@@ -73,7 +77,9 @@ for row in range(10):
         table_number = row * 6 + col + 1 
         table_id = f"R{table_number}"
         if table_number in booked_tables:
-            grid_html += f'<div class="table-cell booked">{table_id}{booked_id[0]}</div>'
+            # Find the corresponding wakil from the mapping
+            wakil_name = table_wakil_map.get(f"R{table_number}", "")
+            grid_html += f'<div class="table-cell booked">{table_id}<br>{wakil_name}</div>'
         else:
             grid_html += f'<div class="table-cell vacant">{table_id}</div>'
 
