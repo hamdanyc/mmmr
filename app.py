@@ -7,7 +7,7 @@ from datetime import datetime
 st.set_page_config(page_title="Majlis Makan Malam RAFOC 2025", layout="wide")
 
 # Load data
-tetamu_df = pd.read_csv("tetamu.csv")
+tetamu_df = pd.read_csv("guest_seat.csv")
 tajaan_df = pd.read_csv("tajaan.csv")
 
 # Countdown to event
@@ -29,7 +29,7 @@ st.markdown("<h2 style='text-align: center; color: blue; font-weight: bold'>Stat
 st.markdown("<h3 style='color: #00008B;'>🗺️ Tempahan Meja</h3>", unsafe_allow_html=True)
 
 # Filter MR tables only
-tables = tetamu_df['No_Meja'].astype(int)
+tables = tetamu_df['table_number'].astype(int)
 booked_tables = set(tables)
 
 # Generate responsive grid with 8 rows and 6 columns
@@ -78,9 +78,6 @@ for row in range(10):
 grid_html += "</div>"
 st.markdown(grid_html, unsafe_allow_html=True)
 
-# 2. Tajaan vs Target with Gauge Meter
-# 3. Tetamu with Gauge Meter
-# 4. Menu Preferences - Display all in columns
 st.markdown("<h3 style='color: #00008B;'>💰 Tajaan & 👥 Tetamu</h3>", unsafe_allow_html=True)
 
 col1, col2, col3 = st.columns(3)
@@ -120,7 +117,8 @@ with col1:
 
 # Tetamu Gauge
 with col2:
-    total_guests = len(tetamu_df)
+    total_simpanan = tetamu_df['name'].str.contains('simpanan', case=False).sum()
+    total_guests = len(tetamu_df) - total_simpanan
     guests_target = 600
     guests_percentage = (total_guests / guests_target) * 100 if guests_target > 0 else 0
 
@@ -154,7 +152,7 @@ with col2:
 # Menu Preferences
 with col3:
     st.markdown("<h3 style='color: #00008B;'>🍽️ Menu Pilihan</h3>", unsafe_allow_html=True)
-    menu_counts = tetamu_df['Menu'].value_counts()
+    menu_counts = tetamu_df['menu'].value_counts()
     menu_icons = {
         "Daging": "🥩",
         "Ayam": "🍗",
