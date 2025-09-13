@@ -9,6 +9,7 @@ st.set_page_config(page_title="Majlis Makan Malam RAFOC 2025", layout="wide")
 # Load data
 tetamu_df = pd.read_csv("guest_seat.csv")
 tajaan_df = pd.read_csv("tajaan.csv")
+tempah_df = pd.read_csv("tempahan.csv")
 
 # Countdown to event
 event_date = datetime(2025, 12, 14)
@@ -31,6 +32,7 @@ st.markdown("<h3 style='color: #00008B;'>🗺️ Tempahan Meja</h3>", unsafe_all
 # Filter MR tables only
 tables = tetamu_df['table_number'].astype(int)
 booked_tables = set(tables)
+booked_id = list(tempah_df["Nama"])
 
 # Generate responsive grid with 8 rows and 6 columns
 grid_html = """
@@ -71,7 +73,7 @@ for row in range(10):
         table_number = row * 6 + col + 1 
         table_id = f"R{table_number}"
         if table_number in booked_tables:
-            grid_html += f'<div class="table-cell booked">{table_id}</div>'
+            grid_html += f'<div class="table-cell booked">{table_id}{booked_id[0]}</div>'
         else:
             grid_html += f'<div class="table-cell vacant">{table_id}</div>'
 
