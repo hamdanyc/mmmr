@@ -37,7 +37,7 @@ def assign_seats(guests_df, simpanan_df):
             else:
                 # If no simpanan, add "reserve" entries for remaining seats
                 for _ in range(8 - remaining_guests):
-                    group_df = pd.concat([group_df, pd.DataFrame([{'name': 'reserve', 'menu': '', 'gp_id': gp_id}])], 
+                    group_df = pd.concat([group_df, pd.DataFrame([{'name': 'simpanan', 'menu': '', 'gp_id': gp_id}])], 
                                        ignore_index=True)
         
         # Assign tables for this group
