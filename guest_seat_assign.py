@@ -72,14 +72,22 @@ def process_guest_files():
         file_path = os.path.join(tempahan_folder, file)
         group_df = read_csv_file(file_path)
         
-        # Extract gp_id from filename (text after '-')
-        gp_id_match = re.search(r'-(\w+)\.', file)
+        # Extract numeric gp_id from filename (the number after 'grp')
+        gp_id_match = re.search(r'grp(\d+)', file)
         if gp_id_match:
-            gp_id = gp_id_match.group(1)
+            gp_id = int(gp_id_match.group(1))
         else:
-            gp_id = "unknown"
+            gp_id = 0  # Default value if no number is found
         
-        group_df['gp_id'] = gp_id  # Add gp_id with group identifier
+        # Extract group name from filename (text after '-')
+        gp_name_match = re.search(r'-(.*?)(?:\.|$)', file)
+        if gp_name_match:
+            gp_name = gp_name_match.group(1)
+        else:
+            gp_name = "unknown"
+        
+        group_df['gp_id'] = gp_id  # Add gp_id with numeric group identifier
+        group_df['gp_name'] = gp_name  # Add gp_name with group name from filename
         
         # Set default menu to 'Daging' if menu is NULL or not present
         if 'menu' not in group_df.columns:
