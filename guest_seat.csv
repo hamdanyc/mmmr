@@ -1,65 +1,121 @@
-name,seat,table_number,menu,category
-Op 75,1,13,Daging,Tetamu
-Tetamu #2,2,13,Daging,Tetamu
-Tetamu #3,3,13,Daging,Tetamu
-Tetamu #4,4,13,Daging,Tetamu
-Tetamu #5,5,13,Ayam,Tetamu
-Tetamu #6,6,13,Ayam,Tetamu
-Tetamu #7,7,13,Ayam,Tetamu
-Tetamu #8,8,13,Ikan,Tetamu
-MMU,9,14,Daging,Tajaan
-Tetamu #2 MMU,10,14,Daging,Tajaan
-Tetamu #3 MMU,11,14,Daging,Tajaan
-Tetamu #4 MMU,12,14,Daging,Tajaan
-Tetamu #5 MMU,13,14,Ayam,Tajaan
-Tetamu #6 MMU,14,14,Ayam,Tajaan
-Tetamu #7 MMU,15,14,Ayam,Tajaan
-Tetamu #8 MMU,16,14,Ikan,Tajaan
-Intake 26 #1,17,15,Daging,Tajaan
-Tetamu #2 Intake 26 #1,18,15,Daging,Tajaan
-Tetamu #3 Intake 26 #1,19,15,Daging,Tajaan
-Tetamu #4 Intake 26 #1,20,15,Daging,Tajaan
-Tetamu #5 Intake 26 #1,21,15,Ayam,Tajaan
-Tetamu #6 Intake 26 #1,22,15,Ayam,Tajaan
-Tetamu #7 Intake 26 #1,23,15,Ayam,Tajaan
-Tetamu #8 Intake 26 #1,24,15,Ikan,Tajaan
-Intake 26 #2,25,16,Daging,Tajaan
-Tetamu #2 Intake 26 #2,26,16,Daging,Tajaan
-Tetamu #3 Intake 26 #2,27,16,Daging,Tajaan
-Tetamu #4 Intake 26 #2,28,16,Daging,Tajaan
-Tetamu #5 Intake 26 #2,29,16,Ayam,Tajaan
-Tetamu #6 Intake 26 #2,30,16,Ayam,Tajaan
-Tetamu #7 Intake 26 #2,31,16,Ayam,Tajaan
-Tetamu #8 Intake 26 #2,32,16,Ikan,Tajaan
-Intake 26 #3,33,17,Daging,Tajaan
-Tetamu #2 Intake 26 #3,34,17,Daging,Tajaan
-Tetamu #3 Intake 26 #3,35,17,Daging,Tajaan
-Tetamu #4 Intake 26 #3,36,17,Daging,Tajaan
-Tetamu #5 Intake 26 #3,37,17,Ayam,Tajaan
-Tetamu #6 Intake 26 #3,38,17,Ayam,Tajaan
-Tetamu #7 Intake 26 #3,39,17,Ayam,Tajaan
-Tetamu #8 Intake 26 #3,40,17,Ikan,Tajaan
-Intake 26 #4,41,18,Daging,Tajaan
-Tetamu #2 Intake 26 #4,42,18,Daging,Tajaan
-Tetamu #3 Intake 26 #4,43,18,Daging,Tajaan
-Tetamu #4 Intake 26 #4,44,18,Daging,Tajaan
-Tetamu #5 Intake 26 #4,45,18,Ayam,Tajaan
-Tetamu #6 Intake 26 #4,46,18,Ayam,Tajaan
-Tetamu #7 Intake 26 #4,47,18,Ayam,Tajaan
-Tetamu #8 Intake 26 #4,48,18,Ikan,Tajaan
-Intake 26 #5,49,19,Daging,Tajaan
-Tetamu #2 Intake 26 #5,50,19,Daging,Tajaan
-Tetamu #3 Intake 26 #5,51,19,Daging,Tajaan
-Tetamu #4 Intake 26 #5,52,19,Daging,Tajaan
-Tetamu #5 Intake 26 #5,53,19,Ayam,Tajaan
-Tetamu #6 Intake 26 #5,54,19,Ayam,Tajaan
-Tetamu #7 Intake 26 #5,55,19,Ayam,Tajaan
-Tetamu #8 Intake 26 #5,56,19,Ikan,Tajaan
-Intake 26 #6,57,20,Daging,Tajaan
-Tetamu #2 Intake 26 #6,58,20,Daging,Tajaan
-Tetamu #3 Intake 26 #6,59,20,Daging,Tajaan
-Tetamu #4 Intake 26 #6,60,20,Daging,Tajaan
-Tetamu #5 Intake 26 #6,61,20,Ayam,Tajaan
-Tetamu #6 Intake 26 #6,62,20,Ayam,Tajaan
-Tetamu #7 Intake 26 #6,63,20,Ayam,Tajaan
-Tetamu #8 Intake 26 #6,64,20,Ikan,Tajaan
+name,menu,gp_id,gp_name,table_number,seat
+TSAJ,Daging,1,tjp27,13,1
+James Lee JT,Ayam,1,tjp27,13,2
+Mohd Naser Yusoff,Ikan,1,tjp27,13,3
+A Aziz Ahmad,Ikan,1,tjp27,13,4
+Mohd Noor Daud,Ikan,1,tjp27,13,5
+Mohd Aleemin Othman,Daging,1,tjp27,13,6
+Syed A Aziz,Daging,1,tjp27,13,7
+Mad Zain Salihin,Ikan,1,tjp27,13,8
+Yusseri Yusof,Daging,1,tjp27,14,1
+TSHK,Daging,1,tjp27,14,2
+Md Yon Sapon,Daging,1,tjp27,14,3
+Abd Rahman Abd Majid,Daging,1,tjp27,14,4
+Musa bin Omar,Ikan,1,tjp27,14,5
+Azizan bin Shaari,Daging,1,tjp27,14,6
+Irfan Bakti,Ikan,1,tjp27,14,7
+Ismail Kamat,Daging,1,tjp27,14,8
+Sabri Adam,Ikan,1,tjp27,15,1
+Peter Runin,Ayam,1,tjp27,15,2
+Mohammad Yusof (Mat Ganu),Ikan,1,tjp27,15,3
+Ahmad Fhozi,Ikan,1,tjp27,15,4
+Mohamad Rom Ismail,Ikan,1,tjp27,15,5
+Adnan Ariffin,Daging,1,tjp27,15,6
+Salleh Ahmad,Ikan,1,tjp27,15,7
+Zulkefli Mohd Noor,Ayam,1,tjp27,15,8
+Lim Kim Fong,Ikan,1,tjp27,16,1
+Mohd Ali bin Husin,Daging,1,tjp27,16,2
+Asmuni Takriff,Daging,1,tjp27,16,3
+Mohamad Sani B Sumarnak,Ikan,1,tjp27,16,4
+Ahmad Shakir,Ikan,1,tjp27,16,5
+Abd Samat Bin Said,Daging,1,tjp27,16,6
+James Lam Mun Loong,Ayam,1,tjp27,16,7
+Mong Kok Liong,Daging,1,tjp27,16,8
+Mansor Zain,Daging,1,tjp27,17,1
+Mohammad Alta Tabor,Daging,1,tjp27,17,2
+TSRS,Daging,1,tjp27,17,3
+Zainuddin Arshad,Ikan,1,tjp27,17,4
+Baharuddin Yassin,Daging,1,tjp27,17,5
+Mazlan Abas,Ikan,1,tjp27,17,6
+Ayub Shaharum,Daging,1,tjp27,17,7
+Mustaffa bin Abu Bakar,Ikan,1,tjp27,17,8
+Ee Teck Chee,Ayam,1,tjp27,18,1
+Abd Rahman Hussin,Daging,1,tjp27,18,2
+Halim bin Mat,Ikan,1,tjp27,18,3
+Kwok HK,Ikan,1,tjp27,18,4
+Othman bin Ayub,Daging,1,tjp27,18,5
+Ishak Yeop,Daging,1,tjp27,18,6
+Chong HL,Ikan,1,tjp27,18,7
+Leong Kuan,Ayam,1,tjp27,18,8
+Ismail Bakar,Ikan,1,tjp27,19,1
+Mohd Noh LM,Ikan,1,tjp27,19,2
+Ahmad Tarmizi,Daging,1,tjp27,19,3
+Gerard Dennis Singam,Daging,1,tjp27,19,4
+Majid Norudin,Daging,1,tjp27,19,5
+simpanan,,1,,19,6
+simpanan,,1,,19,7
+simpanan,,1,,19,8
+Kol Mohd Azam,Daging,2,op72,20,1
+simpanan,,2,,20,2
+simpanan,,2,,20,3
+simpanan,,2,,20,4
+simpanan,,2,,20,5
+simpanan,,2,,20,6
+simpanan,,2,,20,7
+simpanan,,2,,20,8
+Hamdan Yaccob Kol (B),Daging,3,ajk,21,1
+Hamdan Yaccob Kol (B) Isteri,Daging,3,ajk,21,2
+Abdullah Khir Lt Kol (B) TUDM,Daging,3,ajk,21,3
+Abdullah Khir Lt Kol (B) TUDM Isteri,Daging,3,ajk,21,4
+Mohd Taufik Omar Mej (B),Daging,3,ajk,21,5
+Mohd Taufik Omar Mej (B) Isteri,Daging,3,ajk,21,6
+Mohd Zainuri Lt Kol (B) TUDM ,Daging,3,ajk,21,7
+Mohd Zainuri Lt Kol (B) TUDM Isteri,Daging,3,ajk,21,8
+Asmah Kapt (B),Daging,3,ajk,22,1
+Hassan Sabri bin Sallehuddin Mej (B),Daging,3,ajk,22,2
+Syed Salim Kdr (B) TLDM,Daging,3,ajk,22,3
+Syed Salim Kdr (B) TLDM Ahli Keluarga,Daging,3,ajk,22,4
+Lt Kol Hashimah bt Hassan TUDM (B),Daging,3,ajk,22,5
+Mior Mohd Zubir Lt Kol (B) TUDM,Daging,3,ajk,22,6
+Mior Mohd Zubir Lt Kol (B) TUDM Isteri,Daging,3,ajk,22,7
+Phua HS Lt Kdr (B),Daging,3,ajk,22,8
+Phua HS Lt Kdr (B) Isteri,Daging,3,ajk,23,1
+Mej Tengku Nazri (B),Daging,3,ajk,23,2
+Isteri Mej Tengku Nazri (B),Daging,3,ajk,23,3
+Mohammad Yusalie Lt Kdr (B) TLDM,Daging,3,ajk,23,4
+Mohammad Yusalie Lt Kdr (B) TLDM Isteri,Daging,3,ajk,23,5
+simpanan,,3,,23,6
+simpanan,,3,,23,7
+simpanan,,3,,23,8
+Tetamu Khas #1,Daging,4,khas,24,1
+Tetamu Khas #2,Daging,4,khas,24,2
+Tetamu Khas #3,Daging,4,khas,24,3
+Tetamu Khas #4,Daging,4,khas,24,4
+Tetamu Khas #5,Daging,4,khas,24,5
+Tetamu Khas #6,Ikan,4,khas,24,6
+Tetamu Khas #7,Ikan,4,khas,24,7
+Tetamu Khas #8,Ikan,4,khas,24,8
+Tetamu Khas #9,Daging,4,khas,25,1
+Tetamu Khas #10,Daging,4,khas,25,2
+Tetamu Khas #11,Daging,4,khas,25,3
+Tetamu Khas #12,Daging,4,khas,25,4
+Tetamu Khas #13,Daging,4,khas,25,5
+Tetamu Khas #14,Ikan,4,khas,25,6
+Tetamu Khas #15,Ikan,4,khas,25,7
+Tetamu Khas #16,Ikan,4,khas,25,8
+Tetamu Istana Perlis #1,Daging,5,perlis,26,1
+Tetamu Istana Perlis #2,Daging,5,perlis,26,2
+Tetamu Istana Perlis #3,Daging,5,perlis,26,3
+Tetamu Istana Perlis #4,Daging,5,perlis,26,4
+Tetamu Istana Perlis #5,Daging,5,perlis,26,5
+Tetamu Istana Perlis #6,Ikan,5,perlis,26,6
+Tetamu Istana Perlis #7,Ikan,5,perlis,26,7
+Tetamu Istana Perlis #8,Ikan,5,perlis,26,8
+Tetamu Istana Perlis #9,Daging,5,perlis,27,1
+Tetamu Istana Perlis #10,Daging,5,perlis,27,2
+Tetamu Istana Perlis #11,Daging,5,perlis,27,3
+Tetamu Istana Perlis #12,Daging,5,perlis,27,4
+Tetamu Istana Perlis #13,Daging,5,perlis,27,5
+Tetamu Istana Perlis #14,Ikan,5,perlis,27,6
+Tetamu Istana Perlis #15,Ikan,5,perlis,27,7
+Tetamu Istana Perlis #16,Ikan,5,perlis,27,8
