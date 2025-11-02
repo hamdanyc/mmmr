@@ -43,12 +43,12 @@ def generate_pdf(guests, output_file):
         elements.append(Spacer(1, 12))
 
         # Table data
-        data = [["Tetamu", "Menu"]]
+        data = [["Siri", "Tetamu", "Menu"]]
         for name, seat, menu in entries:
-            data.append([name, menu])
+            data.append([seat, name, menu])
 
         # Create and style the table
-        table = Table(data, colWidths=(300, 50))  # Fixed to have 3 column widths
+        table = Table(data, colWidths=(50,250,50))  # Fixed to have 3 column widths
         table.setStyle(TableStyle([
             ('BACKGROUND', (0, 0), (-1, 0), '#cccccc'),
             ('ALIGN', (0, 0), (-1, -1), 'LEFT'),
