@@ -18,7 +18,7 @@ table_number,seat,name,menu,gp_id,gp_name
 2,8,Datin Sri Noriman Mat,Ikan,1,diraja
 2,9,Simpanan DiRaja #2,Daging,1,diraja
 13,1,Mohd Azam Kol (B),Daging,13,op72
-13,2,Dato Aziz Ahmad Brig Jen (B),Daging ,13,op72
+13,2,Dato Aziz Ahmad Brig Jen (B),Daging,13,op72
 13,3,Dato Sofian Arshad,Daging,13,op72
 13,4,Dato Nasser Ahmad Mej Jen (B),Daging,13,op72
 13,5,Dato Jamil Osman Laksdya (B),Daging,13,op72
@@ -32,7 +32,7 @@ table_number,seat,name,menu,gp_id,gp_name
 14,5,Tetamu #5 MMU,Ayam,14,mmu
 14,6,Tetamu #6 MMU,Ayam,14,mmu
 14,7,Tetamu #7 MMU,Ikan,14,mmu
-14,8,Tetamu #8 MMU,Ikan,14,mmu
+14,8,Tetamu #8 MMU,Vegetarian,14,mmu
 15,1,Tan Sri Abdul Aziz Jaafar Laksamana (B),Daging,15,tjp27
 15,2,Tan Sri Roslan Saad Jen (B),Daging,15,tjp27
 15,3,Tan Sri Dato’ Wira Abd Halim Bin Karim Lt (B),Daging,15,tjp27
@@ -102,7 +102,7 @@ table_number,seat,name,menu,gp_id,gp_name
 23,3,Asmah Kapt (B),Ikan,16,ajk
 23,4,Hassan Sabri  bin Sallehuddin Mej (B),Daging,16,ajk
 23,5,Syed Salim Kdr (B) TLDM,Ayam,16,ajk
-23,6,Syed Salim Kdr (B) TLDM Ahli Keluarga,Daging ,16,ajk
+23,6,Syed Salim Kdr (B) TLDM Ahli Keluarga,Daging,16,ajk
 23,7,Lt Kol Hashimah bt Hassan TUDM (B),Daging,16,ajk
 23,8,Mior Mohd Zubir Lt Kol (B) TUDM,Daging,16,ajk
 24,1,Mior Mohd Zubir Lt Kol (B) TUDM Isteri,Daging,16,ajk
