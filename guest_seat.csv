@@ -19,12 +19,12 @@ table_number,seat,name,menu,gp_id,gp_name
 2,9,Simpanan Diraja #2,nan,1,diraja
 3,1,Datuk Baharum Lt Jen (B),Daging,2,wstar
 3,2,Mohd Amin Kol (B),Daging,2,wstar
-3,3,Mohd Amin Isteri Kol (B),Daging,2,wstar
+3,3,Mohd Amin | Isteri Kol (B),Daging,2,wstar
 3,4,Abd Razak Lt Kol (B),Daging,2,wstar
-3,5,Abd Razak Isteri Lt Kol (B),Daging,2,wstar
+3,5,Abd Razak | Isteri Lt Kol (B),Daging,2,wstar
 3,6,Alias Hassan Lt Kol (B),Daging,2,wstar
 3,7,Musa Ismail Mej (B),Daging,2,wstar
-3,8,Musa Ismail Isteri Mej (B),Daging,2,wstar
+3,8,Musa Ismail | Isteri Mej (B),Daging,2,wstar
 13,1,Mohd Azam Kol (B),Daging,13,op72
 13,2,Dato Aziz Ahmad Brig Jen (B),Daging,13,op72
 13,3,Dato Sofian Arshad,Daging,13,op72
@@ -98,34 +98,34 @@ table_number,seat,name,menu,gp_id,gp_name
 21,7,Simpanan,N/A,0,RESERVE_SEAT
 21,8,Simpanan,N/A,0,RESERVE_SEAT
 22,1,Hamdan Yaccob Kol (B),Ikan,16,ajk
-22,2,Hamdan Yaccob Kol (B) Isteri,Daging,16,ajk
+22,2,Hamdan Yaccob Kol (B) | Isteri,Daging,16,ajk
 22,3,Abdullah Khir Lt Kol (B) TUDM,nan,16,ajk
-22,4,Abdullah Khir Lt Kol (B) TUDM Isteri,nan,16,ajk
+22,4,Abdullah Khir Lt Kol (B) TUDM | Isteri,nan,16,ajk
 22,5,Mohd Taufik Omar Mej (B),nan,16,ajk
-22,6,Mohd Taufik Omar Mej (B) Isteri,nan,16,ajk
+22,6,Mohd Taufik Omar Mej (B) | Isteri,nan,16,ajk
 22,7,Mohd Zainuri Lt Kol (B) TUDM,Daging,16,ajk
-22,8,Mohd Zainuri Lt Kol (B) TUDM Isteri,Daging,16,ajk
+22,8,Mohd Zainuri Lt Kol (B) TUDM | Isteri,Daging,16,ajk
 23,1,Datuk Halim Khalid Mej Jen (B),Ikan,16,ajk
 23,2,Datin Ismanisa Dmhk,Daging,16,ajk
 23,3,Nawawi Daud Mej Jen (B),nan,16,ajk
-23,4,Nawawi Daud Mej Jen (B) Isteri,nan,16,ajk
+23,4,Nawawi Daud Mej Jen (B) | Isteri,nan,16,ajk
 23,5,Asmah Kapt (B),Ikan,16,ajk
 23,6,Hassan Sabri  Bin Sallehuddin Mej (B),Daging,16,ajk
 23,7,Syed Salim Kdr (B) TLDM,Ayam,16,ajk
 23,8,Syed Salim Kdr (B) TLDM Ahli Keluarga,Daging,16,ajk
 24,1,Lt Kol Hashimah Bt Hassan TUDM (B),Daging,16,ajk
 24,2,Mior Mohd Zubir Lt Kol (B) TUDM,nan,16,ajk
-24,3,Mior Mohd Zubir Lt Kol (B) TUDM Isteri,nan,16,ajk
+24,3,Mior Mohd Zubir Lt Kol (B) TUDM | Isteri,nan,16,ajk
 24,4,Phua HS Lt Kdr (B),Ayam,16,ajk
-24,5,Phua HS Lt Kdr (B) Isteri,Ikan,16,ajk
+24,5,Phua HS Lt Kdr (B) | Isteri,Ikan,16,ajk
 24,6,Mej Tengku Nazri (B),Daging,16,ajk
 24,7,Mohammad Yusalie Lt Kdr (B) TLDM,nan,16,ajk
-24,8,Mohammad Yusalie Lt Kdr (B) TLDM Isteri,nan,16,ajk
+24,8,Mohammad Yusalie Lt Kdr (B) TLDM | Isteri,nan,16,ajk
 25,1,Dato' Ariff Soo Mej Jen (B),Ikan,16,ajk
-25,2,Dato' Ariff Soo Mej Jen (B) Isteri,Ikan,16,ajk
+25,2,Dato' Ariff Soo Mej Jen (B) | Isteri,Ikan,16,ajk
 25,3,Kamal Omar Kol (B),Daging,16,ajk
 25,4,Lokman Mohamad Satir,Ayam,16,ajk
-25,5,Lokman Mohamad Satir Isteri,Daging,16,ajk
+25,5,Lokman Mohamad Satir | Isteri,Daging,16,ajk
 25,6,Abu Bakar Pw2,Daging,16,ajk
 25,7,Simpanan,N/A,0,RESERVE_SEAT
 25,8,Simpanan,N/A,0,RESERVE_SEAT
