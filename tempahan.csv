@@ -1,14 +1,15 @@
 Nama,Kategori,Bil_tetamu,Wakil
-DiRaja #1,9,Sekretariat
-DiRaja #2,9,Sekretariat
-OP 75,Tetamu,8,Kol Md Nor Azam (B)
-MMU,Tetamu,8,KKO
-Intake 27 #1,Tetamu,8,Sekretariat
-Intake 27 #2,Tetamu,8,Sekretariat
-Intake 27 #3,Tetamu,8,Sekretariat
-Intake 27 #4,Tetamu,8,Sekretariat
-Intake 27 #5,Tetamu,8,Sekretariat
-Intake 27 #6,Tetamu,8,Sekretariat
+DiRaja #1,Tetamu,9,Sekretariat
+DiRaja #2,Tetamu,9,Sekretariat
+WestStar,Tetamu,8,Sekretariat
+OP 75,Tajaan,8,Kol Md Nor Azam (B)
+MMU,Tajaan,8,KKO
+Intake 27 #1,Tajaan,8,Sekretariat
+Intake 27 #2,Tajaan,8,Sekretariat
+Intake 27 #3,Tajaan,8,Sekretariat
+Intake 27 #4,Tajaan,8,Sekretariat
+Intake 27 #5,Tajaan,8,Sekretariat
+Intake 27 #6,Tajaan,8,Sekretariat
 AJK #1,Tetamu,8,Sekretariat
 AJK #2,Tetamu,8,Sekretariat
 AJK #3,Tetamu,8,Sekretariat
@@ -16,3 +17,4 @@ Istana Perlis #1,Tetamu,8,Sekretariat
 Istana Perlis #2,Tetamu,8,Sekretariat
 Khas #1,Tetamu,8,Sekretariat
 Khas #2,Tetamu,8,Sekretariat
+Nawi Desa Lt Kol (B),8,Sekretariat
