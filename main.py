@@ -9,7 +9,7 @@ def load_data(csv_file):
     with open(csv_file, 'r') as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
-            data.append({'Nama': row['name'], 'Meja': row['table_number'], 'Kluster': row['gp_name']})
+            data.append({'Nama': row['name'], 'Meja': row['table_number'], 'Menu': row['menu'], 'Kluster': row['gp_name']})
     return pd.DataFrame(data)
 
 # Get DataFrame for guest search
