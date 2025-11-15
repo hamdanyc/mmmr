@@ -31,8 +31,8 @@ table_number,seat,name,menu,gp_id,gp_name
 13,4,Dato Nasser Ahmad Mej Jen (B),Daging,13,op72
 13,5,Dato Jamil Osman Laksdya (B),Daging,13,op72
 13,6,Dato Manaf Zaid Mej Jen (B),Daging,13,op72
-13,7,Hj Abdul Kadir Bin Shoib Mej (B),Daging,999,Reserve
-13,8,Kamaruddin Bin Kassim Lt Kol (B),Ikan,999,Reserve
+13,7,Kamaruddin Bin Kassim Lt Kol (B),Ikan,999,Reserve
+13,8,Rosmawati Binti Mohd Zin,Ayam,999,Reserve
 14,1,Dr M,Daging,14,mmu
 14,2,Sue,Daging,14,mmu
 14,3,Azham,Daging,14,mmu
@@ -94,44 +94,44 @@ table_number,seat,name,menu,gp_id,gp_name
 21,3,Dato’ Ahmad Tarmizi Mej Jen (B),Daging,15,intake27
 21,4,Abd Majid Bin Norudin Mej (B),Daging,15,intake27
 21,5,Kamaruddin Bin Abdullah Lt Kol (B),Daging,15,intake27
-21,6,Rosmawati Binti Mohd Zin,Ayam,999,Reserve
+21,6,Hj Abdul Kadir Bin Shoib Mej (B),nan,999,Reserve
 21,7,Simpanan,N/A,0,RESERVE_SEAT
 21,8,Simpanan,N/A,0,RESERVE_SEAT
 22,1,Hamdan Yaccob Kol (B),Ikan,16,ajk
 22,2,Hamdan Yaccob Kol (B) | Isteri,Daging,16,ajk
-22,3,Abdullah Khir Lt Kol (B) TUDM,Daging,16,ajk
+22,3,Abdullah Khir Lt Kol (B) TUDM,Ikan,16,ajk
 22,4,Abdullah Khir Lt Kol (B) TUDM | Isteri,Daging,16,ajk
 22,5,Mohd Taufik Omar Mej (B),Daging,16,ajk
-22,6,Mohd Taufik Omar Mej (B) | Isteri,Daging,16,ajk
+22,6,Mohd Taufik Omar Mej (B) | Isteri,Ikan,16,ajk
 22,7,Mohd Zainuri Lt Kol (B) TUDM,Daging,16,ajk
 22,8,Mohd Zainuri Lt Kol (B) TUDM | Isteri,Daging,16,ajk
 23,1,Datuk Halim Khalid Mej Jen (B),Ikan,16,ajk
 23,2,Datin Ismanisa Dmhk,Daging,16,ajk
-23,3,Dato' Nawawi Daud Mej Jen (B),Daging,16,ajk
-23,4,Dato' Nawawi Daud Mej Jen (B) | Isteri,Daging,16,ajk
+23,3,Dato' Nawawi Daud Mej Jen (B),nan,16,ajk
+23,4,Dato' Nawawi Daud Mej Jen (B) | Isteri,nan,16,ajk
 23,5,Asmah Kapt (B),Ikan,16,ajk
 23,6,Hassan Sabri  Bin Sallehuddin Mej (B),Daging,16,ajk
 23,7,Syed Salim Kdr (B) TLDM,Ayam,16,ajk
 23,8,Syed Salim Kdr (B) TLDM Ahli Keluarga,Daging,16,ajk
 24,1,Hashimah Bt Hassan Lt Kol (B) TUDM,Daging,16,ajk
-24,2,Mior Mohd Zubir Lt Kol (B) TUDM,Daging,16,ajk
-24,3,Mior Mohd Zubir Lt Kol (B) TUDM | Isteri,Daging,16,ajk
-24,4,Dato' Ab Manan Mansor Prof Dr,Ikan,16,ajk
-24,5,Dato' Ab Manan Mansor Prof Dr | Isteri,Daging,16,ajk
+24,2,Dato' Abd Manan Mansor Prof Dr.,Ikan,16,ajk
+24,3,Ato' Abd Manan Mansor Prof Dr. | Isteri,Daging,16,ajk
+24,4,Mior Mohd Zubir Lt Kol (B) TUDM,Daging,16,ajk
+24,5,Mior Mohd Zubir Lt Kol (B) TUDM | Isteri,Daging,16,ajk
 24,6,Phua HS Lt Kdr (B),Ayam,16,ajk
 24,7,Phua HS Lt Kdr (B) | Isteri,Ikan,16,ajk
 24,8,Tengku Nazri Mej (B),Daging,16,ajk
 25,1,Mohammad Yusalie Lt Kdr (B) TLDM,Daging,16,ajk
-25,2,Mohammad Yusalie Lt Kdr (B) TLDM | Isteri,Daging,16,ajk
+25,2,Mohammad Yusalie Lt Kdr (B) TLDM | Isteri,nan,16,ajk
 25,3,Dato' Ariff Soo Mej Jen (B),Ikan,16,ajk
 25,4,Dato' Ariff Soo Mej Jen (B) | Isteri,Ikan,16,ajk
 25,5,Kamal Omar Kol (B),Daging,16,ajk
-25,6,Dzulkarnian Lt Kol (B),Ikan,16,ajk
-25,7,Dzulkarnian Lt Kol (B) | Isteri,Daging,16,ajk
-25,8,Simpanan,nan,16,ajk
-26,1,Lokman Mohamad Satir,Ayam,16,ajk
-26,2,Lokman Mohamad Satir | Isteri,Daging,16,ajk
-26,3,Abu Bakar Pw2,Daging,16,ajk
+25,6,Zulkarnain Abdullah Lt Kol (B),Ikan,16,ajk
+25,7,Zulkarnain Abdullah Lt Kol (B) | Isteri,Ayam,16,ajk
+25,8,Lokman Mohamad Satir,Ayam,16,ajk
+26,1,Lokman Mohamad Satir | Isteri,Daging,16,ajk
+26,2,Abu Bakar Pw2,Daging,16,ajk
+26,3,Simpanan,N/A,0,RESERVE_SEAT
 26,4,Simpanan,N/A,0,RESERVE_SEAT
 26,5,Simpanan,N/A,0,RESERVE_SEAT
 26,6,Simpanan,N/A,0,RESERVE_SEAT
@@ -177,3 +177,51 @@ table_number,seat,name,menu,gp_id,gp_name
 31,6,Irhzan Bin Mohd Nor,Daging,19,nawi
 31,7,Dato' Nawawi Desa Lt Kol (B),Daging,19,nawi
 31,8,Aizat Nawawi,Daging,19,nawi
+32,1,Rmnoa #1,Daging,20,rmnoa
+32,2,Rmnoa #2,Daging,20,rmnoa
+32,3,Rmnoa #3,Daging,20,rmnoa
+32,4,Rmnoa #4,Ikan,20,rmnoa
+32,5,Rmnoa #5,Ikan,20,rmnoa
+32,6,Rmnoa #6,Ikan,20,rmnoa
+32,7,Rmnoa #7,Ikan,20,rmnoa
+32,8,Rmnoa #8,Ikan,20,rmnoa
+33,1,Kpramd #1,Daging,21,kpramd
+33,2,Kpramd #2,Daging,21,kpramd
+33,3,Kpramd #3,Daging,21,kpramd
+33,4,Kpramd #4,Ikan,21,kpramd
+33,5,Kpramd #5,Ikan,21,kpramd
+33,6,Kpramd #6,Ikan,21,kpramd
+33,7,Kpramd #7,Ikan,21,kpramd
+33,8,Kpramd #8,Ikan,21,kpramd
+34,1,Macva #1,Daging,22,macva
+34,2,Macva #2,Daging,22,macva
+34,3,Macva #3,Daging,22,macva
+34,4,Macva #4,Ikan,22,macva
+34,5,Macva #5,Ikan,22,macva
+34,6,Macva #6,Ikan,22,macva
+34,7,Macva #7,Ikan,22,macva
+34,8,Macva #8,Ikan,22,macva
+35,1,Nadi #1,Daging,23,nadi
+35,2,Nadi #2,Daging,23,nadi
+35,3,Nadi #3,Daging,23,nadi
+35,4,Nadi #4,Ikan,23,nadi
+35,5,Nadi #5,Ikan,23,nadi
+35,6,Nadi #6,Ikan,23,nadi
+35,7,Nadi #7,Ikan,23,nadi
+35,8,Nadi #8,Ikan,23,nadi
+36,1,Pernama #1,Daging,25,pernama
+36,2,Pernama #2,Daging,25,pernama
+36,3,Pernama #3,Daging,25,pernama
+36,4,Pernama #4,Ikan,25,pernama
+36,5,Pernama #5,Ikan,25,pernama
+36,6,Pernama #6,Ikan,25,pernama
+36,7,Pernama #7,Ikan,25,pernama
+36,8,Pernama #8,Ikan,25,pernama
+37,1,Kprad #1,Daging,26,kprad
+37,2,Kprad #2,Daging,26,kprad
+37,3,Kprad #3,Daging,26,kprad
+37,4,Kprad #4,Ikan,26,kprad
+37,5,Kprad #5,Ikan,26,kprad
+37,6,Kprad #6,Ikan,26,kprad
+37,7,Kprad #7,Ikan,26,kprad
+37,8,Kprad #8,Ikan,26,kprad
