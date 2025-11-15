@@ -10,10 +10,10 @@ table_number,seat,name,menu,gp_id,gp_name
 1,9,Simpanan Diraja #1,Daging,1,diraja
 2,1,DYMM Raja Perempuan Perlis,Ikan,1,diraja
 2,2,Hajah Dalilah Awaluddin,Daging,1,diraja
-2,3,Puan Sri Pat,Daging,1,diraja
-2,4,Puan Sri Ptd,Daging,1,diraja
-2,5,Puan Sri Ptl,Daging,1,diraja
-2,6,Puan Sri Ptu,Daging,1,diraja
+2,3,Isteri Pat,Daging,1,diraja
+2,4,Isteri Ptd,Daging,1,diraja
+2,5,Isteri Ptl,Daging,1,diraja
+2,6,Isteri Ptu,Daging,1,diraja
 2,7,Puan Sri Sharifah Aza Syed Adnan,Ikan,1,diraja
 2,8,Datin Sri Noriman Mat,Ikan,1,diraja
 2,9,Simpanan Diraja #2,Daging,1,diraja
@@ -115,7 +115,7 @@ table_number,seat,name,menu,gp_id,gp_name
 23,8,Syed Salim Kdr (B) TLDM Ahli Keluarga,Daging,16,ajk
 24,1,Hashimah Bt Hassan Lt Kol (B) TUDM,Daging,16,ajk
 24,2,Dato' Abd Manan Mansor Prof Dr.,Ikan,16,ajk
-24,3,Ato' Abd Manan Mansor Prof Dr. | Isteri,Daging,16,ajk
+24,3,Dato' Abd Manan Mansor Prof Dr. | Isteri,Daging,16,ajk
 24,4,Mior Mohd Zubir Lt Kol (B) TUDM,Daging,16,ajk
 24,5,Mior Mohd Zubir Lt Kol (B) TUDM | Isteri,Daging,16,ajk
 24,6,Phua HS Lt Kdr (B),Ayam,16,ajk
@@ -128,9 +128,9 @@ table_number,seat,name,menu,gp_id,gp_name
 25,5,Kamal Omar Kol (B),Daging,16,ajk
 25,6,Zulkarnain Abdullah Lt Kol (B),Ikan,16,ajk
 25,7,Zulkarnain Abdullah Lt Kol (B) | Isteri,Ayam,16,ajk
-25,8,Lokman Mohamad Satir,Ayam,16,ajk
-26,1,Lokman Mohamad Satir | Isteri,Daging,16,ajk
-26,2,Abu Bakar Pw2,Daging,16,ajk
+25,8,Abu Bakar Pw2,Daging,16,ajk
+26,1,Lokman Mohamad Satir,Ayam,16,ajk
+26,2,Lokman Mohamad Satir | Isteri,Daging,16,ajk
 26,3,Simpanan,N/A,0,RESERVE_SEAT
 26,4,Simpanan,N/A,0,RESERVE_SEAT
 26,5,Simpanan,N/A,0,RESERVE_SEAT
@@ -225,3 +225,11 @@ table_number,seat,name,menu,gp_id,gp_name
 37,6,Kprad #6,Ikan,26,kprad
 37,7,Kprad #7,Ikan,26,kprad
 37,8,Kprad #8,Ikan,26,kprad
+38,1,Tetamu #1,Daging,27,rk
+38,2,Tetamu #2,Daging,27,rk
+38,3,Tetamu #3,Daging,27,rk
+38,4,Tetamu #4,Ikan,27,rk
+38,5,Tetamu #5,Ikan,27,rk
+38,6,Tetamu #6,Ikan,27,rk
+38,7,Tetamu #7,Ikan,27,rk
+38,8,Tetamu #8,Ikan,27,rk
