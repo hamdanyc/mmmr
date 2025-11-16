@@ -10,12 +10,16 @@ def read_guest_list(csv_file):
         reader = csv.DictReader(f)
         for row in reader:
             table = row['table_number']
+            gp_name = row['gp_name']
             name = row['name']
             seat = row['seat']
             menu = row['menu']
             if table not in guests:
-                guests[table] = []
-            guests[table].append((name, seat, menu))
+                guests[table] = {
+                    'gp_name': gp_name,
+                    'entries': []
+                }
+            guests[table]['entries'].append((name, seat, menu))
     return guests
 
 def generate_pdf(guests, output_file):
@@ -36,9 +40,12 @@ def generate_pdf(guests, output_file):
     table_count = 0  # Track number of tables added to current page
 
     # Add tables with page break prevention
-    for table_number, entries in guests.items():
+    for table_number, table_data in guests.items():
+        gp_name = table_data['gp_name']
+        entries = table_data['entries']
+        
         # Table header
-        header = Paragraph(f"Meja: {table_number}", styles['Heading2'])
+        header = Paragraph(f"Meja: {table_number} | ({gp_name})", styles['Heading2'])
         elements.append(header)
         elements.append(Spacer(1, 12))
 
