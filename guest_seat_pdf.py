@@ -48,7 +48,7 @@ def generate_pdf(guests, output_file):
             data.append([seat, name, menu])
 
         # Create and style the table
-        table = Table(data, colWidths=(50,250,50))  # Fixed to have 3 column widths
+        table = Table(data, colWidths=(50,300,50))  # Fixed to have 3 column widths
         table.setStyle(TableStyle([
             ('BACKGROUND', (0, 0), (-1, 0), '#cccccc'),
             ('ALIGN', (0, 0), (-1, -1), 'LEFT'),
