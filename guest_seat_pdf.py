@@ -45,7 +45,7 @@ def generate_pdf(guests, output_file):
         entries = table_data['entries']
         
         # Table header
-        header = Paragraph(f"Meja: {table_number} | ({gp_name})", styles['Heading2'])
+        header = Paragraph(f"Meja: {table_number} | {gp_name}", styles['Heading2'])
         elements.append(header)
         elements.append(Spacer(1, 12))
 
