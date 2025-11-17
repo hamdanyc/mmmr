@@ -31,8 +31,8 @@ table_number,seat,name,menu,gp_id,gp_name
 13,4,Dato Nasser Ahmad Mej Jen (B),Daging,13,op72
 13,5,Dato Jamil Osman Laksdya (B),Daging,13,op72
 13,6,Dato Manaf Zaid Mej Jen (B),Daging,13,op72
-13,7,Kamaruddin Bin Kassim Lt Kol (B),Ikan,999,Reserve
-13,8,Rosmawati Binti Mohd Zin,Ayam,999,Reserve
+13,7,Simpanan Op72,nan,13,op72
+13,8,Simpanan Op72,nan,13,op72
 14,1,Dr M,Daging,14,mmu
 14,2,Sue,Daging,14,mmu
 14,3,Azham,Daging,14,mmu
@@ -41,7 +41,7 @@ table_number,seat,name,menu,gp_id,gp_name
 14,6,Jay,Daging,14,mmu
 14,7,Tini,Daging,14,mmu
 14,8,Andy,Daging,14,mmu
-15,1,Tan Sri Abdul Aziz Jaafar Laksamana (B),Daging,15,intake27
+15,1,Tan Sri Abdul Aziz Jaafar Laksamana (B),nan,15,intake27
 15,2,Tan Sri Roslan Saad Jen (B),Daging,15,intake27
 15,3,Tan Sri Dato’ Wira Abd Halim Bin Karim Lt (B),Daging,15,intake27
 15,4,Dato’ Sri Sabri Bin Adam Lt Jen (B),Ikan,15,intake27
@@ -77,7 +77,7 @@ table_number,seat,name,menu,gp_id,gp_name
 19,2,Abd Samat Bin Said Lt Kol (B),Daging,15,intake27
 19,3,James Lam Mun Loong Mej (B),Ayam,15,intake27
 19,4,Mong Kok Liong Mej (B),Daging,15,intake27
-19,5,Mohammad Alta Tabor,Daging,15,intake27
+19,5,Mohammad Alta Tabor,nan,15,intake27
 19,6,Zainudin Arshad Lt Kdr (B),Ikan,15,intake27
 19,7,Ayub Shaharum Kapten (B),Daging,15,intake27
 19,8,Mustaffa Bin Abu Bakar Kol (B),Ikan,15,intake27
@@ -89,14 +89,14 @@ table_number,seat,name,menu,gp_id,gp_name
 20,6,Chong Hin Loy Mej (B),Ikan,15,intake27
 20,7,Leong Kuan Kdr (B),Ayam,15,intake27
 20,8,Ismail Bakar Mej (B),Ikan,15,intake27
-21,1,Baharuddin Yassin Bpk,Daging,15,intake27
+21,1,Baharuddin Yassin Bpk,nan,15,intake27
 21,2,Dato’ Mohd Noh Bin Lebai Mahat Laksda (B),Ikan,15,intake27
 21,3,Dato’ Ahmad Tarmizi Mej Jen (B),Daging,15,intake27
 21,4,Abd Majid Bin Norudin Mej (B),Daging,15,intake27
 21,5,Kamaruddin Bin Abdullah Lt Kol (B),Daging,15,intake27
-21,6,Hj Abdul Kadir Bin Shoib Mej (B),nan,999,Reserve
-21,7,Simpanan,N/A,0,RESERVE_SEAT
-21,8,Simpanan,N/A,0,RESERVE_SEAT
+21,6,Simpanan Intake27,nan,15,intake27
+21,7,Simpanan Intake27,nan,15,intake27
+21,8,Simpanan Intake27,nan,15,intake27
 22,1,Hamdan Yaccob Kol (B),Ikan,16,ajk
 22,2,Hamdan Yaccob Kol (B) | Isteri,Daging,16,ajk
 22,3,Abdullah Khir Lt Kol (B) TUDM,Ikan,16,ajk
@@ -131,10 +131,10 @@ table_number,seat,name,menu,gp_id,gp_name
 25,8,Abu Bakar Pw2,Daging,16,ajk
 26,1,Lokman Mohamad Satir,Ayam,16,ajk
 26,2,Lokman Mohamad Satir | Isteri,Daging,16,ajk
-26,3,Simpanan,N/A,0,RESERVE_SEAT
-26,4,Simpanan,N/A,0,RESERVE_SEAT
-26,5,Simpanan,N/A,0,RESERVE_SEAT
-26,6,Simpanan,N/A,0,RESERVE_SEAT
+26,3,Kamaruddin Bin Kassim Lt Kol (B),Ikan,999,Reserve
+26,4,Rosmawati Binti Mohd Zin,Ayam,999,Reserve
+26,5,Hj Abdul Kadir Bin Shoib Mej (B),Daging,999,Reserve
+26,6,Dato' Baharizan Brig Jen (B),Ikan,999,Reserve
 26,7,Simpanan,N/A,0,RESERVE_SEAT
 26,8,Simpanan,N/A,0,RESERVE_SEAT
 27,1,Dato' Sri Dr Hj Irmohizam Bin Ibrahim,Ikan,17,khas
@@ -169,14 +169,14 @@ table_number,seat,name,menu,gp_id,gp_name
 30,6,Tetamu Istana Perlis #14,Ikan,18,perlis
 30,7,Tetamu Istana Perlis #15,Ikan,18,perlis
 30,8,Tetamu Istana Perlis #16,Ikan,18,perlis
-31,1,Dato Abdul Shukor B. Hj Jaafar Mej Jen (B),Daging,19,nawi
-31,2,Datin Maimun Bt Tamby,Daging,19,nawi
-31,3,Shuhaimi Bin Abdul Shukor,Daging,19,nawi
-31,4,Puan Mariam Bt Tun Ibrahim Ismail Jen (B),Daging,19,nawi
-31,5,Ahmad Bin Tun Ibrahim Ismail Jen (B),Daging,19,nawi
-31,6,Irhzan Bin Mohd Nor,Daging,19,nawi
-31,7,Dato' Nawawi Desa Lt Kol (B),Daging,19,nawi
-31,8,Aizat Nawawi,Daging,19,nawi
+31,1,Dato Abdul Shukor B. Hj Jaafar Mej Jen (B),Daging,19,Nawi-Desa
+31,2,Datin Maimun Bt Tamby,Daging,19,Nawi-Desa
+31,3,Shuhaimi Bin Abdul Shukor,Daging,19,Nawi-Desa
+31,4,Puan Mariam Bt Tun Ibrahim Ismail Jen (B),Daging,19,Nawi-Desa
+31,5,Ahmad Bin Tun Ibrahim Ismail Jen (B),Daging,19,Nawi-Desa
+31,6,Irhzan Bin Mohd Nor,Daging,19,Nawi-Desa
+31,7,Dato' Nawawi Desa Lt Kol (B),Daging,19,Nawi-Desa
+31,8,Aizat Nawawi,Daging,19,Nawi-Desa
 32,1,Rmnoa #1,Daging,20,rmnoa
 32,2,Rmnoa #2,Daging,20,rmnoa
 32,3,Rmnoa #3,Daging,20,rmnoa
@@ -225,14 +225,14 @@ table_number,seat,name,menu,gp_id,gp_name
 37,6,Kprad #6,Ikan,25,kprad
 37,7,Kprad #7,Ikan,25,kprad
 37,8,Kprad #8,Ikan,25,kprad
-38,1,Tetamu #1,Daging,26,ramli-kinta
-38,2,Tetamu #2,Daging,26,ramli-kinta
-38,3,Tetamu #3,Daging,26,ramli-kinta
-38,4,Tetamu #4,Ikan,26,ramli-kinta
-38,5,Tetamu #5,Ikan,26,ramli-kinta
-38,6,Tetamu #6,Ikan,26,ramli-kinta
-38,7,Tetamu #7,Ikan,26,ramli-kinta
-38,8,Tetamu #8,Ikan,26,ramli-kinta
+38,1,Tetamu #1,Daging,26,Ramli-Kinta
+38,2,Tetamu #2,Daging,26,Ramli-Kinta
+38,3,Tetamu #3,Daging,26,Ramli-Kinta
+38,4,Tetamu #4,Ikan,26,Ramli-Kinta
+38,5,Tetamu #5,Ikan,26,Ramli-Kinta
+38,6,Tetamu #6,Ikan,26,Ramli-Kinta
+38,7,Tetamu #7,Ikan,26,Ramli-Kinta
+38,8,Tetamu #8,Ikan,26,Ramli-Kinta
 39,1,Tetamu #1,Daging,27,ssc31
 39,2,Tetamu #2,Daging,27,ssc31
 39,3,Tetamu #3,Daging,27,ssc31
@@ -241,11 +241,11 @@ table_number,seat,name,menu,gp_id,gp_name
 39,6,Tetamu #6,Ikan,27,ssc31
 39,7,Tetamu #7,Ikan,27,ssc31
 39,8,Tetamu #8,Ikan,27,ssc31
-40,1,Tetamu #1,Daging,28,othman-yaakob
-40,2,Tetamu #2,Daging,28,othman-yaakob
-40,3,Tetamu #3,Daging,28,othman-yaakob
-40,4,Tetamu #4,Ikan,28,othman-yaakob
-40,5,Tetamu #5,Ikan,28,othman-yaakob
-40,6,Tetamu #6,Ikan,28,othman-yaakob
-40,7,Tetamu #7,Ikan,28,othman-yaakob
-40,8,Tetamu #8,Ikan,28,othman-yaakob
+40,1,Tetamu #1,Daging,28,Othman-Yaakob
+40,2,Tetamu #2,Daging,28,Othman-Yaakob
+40,3,Tetamu #3,Daging,28,Othman-Yaakob
+40,4,Tetamu #4,Ikan,28,Othman-Yaakob
+40,5,Tetamu #5,Ikan,28,Othman-Yaakob
+40,6,Tetamu #6,Ikan,28,Othman-Yaakob
+40,7,Tetamu #7,Ikan,28,Othman-Yaakob
+40,8,Tetamu #8,Ikan,28,Othman-Yaakob
