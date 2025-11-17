@@ -41,14 +41,14 @@ table_number,seat,name,menu,gp_id,gp_name
 5,6,Nadi #14,Ikan,3,nadi
 5,7,Nadi #15,Ikan,3,nadi
 5,8,Nadi #16,Ikan,3,nadi
-6,1,Pernama #1,Daging,5,pernama
-6,2,Pernama #2,Daging,5,pernama
-6,3,Pernama #3,Daging,5,pernama
-6,4,Pernama #4,Ikan,5,pernama
-6,5,Pernama #5,Ikan,5,pernama
-6,6,Pernama #6,Ikan,5,pernama
-6,7,Pernama #7,Ikan,5,pernama
-6,8,Pernama #8,Ikan,5,pernama
+6,1,Pernama #1,Daging,4,pernama
+6,2,Pernama #2,Daging,4,pernama
+6,3,Pernama #3,Daging,4,pernama
+6,4,Pernama #4,Ikan,4,pernama
+6,5,Pernama #5,Ikan,4,pernama
+6,6,Pernama #6,Ikan,4,pernama
+6,7,Pernama #7,Ikan,4,pernama
+6,8,Pernama #8,Ikan,4,pernama
 11,1,Dato' Sri Dr Hj Irmohizam Bin Ibrahim,Ikan,11,khas
 11,2,Tan Sri Aziz Zainal Jen (B),Ikan,11,khas
 11,3,Puan Sri Rozita,Daging,11,khas
