@@ -49,22 +49,22 @@ table_number,seat,name,menu,gp_id,gp_name
 6,6,Pernama #6,Ikan,4,PERNAMA
 6,7,Pernama #7,Ikan,4,PERNAMA
 6,8,Pernama #8,Ikan,4,PERNAMA
-11,1,Dato' Sri Dr Hj Irmohizam Bin Ibrahim,Ikan,11,Khas
-11,2,Tan Sri Aziz Zainal Jen (B),Ikan,11,Khas
-11,3,Puan Sri Rozita,Daging,11,Khas
-11,4,Tan Sri Zulkifeli Zain Jen (B),Ikan,11,Khas
-11,5,Puan Sri Umie,Ikan,11,Khas
-11,6,Tan Sri Mohd Yunus Tasi TUDM Jen (B),Daging,11,Khas
-11,7,Puan Sri Tengku Elina,Ikan,11,Khas
-11,8,Dato Abd Aziz Mansur Mej Jen (B),Ikan,11,Khas
-12,1,Datuk Sharuddin Bin Hj Omar Kapt (B),Daging,11,Khas
-12,2,Dato Shaharuddin Ali TUDM Mej Jen (B),Daging,11,Khas
-12,3,Dato' Nawi Bin Alias TUDM Lt Jen (B),Ayam,11,Khas
-12,4,Datin Mani,Ayam,11,Khas
-12,5,Dato Ghani Abdullah Lt Jen (B),Ikan,11,Khas
-12,6,Datin Fatimah Huri,Ikan,11,Khas
-12,7,Lt Jen Datuk Dr. Zulkeffeli Mat Jusoh,Daging,11,Khas
-12,8,Mej Jen Dato' Haji Semaon Bin Haji Marjuki,Daging,11,Khas
+7,1,Dato' Sri Dr Hj Irmohizam Bin Ibrahim,Ikan,5,Khas
+7,2,Tan Sri Aziz Zainal Jen (B),Ikan,5,Khas
+7,3,Puan Sri Rozita,Daging,5,Khas
+7,4,Tan Sri Zulkifeli Zain Jen (B),Ikan,5,Khas
+7,5,Puan Sri Umie,Ikan,5,Khas
+7,6,Tan Sri Mohd Yunus Tasi TUDM Jen (B),Daging,5,Khas
+7,7,Puan Sri Tengku Elina,Ikan,5,Khas
+7,8,Dato Abd Aziz Mansur Mej Jen (B),Ikan,5,Khas
+8,1,Datuk Sharuddin Bin Hj Omar Kapt (B),Daging,5,Khas
+8,2,Dato Shaharuddin Ali TUDM Mej Jen (B),Daging,5,Khas
+8,3,Dato' Nawi Bin Alias TUDM Lt Jen (B),Ayam,5,Khas
+8,4,Datin Mani,Ayam,5,Khas
+8,5,Dato Ghani Abdullah Lt Jen (B),Ikan,5,Khas
+8,6,Datin Fatimah Huri,Ikan,5,Khas
+8,7,Lt Jen Datuk Dr. Zulkeffeli Mat Jusoh,nan,5,Khas
+8,8,Mej Jen Dato' Haji Semaon Bin Haji Marjuki,nan,5,Khas
 13,1,Mohd Azam Kol (B),Daging,13,OP72
 13,2,Dato Aziz Ahmad Brig Jen (B),Daging,13,OP72
 13,3,Dato Sofian Arshad,Daging,13,OP72
@@ -257,11 +257,27 @@ table_number,seat,name,menu,gp_id,gp_name
 36,6,Tetamu #6,Ikan,26,Othman-Yaakob
 36,7,Tetamu #7,Ikan,26,Othman-Yaakob
 36,8,Tetamu #8,Ikan,26,Othman-Yaakob
-37,1,Pernama #1,Daging,28,RMA-Sandhust
-37,2,Pernama #2,Daging,28,RMA-Sandhust
-37,3,Pernama #3,Daging,28,RMA-Sandhust
-37,4,Pernama #4,Ikan,28,RMA-Sandhust
-37,5,Pernama #5,Ikan,28,RMA-Sandhust
-37,6,Pernama #6,Ikan,28,RMA-Sandhust
-37,7,Pernama #7,Ikan,28,RMA-Sandhust
-37,8,Pernama #8,Ikan,28,RMA-Sandhust
+37,1,Rma Sandhurst #1,Daging,28,RMA-Sandhust
+37,2,Rma Sandhurst #2,Daging,28,RMA-Sandhust
+37,3,Rma Sandhurst #3,Daging,28,RMA-Sandhust
+37,4,Rma Sandhurst #4,Ikan,28,RMA-Sandhust
+37,5,Rma Sandhurst #5,Ikan,28,RMA-Sandhust
+37,6,Rma Sandhurst #6,Ikan,28,RMA-Sandhust
+37,7,Rma Sandhurst #7,Ikan,28,RMA-Sandhust
+37,8,Rma Sandhurst #8,Ikan,28,RMA-Sandhust
+38,1,Roses #1,Daging,29,Roses
+38,2,Roses #2,Daging,29,Roses
+38,3,Roses #3,Daging,29,Roses
+38,4,Roses #4,Ikan,29,Roses
+38,5,Roses #5,Ikan,29,Roses
+38,6,Roses #6,Ikan,29,Roses
+38,7,Roses #7,Ikan,29,Roses
+38,8,Roses #8,Ikan,29,Roses
+39,1,Roses #9,Daging,29,Roses
+39,2,Roses #10,Daging,29,Roses
+39,3,Roses #11,Daging,29,Roses
+39,4,Roses #12,Ikan,29,Roses
+39,5,Roses #13,Ikan,29,Roses
+39,6,Roses #14,Ikan,29,Roses
+39,7,Roses #15,Ikan,29,Roses
+39,8,Roses #16,Ikan,29,Roses
