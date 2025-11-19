@@ -1,10 +1,10 @@
 Nama,Kategori,Bil_tetamu,Wakil
 DiRaja #1,Tetamu,9,Sekretariat
 DiRaja #2,Tetamu,9,Sekretariat
-Weststar,Tetamu,8,Sekretariat
-NADI #1,Tetamu,8,Sekretariat
-NADI #2,Tetamu,8,Sekretariat
-PERNAMA,Tetamu,8,Sekretariat
+Weststar,Tajaan,8,Sekretariat
+NADI #1,Tajaan,8,Sekretariat
+NADI #2,Tajaan,8,Sekretariat
+PERNAMA,Tajaan,8,Sekretariat
 Khas #1,Tetamu,8,Sekretariat
 Khas #2,Tetamu,8,Sekretariat
 OP 75,Tajaan,8,Kol Md Nor Azam (B)
@@ -21,16 +21,19 @@ AJK #2,Tetamu,8,Sekretariat
 AJK #3,Tetamu,8,Sekretariat
 AJK #4,Tetamu,8,Sekretariat
 AJK #5,Tetamu,8,Sekretariat
+Intake 24,Tajaan,8,Mej Ganeson
 Istana Perlis #1,Tetamu,8,Sekretariat
 Istana Perlis #2,Tetamu,8,Sekretariat
-Nawawi Desa Lt Kol (B),Tetamu,8,Sekretariat
-RMNOA,Tetamu,8,Sekretariat
-KPRAMD,Tetamu,8,Sekretariat
-MACVA,Tetamu,8,Sekretariat
-KPRAD,Tetamu,8,Sekretariat
-Ramli Kinta Lt Kol (B),Tetamu,8,Sekretariat
-SSC31,Tetamu,8,Lt Kol Dzulkarnain
-Othman Yaakob Lt Kol (B),Tetamu,8,Sekretariat
-RMA Sandhurst,Tetamu,8,Sekretariat
-Rose #1,Tetamu,8,Sekretariat
-Rose #2,Tetamu,8,Sekretariat
+Nawawi Desa Lt Kol (B),Tajaan,8,Sekretariat
+RMNOA,Tajaan,8,Sekretariat
+KPRAMD,Tajaan,8,Sekretariat
+MACVA,Tajaan,8,Sekretariat
+KPRAD,Tajaan,8,Mej Ganeson
+Ramli Kinta Lt Kol (B),Tajaan,8,Sekretariat
+SSC31,Tajaan,8,Lt Kol Dzulkarnain
+Othman Yaakob Lt Kol (B),Tajaan,8,Sekretariat
+RMA Sandhurst,Tajaan,8,Sekretariat
+Rose #1,Tajaan,8,Sekretariat
+Rose #2,Tajaan,8,Sekretariat
+Dato' Murthi #1,Tajaan,8,Mej Ganeson
+Dato' Murthi #2,Tajaan,8,Mej Ganeson
