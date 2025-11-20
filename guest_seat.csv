@@ -289,19 +289,43 @@ table_number,seat,name,menu,gp_id,gp_name
 40,6,Roses #14,Ikan,28,Roses
 40,7,Roses #15,Ikan,28,Roses
 40,8,Roses #16,Ikan,28,Roses
-41,1,Tetamu #1,Daging,30,Softlab
-41,2,Tetamu #2,Daging,30,Softlab
-41,3,Tetamu #3,Daging,30,Softlab
-41,4,Tetamu #4,Ikan,30,Softlab
-41,5,Tetamu #5,Ikan,30,Softlab
-41,6,Tetamu #6,Ikan,30,Softlab
-41,7,Tetamu #7,Ikan,30,Softlab
-41,8,Tetamu #8,Ikan,30,Softlab
-42,1,Tetamu #1,Daging,31,OP79
-42,2,Tetamu #2,Daging,31,OP79
-42,3,Tetamu #3,Daging,31,OP79
-42,4,Tetamu #4,Ikan,31,OP79
-42,5,Tetamu #5,Ikan,31,OP79
-42,6,Tetamu #6,Ikan,31,OP79
-42,7,Tetamu #7,Ikan,31,OP79
-42,8,Tetamu #8,Ikan,31,OP79
+41,1,Tetamu #1,Daging,29,Dato Dr Murthy Mej (B)
+41,2,Tetamu #2,Daging,29,Dato Dr Murthy Mej (B)
+41,3,Tetamu #3,Ayam,29,Dato Dr Murthy Mej (B)
+41,4,Tetamu #4,Ayam,29,Dato Dr Murthy Mej (B)
+41,5,Tetamu #5,Ikan,29,Dato Dr Murthy Mej (B)
+41,6,Tetamu #6,Ikan,29,Dato Dr Murthy Mej (B)
+41,7,Tetamu #7,Ikan,29,Dato Dr Murthy Mej (B)
+41,8,Tetamu #8,Ikan,29,Dato Dr Murthy Mej (B)
+42,1,Tetamu #1,Daging,29,Dato Dr Murthy Mej (B)
+42,2,Tetamu #2,Daging,29,Dato Dr Murthy Mej (B)
+42,3,Tetamu #3,Ayam,29,Dato Dr Murthy Mej (B)
+42,4,Tetamu #4,Ayam,29,Dato Dr Murthy Mej (B)
+42,5,Tetamu #5,Ikan,29,Dato Dr Murthy Mej (B)
+42,6,Tetamu #6,Ikan,29,Dato Dr Murthy Mej (B)
+42,7,Tetamu #7,Ikan,29,Dato Dr Murthy Mej (B)
+42,8,Tetamu #8,Ikan,29,Dato Dr Murthy Mej (B)
+43,1,Tetamu #1,Daging,29,Dato Dr Murthy Mej (B)
+43,2,Tetamu #2,Daging,29,Dato Dr Murthy Mej (B)
+43,3,Tetamu #3,Ayam,29,Dato Dr Murthy Mej (B)
+43,4,Tetamu #4,Ayam,29,Dato Dr Murthy Mej (B)
+43,5,Tetamu #5,Ikan,29,Dato Dr Murthy Mej (B)
+43,6,Tetamu #6,Ikan,29,Dato Dr Murthy Mej (B)
+43,7,Tetamu #7,Ikan,29,Dato Dr Murthy Mej (B)
+43,8,Tetamu #8,Ikan,29,Dato Dr Murthy Mej (B)
+44,1,Tetamu #1,Daging,30,Softlab
+44,2,Tetamu #2,Daging,30,Softlab
+44,3,Tetamu #3,Daging,30,Softlab
+44,4,Tetamu #4,Ikan,30,Softlab
+44,5,Tetamu #5,Ikan,30,Softlab
+44,6,Tetamu #6,Ikan,30,Softlab
+44,7,Tetamu #7,Ikan,30,Softlab
+44,8,Tetamu #8,Ikan,30,Softlab
+45,1,Tetamu #1,Daging,31,OP79
+45,2,Tetamu #2,Daging,31,OP79
+45,3,Tetamu #3,Daging,31,OP79
+45,4,Tetamu #4,Ikan,31,OP79
+45,5,Tetamu #5,Ikan,31,OP79
+45,6,Tetamu #6,Ikan,31,OP79
+45,7,Tetamu #7,Ikan,31,OP79
+45,8,Tetamu #8,Ikan,31,OP79
