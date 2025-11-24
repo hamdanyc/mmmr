@@ -2,7 +2,7 @@ table_number,seat,name,menu,gp_id,gp_name
 1,1,DYMM Tuanku Raja Perlis,Daging,1,Diraja
 1,2,YB Adly  Zahari,Daging,1,Diraja
 1,3,Jen Tan Sri Datuk Mohd Nizam Jaffar,Daging,1,Diraja
-1,4,Tan Sri Dr. Syed Azman Syed Ibrahim,Ayam,1,Diraja
+1,4,Tan Sri Dr. Syed Azman Syed Ibrahim,Daging,1,Diraja
 1,5,Jen Tan Sri Dato' Sri Muhammad Hafizuddeain Jantan,Daging,1,Diraja
 1,6,Laksamana Tan Sri (Dr.) Zulhelmy Ithnain,Daging,1,Diraja
 1,7,Jen Dato' Sri Muhamad Norazlan Aris TUDM,Daging,1,Diraja
@@ -14,57 +14,73 @@ table_number,seat,name,menu,gp_id,gp_name
 2,4,Isteri PTD,Daging,1,Diraja
 2,5,Isteri PTL,Daging,1,Diraja
 2,6,Isteri PTU,Daging,1,Diraja
-2,7,Puan Sri Sharifah Aza Syed Adnan,Ikan,1,Diraja
-2,8,Datin Sri Noriman Mat,Ikan,1,Diraja
-2,9,Simpanan Diraja #2,Daging,1,Diraja
-3,1,Datuk Baharum Lt Jen (B),Daging,2,weststar
-3,2,Mohd Amin Kol (B),Daging,2,weststar
-3,3,Mohd Amin Kol (B) | Isteri,Daging,2,weststar
-3,4,Abd Razak Lt Kol (B),Daging,2,weststar
-3,5,Abd Razak Lt Kol (B) | Isteri,Daging,2,weststar
-3,6,Alias Hassan Lt Kol (B),Daging,2,weststar
-3,7,Musa Ismail Mej (B),Daging,2,weststar
-3,8,Musa Ismail Mej (B) | Isteri,Daging,2,weststar
-4,1,Nadi #1,Daging,3,NADI
-4,2,Nadi #2,Daging,3,NADI
-4,3,Nadi #3,Daging,3,NADI
-4,4,Nadi #4,Ikan,3,NADI
-4,5,Nadi #5,Ikan,3,NADI
-4,6,Nadi #6,Ikan,3,NADI
-4,7,Nadi #7,Ikan,3,NADI
-4,8,Nadi #8,Ikan,3,NADI
-5,1,Nadi #9,Daging,3,NADI
-5,2,Nadi #10,Daging,3,NADI
-5,3,Nadi #11,Daging,3,NADI
-5,4,Nadi #12,Ikan,3,NADI
-5,5,Nadi #13,Ikan,3,NADI
-5,6,Nadi #14,Ikan,3,NADI
-5,7,Nadi #15,Ikan,3,NADI
-5,8,Nadi #16,Ikan,3,NADI
-6,1,PERNAMA #1,Daging,4,PERNAMA
-6,2,PERNAMA #2,Daging,4,PERNAMA
-6,3,PERNAMA #3,Daging,4,PERNAMA
-6,4,PERNAMA #4,Ikan,4,PERNAMA
-6,5,PERNAMA #5,Ikan,4,PERNAMA
-6,6,PERNAMA #6,Ikan,4,PERNAMA
-6,7,PERNAMA #7,Ikan,4,PERNAMA
-6,8,PERNAMA #8,Ikan,4,PERNAMA
-7,1,Dato' Sri Dr Hj Irmohizam Bin Ibrahim,Ikan,5,Khas
-7,2,Tan Sri Aziz Zainal Jen (B),Ikan,5,Khas
-7,3,Puan Sri Rozita,Daging,5,Khas
-7,4,Tan Sri Zulkifeli Zain Jen (B),Ikan,5,Khas
-7,5,Puan Sri Umie,Ikan,5,Khas
-7,6,Tan Sri Mohd Yunus Tasi TUDM Jen (B),Daging,5,Khas
-7,7,Puan Sri Tengku Elina,Ikan,5,Khas
-7,8,Dato Abd Aziz Mansur Mej Jen (B),Ikan,5,Khas
-8,1,Datuk Sharuddin Bin Hj Omar Kapt (B),Daging,5,Khas
-8,2,Dato Shaharuddin Ali TUDM Mej Jen (B),Daging,5,Khas
-8,3,Dato' Nawi Bin Alias TUDM Lt Jen (B),Ayam,5,Khas
-8,4,Datin Mani,Ayam,5,Khas
-8,5,Dato Ghani Abdullah Lt Jen (B),Ikan,5,Khas
-8,6,Datin Fatimah Huri,Ikan,5,Khas
-8,7,Lt Jen Datuk Dr. Zulkeffeli Mat Jusoh,nan,5,Khas
-8,8,Mej Jen Dato' Haji Semaon Bin Haji Marjuki,nan,5,Khas
+2,7,Datin Sri Noriman Mat,Ikan,1,Diraja
+2,8,Simpanan Diraja #2,Daging,1,Diraja
+2,9,Simpanan Diraja #3,Daging,1,Diraja
+3,1,Tetamu #1,Daging,2,weststar
+3,2,Tetamu #2,Daging,2,weststar
+3,3,Tetamu #3,Daging,2,weststar
+3,4,Tetamu #4,Daging,2,weststar
+3,5,Tetamu #5,Daging,2,weststar
+3,6,Tetamu #6,Daging,2,weststar
+3,7,Tetamu #7,Daging,2,weststar
+3,8,Tetamu #8,Daging,2,weststar
+4,1,Tetamu #1,Daging,2,weststar
+4,2,Tetamu #2,Daging,2,weststar
+4,3,Tetamu #3,Daging,2,weststar
+4,4,Tetamu #4,Daging,2,weststar
+4,5,Tetamu #5,Daging,2,weststar
+4,6,Tetamu #6,Daging,2,weststar
+4,7,Tetamu #7,Daging,2,weststar
+4,8,Tetamu #8,Daging,2,weststar
+5,1,Tetamu #1,Daging,2,weststar
+5,2,Tetamu #2,Daging,2,weststar
+5,3,Tetamu #3,Daging,2,weststar
+5,4,Tetamu #4,Daging,2,weststar
+5,5,Tetamu #5,Daging,2,weststar
+5,6,Tetamu #6,Daging,2,weststar
+5,7,Tetamu #7,Daging,2,weststar
+5,8,Tetamu #8,Daging,2,weststar
+6,1,Nadi #1,Daging,3,NADI
+6,2,Nadi #2,Daging,3,NADI
+6,3,Nadi #3,Daging,3,NADI
+6,4,Nadi #4,Ikan,3,NADI
+6,5,Nadi #5,Ikan,3,NADI
+6,6,Nadi #6,Ikan,3,NADI
+6,7,Nadi #7,Ikan,3,NADI
+6,8,Nadi #8,Ikan,3,NADI
+7,1,Nadi #9,Daging,3,NADI
+7,2,Nadi #10,Daging,3,NADI
+7,3,Nadi #11,Daging,3,NADI
+7,4,Nadi #12,Ikan,3,NADI
+7,5,Nadi #13,Ikan,3,NADI
+7,6,Nadi #14,Ikan,3,NADI
+7,7,Nadi #15,Ikan,3,NADI
+7,8,Nadi #16,Ikan,3,NADI
+8,1,PERNAMA #1,Daging,4,PERNAMA
+8,2,PERNAMA #2,Daging,4,PERNAMA
+8,3,PERNAMA #3,Daging,4,PERNAMA
+8,4,PERNAMA #4,Ikan,4,PERNAMA
+8,5,PERNAMA #5,Ikan,4,PERNAMA
+8,6,PERNAMA #6,Ikan,4,PERNAMA
+8,7,PERNAMA #7,Ikan,4,PERNAMA
+8,8,PERNAMA #8,Ikan,4,PERNAMA
+9,1,Dato' Sri Dr Hj Irmohizam Bin Ibrahim,Ikan,5,Khas
+9,2,Tan Sri Aziz Zainal Jen (B),Ikan,5,Khas
+9,3,Puan Sri Rozita,Daging,5,Khas
+9,4,Tan Sri Zulkifeli Zain Jen (B),Ikan,5,Khas
+9,5,Puan Sri Umie,Ikan,5,Khas
+9,6,Tan Sri Mohd Yunus Tasi TUDM Jen (B),Daging,5,Khas
+9,7,Puan Sri Tengku Elina,Ikan,5,Khas
+9,8,Dato Abd Aziz Mansur Mej Jen (B),Ikan,5,Khas
+10,1,Datuk Sharuddin Bin Hj Omar Kapt (B),Daging,5,Khas
+10,2,Dato Shaharuddin Ali TUDM Mej Jen (B),Daging,5,Khas
+10,3,Dato' Nawi Bin Alias TUDM Lt Jen (B),Ayam,5,Khas
+10,4,Datin Mani,Ayam,5,Khas
+10,5,Dato Ghani Abdullah Lt Jen (B),Ikan,5,Khas
+10,6,Datin Fatimah Huri,Ikan,5,Khas
+10,7,Lt Jen Datuk Dr. Zulkeffeli Mat Jusoh,nan,5,Khas
+10,8,Mej Jen Dato' Haji Semaon Bin Haji Marjuki,nan,5,Khas
 13,1,Mohd Azam Kol (B),Daging,13,OP72
 13,2,Dato Aziz Ahmad Brig Jen (B),Daging,13,OP72
 13,3,Dato Sofian Arshad,Daging,13,OP72
@@ -149,32 +165,32 @@ table_number,seat,name,menu,gp_id,gp_name
 23,2,Datin Ismanisa DMHK,Daging,16,AJK
 23,3,Dato' Nawawi Daud Mej Jen (B),nan,16,AJK
 23,4,Dato' Nawawi Daud Mej Jen (B) | Isteri,nan,16,AJK
-23,5,Asmah Abdul Kadir Kapt (B),Ikan,16,AJK
-23,6,Hassan Sabri  Bin Sallehuddin Mej (B),Daging,16,AJK
-23,7,Syed Salim Kdr (B) TLDM,Ayam,16,AJK
-23,8,Syed Salim Kdr (B) TLDM Ahli Keluarga,Daging,16,AJK
-24,1,Hashimah Bt Hassan Lt Kol (B) TUDM,Daging,16,AJK
-24,2,Dato' Abd Manan Mansor Prof Dr.,Ikan,16,AJK
-24,3,Dato' Abd Manan Mansor Prof Dr. | Isteri,Daging,16,AJK
-24,4,Mior Mohd Zubir Lt Kol (B) TUDM,Daging,16,AJK
-24,5,Mior Mohd Zubir Lt Kol (B) TUDM | Isteri,Daging,16,AJK
-24,6,Phua HS Lt Kdr (B),Ayam,16,AJK
-24,7,Phua HS Lt Kdr (B) | Isteri,Ikan,16,AJK
-24,8,Tengku Nazri Mej (B),Daging,16,AJK
-25,1,Mohammad Yusalie Lt Kdr (B) TLDM,Daging,16,AJK
-25,2,Mohammad Yusalie Lt Kdr (B) TLDM | Isteri,nan,16,AJK
-25,3,Dato' Ariff Soo Mej Jen (B),Ikan,16,AJK
-25,4,Dato' Ariff Soo Mej Jen (B) | Isteri,Ikan,16,AJK
-25,5,Kamal Omar Kol (B),Daging,16,AJK
-25,6,Zulkarnain Abdullah Lt Kol (B),Ikan,16,AJK
-25,7,Zulkarnain Abdullah Lt Kol (B) | Isteri,Ayam,16,AJK
-25,8,Abu Bakar,Daging,16,AJK
-26,1,Lokman Mohamad Satir,Ayam,16,AJK
-26,2,Lokman Mohamad Satir | Isteri,Daging,16,AJK
-26,3,Rosmawati Binti Mohd Zin,Ayam,999,Reserve
-26,4,Hj Abdul Kadir Bin Shoib Mej (B),Ikan,999,Reserve
-26,5,Dato' Baharizan Brig Jen (B),Ikan,999,Reserve
-26,6,Simpanan,N/A,0,RESERVE_SEAT
+23,5,Syed Salim Kdr (B) TLDM,Ayam,16,AJK
+23,6,Syed Salim Kdr (B) TLDM Ahli Keluarga,Daging,16,AJK
+23,7,Hashimah Bt Hassan Lt Kol (B) TUDM,Daging,16,AJK
+23,8,Simpanan Ajk #1,nan,16,AJK
+24,1,Dato' Abd Manan Mansor Prof Dr.,Ikan,16,AJK
+24,2,Dato' Abd Manan Mansor Prof Dr. | Isteri,Daging,16,AJK
+24,3,Asmah Abdul Kadir Kapt (B),Ikan,16,AJK
+24,4,Hassan Sabri  Bin Sallehuddin Mej (B),Daging,16,AJK
+24,5,Mior Mohd Zubir Lt Kol (B) TUDM,Daging,16,AJK
+24,6,Mior Mohd Zubir Lt Kol (B) TUDM | Isteri,Daging,16,AJK
+24,7,Phua HS Lt Kdr (B),Ayam,16,AJK
+24,8,Phua HS Lt Kdr (B) | Isteri,Ikan,16,AJK
+25,1,Tengku Nazri Mej (B),Daging,16,AJK
+25,2,Mohammad Yusalie Lt Kdr (B) TLDM,Daging,16,AJK
+25,3,Mohammad Yusalie Lt Kdr (B) TLDM | Isteri,nan,16,AJK
+25,4,Dato' Ariff Soo Mej Jen (B),Ikan,16,AJK
+25,5,Dato' Ariff Soo Mej Jen (B) | Isteri,Ikan,16,AJK
+25,6,Kamal Omar Kol (B),Daging,16,AJK
+25,7,Zulkarnain Abdullah Lt Kol (B),Ikan,16,AJK
+25,8,Zulkarnain Abdullah Lt Kol (B) | Isteri,Ayam,16,AJK
+26,1,Abu Bakar,Daging,16,AJK
+26,2,Lokman Mohamad Satir,Ayam,16,AJK
+26,3,Lokman Mohamad Satir | Isteri,Daging,16,AJK
+26,4,Rosmawati Binti Mohd Zin,Ayam,999,Reserve
+26,5,Hj Abdul Kadir Bin Shoib Mej (B),Ikan,999,Reserve
+26,6,Dato' Baharizan Brig Jen (B),Ikan,999,Reserve
 26,7,Simpanan,N/A,0,RESERVE_SEAT
 26,8,Simpanan,N/A,0,RESERVE_SEAT
 27,1,Tetamu #1,Daging,17,Intake24
