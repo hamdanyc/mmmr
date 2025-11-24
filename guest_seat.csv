@@ -152,7 +152,7 @@ table_number,seat,name,menu,gp_id,gp_name
 21,5,Abd Majid Bin Norudin Mej (B),Daging,15,Intake27
 21,6,Kamaruddin Bin Abdullah Lt Kol (B),Daging,15,Intake27
 21,7,Ramli Othman,Ayam,15,Intake27
-21,8,Kamaruddin Bin Kassim Lt Kol (B),Ikan,999,Reserve
+21,8,Simpanan Intake27,nan,15,Intake27
 22,1,Hamdan Yaccob Kol (B),Ikan,16,AJK
 22,2,Hamdan Yaccob Kol (B) | Isteri,Daging,16,AJK
 22,3,Abdullah Khir Lt Kol (B) TUDM,Ikan,16,AJK
@@ -188,10 +188,10 @@ table_number,seat,name,menu,gp_id,gp_name
 26,1,Abu Bakar,Daging,16,AJK
 26,2,Lokman Mohamad Satir,Ayam,16,AJK
 26,3,Lokman Mohamad Satir | Isteri,Daging,16,AJK
-26,4,Rosmawati Binti Mohd Zin,Ayam,999,Reserve
-26,5,Hj Abdul Kadir Bin Shoib Mej (B),Ikan,999,Reserve
-26,6,Dato' Baharizan Brig Jen (B),Ikan,999,Reserve
-26,7,Simpanan,N/A,0,RESERVE_SEAT
+26,4,Kamaruddin Bin Kassim Lt Kol (B),Ikan,999,Reserve
+26,5,Rosmawati Binti Mohd Zin,Ayam,999,Reserve
+26,6,Hj Abdul Kadir Bin Shoib Mej (B),Ikan,999,Reserve
+26,7,Dato' Baharizan Brig Jen (B),Ikan,999,Reserve
 26,8,Simpanan,N/A,0,RESERVE_SEAT
 27,1,Tetamu #1,Daging,17,Intake24
 27,2,Tetamu #2,Daging,17,Intake24
