@@ -69,7 +69,7 @@ grid_html = """
 
 # Create 10 rows with 6 columns each (60 tables total)
 wakil_index = 0
-for row in range(10):
+for row in range(12):
     for col in range(6):
         table_number = row * 6 + col + 1 
         table_id = f"R{table_number}"
@@ -125,7 +125,7 @@ with col1:
 with col2:
     total_simpanan = tetamu_df['name'].str.contains('simpanan', case=False).sum()
     total_guests = len(tetamu_df) - total_simpanan
-    guests_target = 480
+    guests_target = 560
     guests_percentage = (total_guests / guests_target) * 100 if guests_target > 0 else 0
 
     fig_guests = go.Figure(go.Indicator(
