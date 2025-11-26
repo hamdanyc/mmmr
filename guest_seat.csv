@@ -57,30 +57,46 @@ table_number,seat,name,menu,gp_id,gp_name
 7,6,PERNAMA #6,Ikan,4,PERNAMA
 7,7,PERNAMA #7,Ikan,4,PERNAMA
 7,8,PERNAMA #8,Ikan,4,PERNAMA
-8,1,Dato' Sri Dr Hj Irmohizam Bin Ibrahim,Ikan,5,Khas copy
-8,2,Tan Sri Aziz Zainal Jen (B),Ikan,5,Khas copy
-8,3,Puan Sri Rozita,Daging,5,Khas copy
-8,4,Tan Sri Zulkifeli Zain Jen (B),Ikan,5,Khas copy
-8,5,Puan Sri Umie,Ikan,5,Khas copy
-8,6,Tan Sri Mohd Yunus Tasi TUDM Jen (B),Daging,5,Khas copy
-8,7,Puan Sri Tengku Elina,Ikan,5,Khas copy
-8,8,Dato Abd Aziz Mansur Mej Jen (B),Ikan,5,Khas copy
-9,1,Datuk Sharuddin Bin Hj Omar Kapt (B),Daging,5,Khas copy
-9,2,Dato Shaharuddin Ali TUDM Mej Jen (B),Daging,5,Khas copy
-9,3,Dato' Nawi Bin Alias TUDM Lt Jen (B),Ayam,5,Khas copy
-9,4,Datin Mani,Ayam,5,Khas copy
-9,5,Dato Ghani Abdullah Lt Jen (B),Ikan,5,Khas copy
-9,6,Datin Fatimah Huri,Ikan,5,Khas copy
-9,7,Lt Jen Datuk Dr. Zulkeffeli Mat Jusoh,nan,5,Khas copy
-9,8,Mej Jen Dato' Haji Semaon Bin Haji Marjuki,nan,5,Khas copy
-10,1,Srikandi #1,nan,6,Srikandi
-10,2,Srikandi #2,Daging,6,Srikandi
-10,3,Srikandi #3,Daging,6,Srikandi
-10,4,Srikandi #4,Daging,6,Srikandi
-10,5,Srikandi #5,nan,6,Srikandi
-10,6,Srikandi #6,Daging,6,Srikandi
-10,7,Srikandi #7,Daging,6,Srikandi
-10,8,Srikandi #8,Daging,6,Srikandi
+8,1,Tan Sri Azumi Jen (B),Ayam,5,Khas#1
+8,2,Puan Sri Che Puteh,Daging,5,Khas#1
+8,3,Datuk Shaharuddin Omar Kapt (B),Daging,5,Khas#1
+8,4,Dato Nawi Alias Lt Jen (B),Ikan,5,Khas#1
+8,5,Datin Mani,Ikan,5,Khas#1
+8,6,Dato Arshad Raji Brig Jen (B),Ikan,5,Khas#1
+8,7,Dato Arshad Raji Brig Jen (B) | Isteri,Ikan,5,Khas#1
+8,8,Jen Tan Sri Ismail Hassan Jen (B),Ayam,5,Khas#1
+9,1,Dato Sri Sharon Ibrahim Lt Jen (B) TUDM,Daging,6,Khas#2
+9,2,Dato Sri Sharon Ibrahim Lt Jen (B) TUDM | Isteri,Daging,6,Khas#2
+9,3,Dato Masrani Paiman Mej Jen (B),Daging,6,Khas#2
+9,4,Dato Masrani Paiman Mej Jen (B) | Isteri,Daging,6,Khas#2
+9,5,Dato Shamsiruddin Mej Jen (B),Daging,6,Khas#2
+9,6,Dato Shamsiruddin Mej Jen (B) | Isteri,Daging,6,Khas#2
+9,7,Dato Mustapha Manaf Mej Jen (B),Daging,6,Khas#2
+9,8,Dato Mustapha Manaf Mej Jen (B) | Isteri,Daging,6,Khas#2
+10,1,Dato Sameon Marjuki Mej Jen,Daging,7,Khas#3
+10,2,Dato Sameon Marjuki Mej Jen | Isteri,Ikan,7,Khas#3
+10,3,Dato Abdul Aziz Mansur Mej Jen (B),nan,7,Khas#3
+10,4,Dato Abdul Aziz Mansur Mej Jen (B) | Isteri,nan,7,Khas#3
+10,5,Tan Sri Sulaiman Sujak Jen (B) TUDM,nan,7,Khas#3
+10,6,Tan Sri Sulaiman Sujak Jen (B) TUDM | Isteri,nan,7,Khas#3
+10,7,Tan Sri Thanabalan Singam Laksamana (B),nan,7,Khas#3
+10,8,Dato Yusri Mej Jen (B),nan,7,Khas#3
+11,1,Srikandi #1,nan,9,Srikandi
+11,2,Srikandi #2,Daging,9,Srikandi
+11,3,Srikandi #3,Daging,9,Srikandi
+11,4,Srikandi #4,Daging,9,Srikandi
+11,5,Srikandi #5,nan,9,Srikandi
+11,6,Srikandi #6,Daging,9,Srikandi
+11,7,Srikandi #7,Daging,9,Srikandi
+11,8,Srikandi #8,Daging,9,Srikandi
+12,1,Rma Sandhurst #1,Daging,10,RMA-Sandhust
+12,2,Rma Sandhurst #2,Daging,10,RMA-Sandhust
+12,3,Rma Sandhurst #3,Daging,10,RMA-Sandhust
+12,4,Rma Sandhurst #4,Ikan,10,RMA-Sandhust
+12,5,Rma Sandhurst #5,Ikan,10,RMA-Sandhust
+12,6,Rma Sandhurst #6,Ikan,10,RMA-Sandhust
+12,7,Rma Sandhurst #7,Ikan,10,RMA-Sandhust
+12,8,Rma Sandhurst #8,Ikan,10,RMA-Sandhust
 13,1,Mohd Azam Kol (B),Daging,13,OP72
 13,2,Dato Aziz Ahmad Brig Jen (B),Daging,13,OP72
 13,3,Dato Sofian Arshad,Daging,13,OP72
@@ -196,10 +212,10 @@ table_number,seat,name,menu,gp_id,gp_name
 27,1,Abu Bakar,Daging,16,AJK
 27,2,Lokman Mohamad Satir,Ayam,16,AJK
 27,3,Lokman Mohamad Satir | Isteri,Daging,16,AJK
-27,4,Kamaruddin Bin Kassim Lt Kol (B),Ikan,999,Reserve
-27,5,Rosmawati Binti Mohd Zin,Ayam,999,Reserve
-27,6,Hj Abdul Kadir Bin Shoib Mej (B),Ikan,999,Reserve
-27,7,Dato' Baharizan Brig Jen (B),Ikan,999,Reserve
+27,4,Hj Abdul Kadir Bin Shoib Mej (B),Ikan,999,Reserve
+27,5,Dato' Baharizan Brig Jen (B),Ikan,999,Reserve
+27,6,Simpanan,N/A,0,RESERVE_SEAT
+27,7,Simpanan,N/A,0,RESERVE_SEAT
 27,8,Simpanan,N/A,0,RESERVE_SEAT
 28,1,Tetamu #1,Daging,17,Intake24
 28,2,Tetamu #2,Daging,17,Intake24
@@ -265,46 +281,46 @@ table_number,seat,name,menu,gp_id,gp_name
 35,6,Kprad #6,Ikan,23,KPRAD
 35,7,Kprad #7,Ikan,23,KPRAD
 35,8,Kprad #8,Ikan,23,KPRAD
-36,1,Tetamu #1,Daging,25,SSC31
-36,2,Tetamu #2,Daging,25,SSC31
-36,3,Tetamu #3,Daging,25,SSC31
-36,4,Tetamu #4,Ikan,25,SSC31
-36,5,Tetamu #5,Ikan,25,SSC31
-36,6,Tetamu #6,Ikan,25,SSC31
-36,7,Tetamu #7,Ikan,25,SSC31
-36,8,Tetamu #8,Ikan,25,SSC31
-37,1,Tetamu #1,Daging,26,Othman Yaakob Lt Kol (B)
-37,2,Tetamu #2,Daging,26,Othman Yaakob Lt Kol (B)
-37,3,Tetamu #3,Daging,26,Othman Yaakob Lt Kol (B)
-37,4,Tetamu #4,Ikan,26,Othman Yaakob Lt Kol (B)
-37,5,Tetamu #5,Ikan,26,Othman Yaakob Lt Kol (B)
-37,6,Tetamu #6,Ikan,26,Othman Yaakob Lt Kol (B)
-37,7,Tetamu #7,Ikan,26,Othman Yaakob Lt Kol (B)
-37,8,Tetamu #8,Ikan,26,Othman Yaakob Lt Kol (B)
-38,1,Rma Sandhurst #1,Daging,27,RMA-Sandhust
-38,2,Rma Sandhurst #2,Daging,27,RMA-Sandhust
-38,3,Rma Sandhurst #3,Daging,27,RMA-Sandhust
-38,4,Rma Sandhurst #4,Ikan,27,RMA-Sandhust
-38,5,Rma Sandhurst #5,Ikan,27,RMA-Sandhust
-38,6,Rma Sandhurst #6,Ikan,27,RMA-Sandhust
-38,7,Rma Sandhurst #7,Ikan,27,RMA-Sandhust
-38,8,Rma Sandhurst #8,Ikan,27,RMA-Sandhust
-39,1,Roses #1,Daging,28,Roses
-39,2,Roses #2,Daging,28,Roses
-39,3,Roses #3,Daging,28,Roses
-39,4,Roses #4,Ikan,28,Roses
-39,5,Roses #5,Ikan,28,Roses
-39,6,Roses #6,Ikan,28,Roses
-39,7,Roses #7,Ikan,28,Roses
-39,8,Roses #8,Ikan,28,Roses
-40,1,Roses #9,Daging,28,Roses
-40,2,Roses #10,Daging,28,Roses
-40,3,Roses #11,Daging,28,Roses
-40,4,Roses #12,Ikan,28,Roses
-40,5,Roses #13,Ikan,28,Roses
-40,6,Roses #14,Ikan,28,Roses
-40,7,Roses #15,Ikan,28,Roses
-40,8,Roses #16,Ikan,28,Roses
+36,1,Tetamu #1,Daging,26,Othman Yaakob Lt Kol (B)
+36,2,Tetamu #2,Daging,26,Othman Yaakob Lt Kol (B)
+36,3,Tetamu #3,Daging,26,Othman Yaakob Lt Kol (B)
+36,4,Tetamu #4,Ikan,26,Othman Yaakob Lt Kol (B)
+36,5,Tetamu #5,Ikan,26,Othman Yaakob Lt Kol (B)
+36,6,Tetamu #6,Ikan,26,Othman Yaakob Lt Kol (B)
+36,7,Tetamu #7,Ikan,26,Othman Yaakob Lt Kol (B)
+36,8,Tetamu #8,Ikan,26,Othman Yaakob Lt Kol (B)
+37,1,Roses #1,Daging,28,Roses
+37,2,Roses #2,Daging,28,Roses
+37,3,Roses #3,Daging,28,Roses
+37,4,Roses #4,Ikan,28,Roses
+37,5,Roses #5,Ikan,28,Roses
+37,6,Roses #6,Ikan,28,Roses
+37,7,Roses #7,Ikan,28,Roses
+37,8,Roses #8,Ikan,28,Roses
+38,1,Roses #9,Daging,28,Roses
+38,2,Roses #10,Daging,28,Roses
+38,3,Roses #11,Daging,28,Roses
+38,4,Roses #12,Ikan,28,Roses
+38,5,Roses #13,Ikan,28,Roses
+38,6,Roses #14,Ikan,28,Roses
+38,7,Roses #15,Ikan,28,Roses
+38,8,Roses #16,Ikan,28,Roses
+39,1,Tetamu #1,Daging,29,Dato Dr Murthy Mej (B)
+39,2,Tetamu #2,Daging,29,Dato Dr Murthy Mej (B)
+39,3,Tetamu #3,Ayam,29,Dato Dr Murthy Mej (B)
+39,4,Tetamu #4,Ayam,29,Dato Dr Murthy Mej (B)
+39,5,Tetamu #5,Ikan,29,Dato Dr Murthy Mej (B)
+39,6,Tetamu #6,Ikan,29,Dato Dr Murthy Mej (B)
+39,7,Tetamu #7,Ikan,29,Dato Dr Murthy Mej (B)
+39,8,Tetamu #8,Ikan,29,Dato Dr Murthy Mej (B)
+40,1,Tetamu #1,Daging,29,Dato Dr Murthy Mej (B)
+40,2,Tetamu #2,Daging,29,Dato Dr Murthy Mej (B)
+40,3,Tetamu #3,Ayam,29,Dato Dr Murthy Mej (B)
+40,4,Tetamu #4,Ayam,29,Dato Dr Murthy Mej (B)
+40,5,Tetamu #5,Ikan,29,Dato Dr Murthy Mej (B)
+40,6,Tetamu #6,Ikan,29,Dato Dr Murthy Mej (B)
+40,7,Tetamu #7,Ikan,29,Dato Dr Murthy Mej (B)
+40,8,Tetamu #8,Ikan,29,Dato Dr Murthy Mej (B)
 41,1,Tetamu #1,Daging,29,Dato Dr Murthy Mej (B)
 41,2,Tetamu #2,Daging,29,Dato Dr Murthy Mej (B)
 41,3,Tetamu #3,Ayam,29,Dato Dr Murthy Mej (B)
@@ -313,35 +329,35 @@ table_number,seat,name,menu,gp_id,gp_name
 41,6,Tetamu #6,Ikan,29,Dato Dr Murthy Mej (B)
 41,7,Tetamu #7,Ikan,29,Dato Dr Murthy Mej (B)
 41,8,Tetamu #8,Ikan,29,Dato Dr Murthy Mej (B)
-42,1,Tetamu #1,Daging,29,Dato Dr Murthy Mej (B)
-42,2,Tetamu #2,Daging,29,Dato Dr Murthy Mej (B)
-42,3,Tetamu #3,Ayam,29,Dato Dr Murthy Mej (B)
-42,4,Tetamu #4,Ayam,29,Dato Dr Murthy Mej (B)
-42,5,Tetamu #5,Ikan,29,Dato Dr Murthy Mej (B)
-42,6,Tetamu #6,Ikan,29,Dato Dr Murthy Mej (B)
-42,7,Tetamu #7,Ikan,29,Dato Dr Murthy Mej (B)
-42,8,Tetamu #8,Ikan,29,Dato Dr Murthy Mej (B)
-43,1,Tetamu #1,Daging,29,Dato Dr Murthy Mej (B)
-43,2,Tetamu #2,Daging,29,Dato Dr Murthy Mej (B)
-43,3,Tetamu #3,Ayam,29,Dato Dr Murthy Mej (B)
-43,4,Tetamu #4,Ayam,29,Dato Dr Murthy Mej (B)
-43,5,Tetamu #5,Ikan,29,Dato Dr Murthy Mej (B)
-43,6,Tetamu #6,Ikan,29,Dato Dr Murthy Mej (B)
-43,7,Tetamu #7,Ikan,29,Dato Dr Murthy Mej (B)
-43,8,Tetamu #8,Ikan,29,Dato Dr Murthy Mej (B)
-44,1,Tetamu #1,Daging,30,Softlab
-44,2,Tetamu #2,Daging,30,Softlab
-44,3,Tetamu #3,Daging,30,Softlab
-44,4,Tetamu #4,Ikan,30,Softlab
-44,5,Tetamu #5,Ikan,30,Softlab
-44,6,Tetamu #6,Ikan,30,Softlab
-44,7,Tetamu #7,Ikan,30,Softlab
-44,8,Tetamu #8,Ikan,30,Softlab
-45,1,Tetamu #1,Daging,31,OP79
-45,2,Tetamu #2,Daging,31,OP79
-45,3,Tetamu #3,Daging,31,OP79
-45,4,Tetamu #4,Ikan,31,OP79
-45,5,Tetamu #5,Ikan,31,OP79
-45,6,Tetamu #6,Ikan,31,OP79
-45,7,Tetamu #7,Ikan,31,OP79
-45,8,Tetamu #8,Ikan,31,OP79
+42,1,Tetamu #1,Daging,30,Softlab
+42,2,Tetamu #2,Daging,30,Softlab
+42,3,Tetamu #3,Daging,30,Softlab
+42,4,Tetamu #4,Ikan,30,Softlab
+42,5,Tetamu #5,Ikan,30,Softlab
+42,6,Tetamu #6,Ikan,30,Softlab
+42,7,Tetamu #7,Ikan,30,Softlab
+42,8,Tetamu #8,Ikan,30,Softlab
+43,1,Tetamu #1,Daging,31,OP79
+43,2,Tetamu #2,Daging,31,OP79
+43,3,Tetamu #3,Daging,31,OP79
+43,4,Tetamu #4,Ikan,31,OP79
+43,5,Tetamu #5,Ikan,31,OP79
+43,6,Tetamu #6,Ikan,31,OP79
+43,7,Tetamu #7,Ikan,31,OP79
+43,8,Tetamu #8,Ikan,31,OP79
+44,1,Zahid Amran Lt Kol (B),Ikan,32,Khas#4
+44,2,Nazaruddin Idris Mej (B),Ayam,32,Khas#4
+44,3,Nazaruddin Idris Mej (B) | Isteri,Ikan,32,Khas#4
+44,4,Wan Rusdi Mej (B),nan,32,Khas#4
+44,5,Wan Rusdi Mej (B) | Isteri,nan,32,Khas#4
+44,6,Kamaruddin Kassim Lt Kol (B),Ikan,32,Khas#4
+44,7,Kamaruddin Kassim Lt Kol (B) | Isteri,Ayam,32,Khas#4
+44,8,Azman Osman Lt Kol (B),nan,32,Khas#4
+45,1,Ramli Omar Lt Kol (B),Ayam,32,Khas#4
+45,2,Ramli Omar Lt Kol (B) | Isteri,Daging,32,Khas#4
+45,3,Idros Mat Isa Mej (B),Daging,32,Khas#4
+45,4,Idros Mat Isa Mej (B) | Isteri,Ikan,32,Khas#4
+45,5,Simpanan,N/A,0,RESERVE_SEAT
+45,6,Simpanan,N/A,0,RESERVE_SEAT
+45,7,Simpanan,N/A,0,RESERVE_SEAT
+45,8,Simpanan,N/A,0,RESERVE_SEAT
