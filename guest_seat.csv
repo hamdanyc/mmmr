@@ -1,6 +1,6 @@
 table_number,seat,name,menu,gp_id,gp_name
 1,1,DYMM Tuanku Raja Perlis,Daging,1,Diraja
-1,2,YB Adly  Zahari,Daging,1,Diraja
+1,2,Datuk Lokman Hakim Bin Ali,Daging,1,Diraja
 1,3,Jen Tan Sri Datuk Mohd Nizam Jaffar,Daging,1,Diraja
 1,4,Tan Sri Dr. Syed Azman Syed Ibrahim,Daging,1,Diraja
 1,5,Jen Tan Sri Dato' Sri Muhammad Hafizuddeain Jantan,Daging,1,Diraja
@@ -17,22 +17,22 @@ table_number,seat,name,menu,gp_id,gp_name
 2,7,Datin Sri Noriman Mat,Ikan,1,Diraja
 2,8,Simpanan Diraja #2,Daging,1,Diraja
 2,9,Simpanan Diraja #3,Daging,1,Diraja
-3,1,Tetamu #1,Daging,2,weststar
-3,2,Tetamu #2,Daging,2,weststar
-3,3,Tetamu #3,Daging,2,weststar
-3,4,Tetamu #4,Daging,2,weststar
-3,5,Tetamu #5,Daging,2,weststar
-3,6,Tetamu #6,Daging,2,weststar
-3,7,Tetamu #7,Daging,2,weststar
-3,8,Tetamu #8,Daging,2,weststar
-4,1,Tetamu #1,Daging,2,weststar
-4,2,Tetamu #2,Daging,2,weststar
-4,3,Tetamu #3,Daging,2,weststar
-4,4,Tetamu #4,Daging,2,weststar
-4,5,Tetamu #5,Daging,2,weststar
-4,6,Tetamu #6,Daging,2,weststar
-4,7,Tetamu #7,Daging,2,weststar
-4,8,Tetamu #8,Daging,2,weststar
+3,1,Mohd Nazri Bin Marzuke Kapten,Daging,2,weststar
+3,2,Suhaimi Bin Sani Kapten,Daging,2,weststar
+3,3,Datuk Ts. Wan Hasmar Azim Bin Wan Hassan,Daging,2,weststar
+3,4,Datuk Hasagaya Bin Abdullah Lt Jen (B),Daging,2,weststar
+3,5,Datuk Baharom Bin Hamzah Lt Jen (B),Ikan,2,weststar
+3,6,Mohd Amin Bin Mohd Razi Kol (B),Daging,2,weststar
+3,7,Salleh Bin Ariffin,Ikan,2,weststar
+3,8,Rubendran Baskaran,Ikan,2,weststar
+4,1,Ahmad Rashide Bin Mustapah,Ikan,2,weststar
+4,2,Ahmad Zamroni Bin Ahmad Zawawi,Daging,2,weststar
+4,3,Abdul Rashid Bin Othman Kapten,Daging,2,weststar
+4,4,Ts. Mohd Azeem Bin Hj Laikar Ali,Ayam,2,weststar
+4,5,Datuk Kamil Bin Din,Ikan,2,weststar
+4,6,Sulaiman Ismail,Ikan,2,weststar
+4,7,Mohd Azim Syahmi Bin Abd Latif,Daging,2,weststar
+4,8,Datuk Jamil Bin Osman Laksda (B),Daging,2,weststar
 5,1,Nadi #1,Daging,3,NADI
 5,2,Nadi #2,Daging,3,NADI
 5,3,Nadi #3,Daging,3,NADI
@@ -65,17 +65,17 @@ table_number,seat,name,menu,gp_id,gp_name
 8,6,Dato Arshad Raji Brig Jen (B),Ikan,5,Khas#1
 8,7,Dato Arshad Raji Brig Jen (B) | Isteri,Ikan,5,Khas#1
 8,8,Jen Tan Sri Ismail Hassan Jen (B),Ayam,5,Khas#1
-9,1,Dato Sri Sharon Ibrahim Lt Jen (B) TUDM,Daging,6,Khas#2
-9,2,Dato Sri Sharon Ibrahim Lt Jen (B) TUDM | Isteri,Daging,6,Khas#2
-9,3,Dato Masrani Paiman Mej Jen (B),Daging,6,Khas#2
-9,4,Dato Masrani Paiman Mej Jen (B) | Isteri,Daging,6,Khas#2
-9,5,Dato Shamsiruddin Mej Jen (B),Daging,6,Khas#2
-9,6,Dato Shamsiruddin Mej Jen (B) | Isteri,Daging,6,Khas#2
-9,7,Dato Mustapha Manaf Mej Jen (B),Daging,6,Khas#2
-9,8,Dato Mustapha Manaf Mej Jen (B) | Isteri,Daging,6,Khas#2
+9,1,Zual Ahmad Laksma (B),Ikan,6,Khas#2
+9,2,Zual Ahmad Laksma (B) | Isteri,Ikan,6,Khas#2
+9,3,Dato' Ghani Abdullah Lt Jen (B),Ikan,6,Khas#2
+9,4,Datin Fatimah Huri,Ikan,6,Khas#2
+9,5,Dato Abdullah Ahmad Brig Jen (B) TUDM,Daging,6,Khas#2
+9,6,Datin Hasnah Shariff,Daging,6,Khas#2
+9,7,Simpanan Khas #2,nan,6,Khas#2
+9,8,Simpanan Khas #2,nan,6,Khas#2
 10,1,Dato Sameon Marjuki Mej Jen,Daging,7,Khas#3
 10,2,Dato Sameon Marjuki Mej Jen | Isteri,Ikan,7,Khas#3
-10,3,Dato Abdul Aziz Mansur Mej Jen (B),nan,7,Khas#3
+10,3,Dato Abdul Aziz Mansur Mej Jen (B),Daging,7,Khas#3
 10,4,Dato Abdul Aziz Mansur Mej Jen (B) | Isteri,nan,7,Khas#3
 10,5,Tan Sri Sulaiman Sujak Jen (B) TUDM,nan,7,Khas#3
 10,6,Tan Sri Sulaiman Sujak Jen (B) TUDM | Isteri,nan,7,Khas#3
@@ -113,14 +113,14 @@ table_number,seat,name,menu,gp_id,gp_name
 14,6,Jay,Daging,14,MMU
 14,7,Tini,Daging,14,MMU
 14,8,Andy,Daging,14,MMU
-15,1,Tetamu #1,Daging,14,Ramli Kinta Lt Kol (B)
-15,2,Tetamu #2,Daging,14,Ramli Kinta Lt Kol (B)
-15,3,Tetamu #3,Daging,14,Ramli Kinta Lt Kol (B)
-15,4,Tetamu #4,Ikan,14,Ramli Kinta Lt Kol (B)
-15,5,Tetamu #5,Ikan,14,Ramli Kinta Lt Kol (B)
-15,6,Tetamu #6,Ikan,14,Ramli Kinta Lt Kol (B)
-15,7,Tetamu #7,Ikan,14,Ramli Kinta Lt Kol (B)
-15,8,Tetamu #8,Ikan,14,Ramli Kinta Lt Kol (B)
+15,1,Tan Sri Hashim Meon,Daging,14,Ramli Kinta Lt Kol (B)
+15,2,⁠Dato Hashim Yahaya,nan,14,Ramli Kinta Lt Kol (B)
+15,3,⁠Ramli Kinta Lt Kol (B),Daging,14,Ramli Kinta Lt Kol (B)
+15,4,⁠Rahmah Abd Ghani,Daging,14,Ramli Kinta Lt Kol (B)
+15,5,⁠Dato Sadon Kaprawi Mej (B),Daging,14,Ramli Kinta Lt Kol (B)
+15,6,⁠Datin Mas Shariff,Daging,14,Ramli Kinta Lt Kol (B)
+15,7,⁠Abd Rani Shamsuddin Kol (B),Daging,14,Ramli Kinta Lt Kol (B)
+15,8,⁠Norizan,Daging,14,Ramli Kinta Lt Kol (B)
 16,1,Yusseri Yusoof Lt M (B),Daging,15,Intake27
 16,2,Tan Sri Dato Wira Abd Halim Bin Karim Lt (B),Daging,15,Intake27
 16,3,Md Yon Sapon Mej (B),Daging,15,Intake27
@@ -208,7 +208,7 @@ table_number,seat,name,menu,gp_id,gp_name
 26,5,Simpanan Michael Choo,nan,18,AJK
 26,6,Hj Abdul Kadir Bin Shoib Mej (B),Ikan,999,Reserve
 26,7,Dato' Baharizan Brig Jen (B),Ikan,999,Reserve
-26,8,Simpanan,N/A,0,RESERVE_SEAT
+26,8,Dato' Effendi Lt Jen (B),Ikan,999,Reserve
 27,1,Tetamu Istana Perlis #1,Daging,19,Istana-Perlis
 27,2,Tetamu Istana Perlis #2,Daging,19,Istana-Perlis
 27,3,Tetamu Istana Perlis #3,Daging,19,Istana-Perlis
