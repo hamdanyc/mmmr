@@ -205,11 +205,11 @@ table_number,seat,name,menu,gp_id,gp_name
 26,1,Abu Bakar,Daging,23,AJK
 26,2,Lokman Mohamad Satir,Ayam,23,AJK
 26,3,Lokman Mohamad Satir | Isteri,Daging,23,AJK
-26,4,Simpanan Michael Choo,nan,23,AJK
-26,5,Simpanan Michael Choo,nan,23,AJK
-26,6,Hj Abdul Kadir Bin Shoib Mej (B),Ikan,999,Reserve
-26,7,Dato' Baharizan Brig Jen (B),Ikan,999,Reserve
-26,8,Dato' Effendi Lt Jen (B),Ikan,999,Reserve
+26,4,Hj Abdul Kadir Bin Shoib Mej (B),Ikan,999,Reserve
+26,5,Dato' Baharizan Brig Jen (B),Ikan,999,Reserve
+26,6,Dato' Effendi Lt Jen (B),Ikan,999,Reserve
+26,7,Michael Choo #9,Daging,999,Reserve
+26,8,Michael Choo #10,Daging,999,Reserve
 27,1,Tetamu Istana Perlis #1,Daging,24,Istana-Perlis
 27,2,Tetamu Istana Perlis #2,Daging,24,Istana-Perlis
 27,3,Tetamu Istana Perlis #3,Daging,24,Istana-Perlis
@@ -366,7 +366,7 @@ table_number,seat,name,menu,gp_id,gp_name
 46,2,Ramli Omar Lt Kol (B) | Isteri,Daging,39,Khas#5
 46,3,Idros Mat Isa Mej (B),Daging,39,Khas#5
 46,4,Idros Mat Isa Mej (B) | Isteri,Ikan,39,Khas#5
-46,5,Simpanan,N/A,0,RESERVE_SEAT
+46,5,Michael Choo #11,Daging,999,Reserve
 46,6,Simpanan,N/A,0,RESERVE_SEAT
 46,7,Simpanan,N/A,0,RESERVE_SEAT
 46,8,Simpanan,N/A,0,RESERVE_SEAT
