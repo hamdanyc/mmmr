@@ -1,0 +1,1 @@
+i=1; for old_filename in $(ls -v grp*.csv); do suffix=${old_filename#*-}; new_filename="grp${i}-${suffix}"; mv "$old_filename" "$new_filename"; i=$((i+1)); done
