@@ -73,12 +73,12 @@ table_number,seat,name,menu,gp_id,gp_name
 9,8,Datin Hasnah Shariff,Daging,6,Khas#2
 10,1,Dato Sameon Marjuki Mej Jen,Daging,7,Khas#3
 10,2,Dato Sameon Marjuki Mej Jen | Isteri,Ikan,7,Khas#3
-10,3,Dato Abdul Aziz Mansur Mej Jen (B),Daging,7,Khas#3
-10,4,Dato Abdul Aziz Mansur Mej Jen (B) | Isteri,nan,7,Khas#3
-10,5,Tan Sri Sulaiman Sujak Jen (B) TUDM,nan,7,Khas#3
-10,6,Tan Sri Sulaiman Sujak Jen (B) TUDM | Isteri,nan,7,Khas#3
-10,7,Tan Sri Thanabalan Singam Laksamana (B),nan,7,Khas#3
-10,8,Dato Yusri Mej Jen (B),nan,7,Khas#3
+10,3,Abdullah Khir Lt Kol (B) TUDM,Ikan,7,Khas#3
+10,4,Abdullah Khir Lt Kol (B) TUDM | Isteri,Daging,7,Khas#3
+10,5,Dato Abdul Aziz Mansur Mej Jen (B),Daging,7,Khas#3
+10,6,Dato Abdul Aziz Mansur Mej Jen (B) | Isteri,nan,7,Khas#3
+10,7,Simpanan Khas #3,Daging,7,Khas#3
+10,8,Simpanan Khas #3,Daging,7,Khas#3
 11,1,Dato' Abdullah Samsudin Lt Jen (B),Daging,8,abdullah
 11,2,Dato' Abdullah Samsudin Lt Jen (B) #1,Daging,8,abdullah
 11,3,Dato' Abdullah Samsudin Lt Jen (B) #2,nan,8,abdullah
