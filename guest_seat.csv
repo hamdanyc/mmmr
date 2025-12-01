@@ -146,12 +146,12 @@ table_number,seat,name,menu,gp_id,gp_name
 18,8,Zulkefli Bin Mohd Noor Mej (B),Ayam,15,Intake27
 19,1,Hamdan Yaccob Kol (B),Ikan,16,AJK
 19,2,Hamdan Yaccob Kol (B) | Isteri,Daging,16,AJK
-19,3,Abdullah Khir Lt Kol (B) TUDM,Ikan,16,AJK
-19,4,Abdullah Khir Lt Kol (B) TUDM | Isteri,Daging,16,AJK
-19,5,Mohd Taufik Omar Mej (B),Daging,16,AJK
-19,6,Mohd Taufik Omar Mej (B) | Isteri,Ikan,16,AJK
-19,7,Mohd Zainuri Lt Kol (B) TUDM,Ikan,16,AJK
-19,8,Mohd Zainuri Lt Kol (B) TUDM | Isteri,Daging,16,AJK
+19,3,Mohd Taufik Omar Mej (B),Daging,16,AJK
+19,4,Mohd Taufik Omar Mej (B) | Isteri,Ikan,16,AJK
+19,5,Mohd Zainuri Lt Kol (B) TUDM,Ikan,16,AJK
+19,6,Mohd Zainuri Lt Kol (B) TUDM | Isteri,Daging,16,AJK
+19,7,Zulkarnain Abdullah Lt Kol (B),Ikan,16,AJK
+19,8,Zulkarnain Abdullah Lt Kol (B) | Isteri,Ayam,16,AJK
 20,1,Datuk Halim Khalid Mej Jen (B),Ikan,17,AJK
 20,2,Datin Ismanisa DMHK,Daging,17,AJK
 20,3,Dato' Nawawi Daud Mej Jen (B),Ikan,17,AJK
@@ -198,14 +198,14 @@ table_number,seat,name,menu,gp_id,gp_name
 25,4,Dato' Ariff Soo Mej Jen (B),Ikan,22,AJK
 25,5,Dato' Ariff Soo Mej Jen (B) | Isteri,Ikan,22,AJK
 25,6,Kamal Omar Kol (B),Daging,22,AJK
-25,7,Zulkarnain Abdullah Lt Kol (B),Ikan,22,AJK
-25,8,Zulkarnain Abdullah Lt Kol (B) | Isteri,Ayam,22,AJK
+25,7,Dato' Baharizan Brig Jen (B),Ikan,22,AJK
+25,8,Dato' Effendi Lt Jen (B),Ikan,22,AJK
 26,1,Abu Bakar,Daging,23,AJK
 26,2,Lokman Mohamad Satir,Ayam,23,AJK
 26,3,Lokman Mohamad Satir | Isteri,Daging,23,AJK
 26,4,Hj Abdul Kadir Bin Shoib Mej (B),Ikan,999,Reserve
-26,5,Dato' Baharizan Brig Jen (B),Ikan,999,Reserve
-26,6,Dato' Effendi Lt Jen (B),Ikan,999,Reserve
+26,5,Simpanan,N/A,0,RESERVE_SEAT
+26,6,Simpanan,N/A,0,RESERVE_SEAT
 26,7,Simpanan,N/A,0,RESERVE_SEAT
 26,8,Simpanan,N/A,0,RESERVE_SEAT
 27,1,Tan Sri Dato’ Wira Abd Halim Bin Karim Lt (B) | Isteri,Daging,25,Intake27
