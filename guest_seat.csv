@@ -208,38 +208,38 @@ table_number,seat,name,menu,gp_id,gp_name
 26,6,Simpanan,N/A,0,RESERVE_SEAT
 26,7,Simpanan,N/A,0,RESERVE_SEAT
 26,8,Simpanan,N/A,0,RESERVE_SEAT
-27,1,Tan Sri Dato’ Wira Abd Halim Bin Karim Lt (B) | Isteri,Daging,25,Intake27
-27,2,Dato’ Musa Bin Omar Laksda (B) | Isteri,Daging,25,Intake27
-27,3,Dato’ Seri Mohd Noor Bin Daud Mej Jen (B) | Isteri,Daging,25,Intake27
-27,4,Dato’ Mohd Noh Bin Lebai Mahat Laksda (B) | Isteri,Daging,25,Intake27
-27,5,Abdul Rahman Bin Abdul Majid Lt Kol (B) | Isteri,Daging,25,Intake27
-27,6,Mohd Ali Bin Husin Lt Kol (B) | Isteri,Ikan,25,Intake27
-27,7,A. Aziz Ahmad Lt (B) | Isteri,Ikan,25,Intake27
-27,8,Ramli Othman,Daging,25,Intake27
-28,1,Leong Kuan Kdr (B),Ayam,26,Intake27
-28,2,Ismail Bakar Mej (B),Ikan,26,Intake27
-28,3,Dato’ Mohd Noh Bin Lebai Mahat Laksda (B),Ikan,26,Intake27
-28,4,Dato’ Ahmad Tarmizi Mej Jen (B),Daging,26,Intake27
-28,5,Gerard Dennis Singam,Daging,26,Intake27
-28,6,Abd Majid Bin Norudin Mej (B),Daging,26,Intake27
-28,7,Kamaruddin Bin Abdullah Lt Kol (B),Daging,26,Intake27
-28,8,Ramli Othman,Ayam,26,Intake27
-29,1,Intake 24 #1,Daging,27,Intake24
-29,2,Intake 24 #2,Daging,27,Intake24
-29,3,Intake 24 #3,Daging,27,Intake24
-29,4,Intake 24 #4,Daging,27,Intake24
-29,5,Intake 24 #5,Daging,27,Intake24
-29,6,Intake 24 #6,Daging,27,Intake24
-29,7,Intake 24 #7,Daging,27,Intake24
-29,8,Intake 24 #8,Daging,27,Intake24
-30,1,Dato' Nawawi Desa Lt Kol (B),Daging,28,Dato Nawawi Desa Lt Kol (B)
-30,2,Aizat Nawawi,Daging,28,Dato Nawawi Desa Lt Kol (B)
-30,3,Dato' Nawawi #1,nan,28,Dato Nawawi Desa Lt Kol (B)
-30,4,Dato' Nawawi #2,nan,28,Dato Nawawi Desa Lt Kol (B)
-30,5,Dato' Nawawi #3,nan,28,Dato Nawawi Desa Lt Kol (B)
-30,6,Dato' Nawawi #4,nan,28,Dato Nawawi Desa Lt Kol (B)
-30,7,Dato' Nawawi #5,nan,28,Dato Nawawi Desa Lt Kol (B)
-30,8,Dato' Nawawi #6,nan,28,Dato Nawawi Desa Lt Kol (B)
+27,1,Intake 24 #1,Daging,24,Intake24
+27,2,Intake 24 #2,Daging,24,Intake24
+27,3,Intake 24 #3,Daging,24,Intake24
+27,4,Intake 24 #4,Daging,24,Intake24
+27,5,Intake 24 #5,Daging,24,Intake24
+27,6,Intake 24 #6,Daging,24,Intake24
+27,7,Intake 24 #7,Daging,24,Intake24
+27,8,Intake 24 #8,Daging,24,Intake24
+28,1,Dato' Nawawi Desa Lt Kol (B),Daging,25,Dato Nawawi Desa Lt Kol (B)
+28,2,Aizat Nawawi,Daging,25,Dato Nawawi Desa Lt Kol (B)
+28,3,Dato' Nawawi #1,nan,25,Dato Nawawi Desa Lt Kol (B)
+28,4,Dato' Nawawi #2,nan,25,Dato Nawawi Desa Lt Kol (B)
+28,5,Dato' Nawawi #3,nan,25,Dato Nawawi Desa Lt Kol (B)
+28,6,Dato' Nawawi #4,nan,25,Dato Nawawi Desa Lt Kol (B)
+28,7,Dato' Nawawi #5,nan,25,Dato Nawawi Desa Lt Kol (B)
+28,8,Dato' Nawawi #6,nan,25,Dato Nawawi Desa Lt Kol (B)
+29,1,Tan Sri Dato’ Wira Abd Halim Bin Karim Lt (B) | Isteri,Daging,26,Intake27
+29,2,Dato’ Musa Bin Omar Laksda (B) | Isteri,Daging,26,Intake27
+29,3,Dato’ Seri Mohd Noor Bin Daud Mej Jen (B) | Isteri,Daging,26,Intake27
+29,4,Dato’ Mohd Noh Bin Lebai Mahat Laksda (B) | Isteri,Daging,26,Intake27
+29,5,Abdul Rahman Bin Abdul Majid Lt Kol (B) | Isteri,Daging,26,Intake27
+29,6,Mohd Ali Bin Husin Lt Kol (B) | Isteri,Ikan,26,Intake27
+29,7,A. Aziz Ahmad Lt (B) | Isteri,Ikan,26,Intake27
+29,8,Ramli Othman,Daging,26,Intake27
+30,1,Leong Kuan Kdr (B),Ayam,27,Intake27
+30,2,Ismail Bakar Mej (B),Ikan,27,Intake27
+30,3,Dato’ Mohd Noh Bin Lebai Mahat Laksda (B),Ikan,27,Intake27
+30,4,Dato’ Ahmad Tarmizi Mej Jen (B),Daging,27,Intake27
+30,5,Gerard Dennis Singam,Daging,27,Intake27
+30,6,Abd Majid Bin Norudin Mej (B),Daging,27,Intake27
+30,7,Kamaruddin Bin Abdullah Lt Kol (B),Daging,27,Intake27
+30,8,Ramli Othman,Ayam,27,Intake27
 31,1,Rmnoa #1,Daging,29,RMNOA
 31,2,Rmnoa #2,Daging,29,RMNOA
 31,3,Rmnoa #3,Daging,29,RMNOA
