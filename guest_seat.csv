@@ -208,8 +208,8 @@ table_number,seat,name,menu,gp_id,gp_name
 26,4,Hj Abdul Kadir Bin Shoib Mej (B),Ikan,999,Reserve
 26,5,Dato' Baharizan Brig Jen (B),Ikan,999,Reserve
 26,6,Dato' Effendi Lt Jen (B),Ikan,999,Reserve
-26,7,Michael Choo #9,Daging,999,Reserve
-26,8,Michael Choo #10,Daging,999,Reserve
+26,7,Simpanan,N/A,0,RESERVE_SEAT
+26,8,Simpanan,N/A,0,RESERVE_SEAT
 27,1,Tetamu Istana Perlis #1,Daging,24,Istana-Perlis
 27,2,Tetamu Istana Perlis #2,Daging,24,Istana-Perlis
 27,3,Tetamu Istana Perlis #3,Daging,24,Istana-Perlis
@@ -250,14 +250,14 @@ table_number,seat,name,menu,gp_id,gp_name
 31,6,Intake 24 #6,Daging,27,Intake24
 31,7,Intake 24 #7,Daging,27,Intake24
 31,8,Intake 24 #8,Daging,27,Intake24
-32,1,Dato Abdul Shukor B. Hj Jaafar Mej Jen (B),Daging,28,Dato Nawawi Desa Lt Kol (B)
-32,2,Datin Maimun Bt Tamby,Daging,28,Dato Nawawi Desa Lt Kol (B)
-32,3,Shuhaimi Bin Abdul Shukor,Daging,28,Dato Nawawi Desa Lt Kol (B)
-32,4,Puan Mariam Bt Tun Ibrahim Ismail Jen (B),Daging,28,Dato Nawawi Desa Lt Kol (B)
-32,5,Ahmad Bin Tun Ibrahim Ismail Jen (B),Daging,28,Dato Nawawi Desa Lt Kol (B)
-32,6,Irhzan Bin Mohd Nor,Daging,28,Dato Nawawi Desa Lt Kol (B)
-32,7,Dato' Nawawi Desa Lt Kol (B),Daging,28,Dato Nawawi Desa Lt Kol (B)
-32,8,Aizat Nawawi,Daging,28,Dato Nawawi Desa Lt Kol (B)
+32,1,Dato' Nawawi Desa Lt Kol (B),Daging,28,Dato Nawawi Desa Lt Kol (B)
+32,2,Aizat Nawawi,Daging,28,Dato Nawawi Desa Lt Kol (B)
+32,3,Tetamu #1 Dato' Nawawi,nan,28,Dato Nawawi Desa Lt Kol (B)
+32,4,Tetamu #2 Dato' Nawawi,nan,28,Dato Nawawi Desa Lt Kol (B)
+32,5,Tetamu #3 Dato' Nawawi,nan,28,Dato Nawawi Desa Lt Kol (B)
+32,6,Tetamu #4 Dato' Nawawi,nan,28,Dato Nawawi Desa Lt Kol (B)
+32,7,Tetamu #5 Dato' Nawawi,nan,28,Dato Nawawi Desa Lt Kol (B)
+32,8,Tetamu #6 Dato' Nawawi,nan,28,Dato Nawawi Desa Lt Kol (B)
 33,1,Rmnoa #1,Daging,29,RMNOA
 33,2,Rmnoa #2,Daging,29,RMNOA
 33,3,Rmnoa #3,Daging,29,RMNOA
@@ -366,15 +366,15 @@ table_number,seat,name,menu,gp_id,gp_name
 46,2,Ramli Omar Lt Kol (B) | Isteri,Daging,39,Khas#5
 46,3,Idros Mat Isa Mej (B),Daging,39,Khas#5
 46,4,Idros Mat Isa Mej (B) | Isteri,Ikan,39,Khas#5
-46,5,Michael Choo #11,Daging,999,Reserve
-46,6,Simpanan,N/A,0,RESERVE_SEAT
-46,7,Simpanan,N/A,0,RESERVE_SEAT
+46,5,Michael Choo #9,Daging,39,Khas#5
+46,6,Michael Choo #10,Daging,39,Khas#5
+46,7,Michael Choo #11,Daging,39,Khas#5
 46,8,Simpanan,N/A,0,RESERVE_SEAT
-47,1,Simpanan Michael Choo,Daging,40,Michael
-47,2,Simpanan Michael Choo,Daging,40,Michael
-47,3,Simpanan Michael Choo,Daging,40,Michael
-47,4,Simpanan Michael Choo,Daging,40,Michael
-47,5,Simpanan Michael Choo,Daging,40,Michael
-47,6,Simpanan Michael Choo,Daging,40,Michael
-47,7,Simpanan Michael Choo,Daging,40,Michael
-47,8,Simpanan Michael Choo,Daging,40,Michael
+47,1,Tetamu #1 Michael Choo,Daging,40,Michael
+47,2,Tetamu #2 Michael Choo,Daging,40,Michael
+47,3,Tetamu #3 Michael Choo,Daging,40,Michael
+47,4,Tetamu #4 Michael Choo,Daging,40,Michael
+47,5,Tetamu #5 Michael Choo,Daging,40,Michael
+47,6,Tetamu #6 Michael Choo,Daging,40,Michael
+47,7,Tetamu #7 Michael Choo,Daging,40,Michael
+47,8,Tetamu #8 Michael Choo,Daging,40,Michael
