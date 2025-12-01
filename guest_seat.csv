@@ -210,22 +210,22 @@ table_number,seat,name,menu,gp_id,gp_name
 26,6,Dato' Effendi Lt Jen (B),Ikan,999,Reserve
 26,7,Simpanan,N/A,0,RESERVE_SEAT
 26,8,Simpanan,N/A,0,RESERVE_SEAT
-27,1,Tetamu Istana Perlis #1,Daging,24,Istana-Perlis
-27,2,Tetamu Istana Perlis #2,Daging,24,Istana-Perlis
-27,3,Tetamu Istana Perlis #3,Daging,24,Istana-Perlis
-27,4,Tetamu Istana Perlis #4,Daging,24,Istana-Perlis
-27,5,Tetamu Istana Perlis #5,Daging,24,Istana-Perlis
-27,6,Tetamu Istana Perlis #6,Ikan,24,Istana-Perlis
-27,7,Tetamu Istana Perlis #7,Ikan,24,Istana-Perlis
-27,8,Tetamu Istana Perlis #8,Ikan,24,Istana-Perlis
-28,1,Tetamu Istana Perlis #9,Daging,24,Istana-Perlis
-28,2,Tetamu Istana Perlis #10,Daging,24,Istana-Perlis
-28,3,Tetamu Istana Perlis #11,Daging,24,Istana-Perlis
-28,4,Tetamu Istana Perlis #12,Daging,24,Istana-Perlis
-28,5,Tetamu Istana Perlis #13,Daging,24,Istana-Perlis
-28,6,Tetamu Istana Perlis #14,Ikan,24,Istana-Perlis
-28,7,Tetamu Istana Perlis #15,Ikan,24,Istana-Perlis
-28,8,Tetamu Istana Perlis #16,Ikan,24,Istana-Perlis
+27,1,Istana Perlis #1,Daging,24,Istana-Perlis
+27,2,Istana Perlis #2,Daging,24,Istana-Perlis
+27,3,Istana Perlis #3,Daging,24,Istana-Perlis
+27,4,Istana Perlis #4,Daging,24,Istana-Perlis
+27,5,Istana Perlis #5,Daging,24,Istana-Perlis
+27,6,Istana Perlis #6,Ikan,24,Istana-Perlis
+27,7,Istana Perlis #7,Ikan,24,Istana-Perlis
+27,8,Istana Perlis #8,Ikan,24,Istana-Perlis
+28,1,Istana Perlis #9,Daging,24,Istana-Perlis
+28,2,Istana Perlis #10,Daging,24,Istana-Perlis
+28,3,Istana Perlis #11,Daging,24,Istana-Perlis
+28,4,Istana Perlis #12,Daging,24,Istana-Perlis
+28,5,Istana Perlis #13,Daging,24,Istana-Perlis
+28,6,Istana Perlis #14,Ikan,24,Istana-Perlis
+28,7,Istana Perlis #15,Ikan,24,Istana-Perlis
+28,8,Istana Perlis #16,Ikan,24,Istana-Perlis
 29,1,Tan Sri Dato’ Wira Abd Halim Bin Karim Lt (B) | Isteri,Daging,25,Intake27
 29,2,Dato’ Musa Bin Omar Laksda (B) | Isteri,Daging,25,Intake27
 29,3,Dato’ Seri Mohd Noor Bin Daud Mej Jen (B) | Isteri,Daging,25,Intake27
@@ -252,12 +252,12 @@ table_number,seat,name,menu,gp_id,gp_name
 31,8,Intake 24 #8,Daging,27,Intake24
 32,1,Dato' Nawawi Desa Lt Kol (B),Daging,28,Dato Nawawi Desa Lt Kol (B)
 32,2,Aizat Nawawi,Daging,28,Dato Nawawi Desa Lt Kol (B)
-32,3,Tetamu #1 Dato' Nawawi,nan,28,Dato Nawawi Desa Lt Kol (B)
-32,4,Tetamu #2 Dato' Nawawi,nan,28,Dato Nawawi Desa Lt Kol (B)
-32,5,Tetamu #3 Dato' Nawawi,nan,28,Dato Nawawi Desa Lt Kol (B)
-32,6,Tetamu #4 Dato' Nawawi,nan,28,Dato Nawawi Desa Lt Kol (B)
-32,7,Tetamu #5 Dato' Nawawi,nan,28,Dato Nawawi Desa Lt Kol (B)
-32,8,Tetamu #6 Dato' Nawawi,nan,28,Dato Nawawi Desa Lt Kol (B)
+32,3,Dato' Nawawi #1,nan,28,Dato Nawawi Desa Lt Kol (B)
+32,4,Dato' Nawawi #2,nan,28,Dato Nawawi Desa Lt Kol (B)
+32,5,Dato' Nawawi #3,nan,28,Dato Nawawi Desa Lt Kol (B)
+32,6,Dato' Nawawi #4,nan,28,Dato Nawawi Desa Lt Kol (B)
+32,7,Dato' Nawawi #5,nan,28,Dato Nawawi Desa Lt Kol (B)
+32,8,Dato' Nawawi #6,nan,28,Dato Nawawi Desa Lt Kol (B)
 33,1,Rmnoa #1,Daging,29,RMNOA
 33,2,Rmnoa #2,Daging,29,RMNOA
 33,3,Rmnoa #3,Daging,29,RMNOA
@@ -370,11 +370,11 @@ table_number,seat,name,menu,gp_id,gp_name
 46,6,Michael Choo #10,Daging,39,Khas#5
 46,7,Michael Choo #11,Daging,39,Khas#5
 46,8,Simpanan,N/A,0,RESERVE_SEAT
-47,1,Tetamu #1 Michael Choo,Daging,40,Michael
-47,2,Tetamu #2 Michael Choo,Daging,40,Michael
-47,3,Tetamu #3 Michael Choo,Daging,40,Michael
-47,4,Tetamu #4 Michael Choo,Daging,40,Michael
-47,5,Tetamu #5 Michael Choo,Daging,40,Michael
-47,6,Tetamu #6 Michael Choo,Daging,40,Michael
-47,7,Tetamu #7 Michael Choo,Daging,40,Michael
-47,8,Tetamu #8 Michael Choo,Daging,40,Michael
+47,1,Michael Choo #1,Daging,40,Michael
+47,2,Michael Choo #2,Daging,40,Michael
+47,3,Michael Choo #3,Daging,40,Michael
+47,4,Michael Choo #4,Daging,40,Michael
+47,5,Michael Choo #5,Daging,40,Michael
+47,6,Michael Choo #6,Daging,40,Michael
+47,7,Michael Choo #7,Daging,40,Michael
+47,8,Michael Choo #8,Daging,40,Michael
