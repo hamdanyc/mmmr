@@ -38,8 +38,8 @@ grid_html = """
 <style>
     .table-grid {
         display: grid;
-        grid-template-columns: repeat(6, 1fr);
-        grid-template-rows: repeat(8, 1fr);
+        grid-template-columns: repeat(7, 1fr);
+        grid-template-rows: repeat(7, 1fr);
         gap: 5px;
         margin: 0 auto;
         max-width: 800px;
@@ -69,9 +69,9 @@ grid_html = """
 
 # Create 10 rows with 6 columns each (60 tables total)
 wakil_index = 0
-for row in range(12):
-    for col in range(6):
-        table_number = row * 6 + col + 1 
+for row in range(7):
+    for col in range(7):
+        table_number = row * 7 + col + 1 
         table_id = f"R{table_number}"
         
         # If this table is in the booked tables list and we still have wakil names
