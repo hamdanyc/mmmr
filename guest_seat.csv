@@ -71,14 +71,14 @@ table_number,seat,name,menu,gp_id,gp_name
 9,6,Datin Fatimah Huri,Ikan,6,Khas#2
 9,7,Dato Abdullah Ahmad Brig Jen (B) TUDM,Daging,6,Khas#2
 9,8,Datin Hasnah Shariff,Daging,6,Khas#2
-10,1,Dato Sameon Marjuki Mej Jen,Daging,7,Khas#3
-10,2,Dato Sameon Marjuki Mej Jen | Isteri,Ikan,7,Khas#3
-10,3,Abdullah Khir Lt Kol (B) TUDM,Ikan,7,Khas#3
-10,4,Abdullah Khir Lt Kol (B) TUDM | Isteri,Daging,7,Khas#3
-10,5,Dato Abdul Aziz Mansur Mej Jen (B),Daging,7,Khas#3
-10,6,Dato Abdul Aziz Mansur Mej Jen (B) | Isteri,nan,7,Khas#3
-10,7,Simpanan Khas #3,Daging,7,Khas#3
-10,8,Simpanan Khas #3,Daging,7,Khas#3
+10,1,Lt Jen Dato' Nur Hafis Bin Abd Karim TUDM,Daging,7,Khas#3
+10,2,Datin Maznah Bt Hj Johari,Ikan,7,Khas#3
+10,3,Dato Sameon Marjuki Mej Jen,Daging,7,Khas#3
+10,4,Dato Sameon Marjuki Mej Jen | Isteri,Ikan,7,Khas#3
+10,5,Abdullah Khir Lt Kol (B) TUDM,Ikan,7,Khas#3
+10,6,Abdullah Khir Lt Kol (B) TUDM | Isteri,Daging,7,Khas#3
+10,7,Dato Abdul Aziz Mansur Mej Jen (B),Daging,7,Khas#3
+10,8,Simpanan Khas #3,nan,7,Khas#3
 11,1,Dato' Abdullah Samsudin Lt Jen (B),Daging,8,abdullah
 11,2,Dato' Abdullah Samsudin Lt Jen (B) #1,Daging,8,abdullah
 11,3,Dato' Abdullah Samsudin Lt Jen (B) #2,nan,8,abdullah
@@ -95,14 +95,14 @@ table_number,seat,name,menu,gp_id,gp_name
 12,6,Rma Sandhurst #6,Ikan,9,RMA-Sandhust
 12,7,Rma Sandhurst #7,Ikan,9,RMA-Sandhust
 12,8,Rma Sandhurst #8,Ikan,9,RMA-Sandhust
-13,1,Mohd Azam Kol (B),Daging,10,OP72
-13,2,Dato Aziz Ahmad Brig Jen (B),Daging,10,OP72
-13,3,Dato Sofian Arshad,Daging,10,OP72
-13,4,Dato Nasser Ahmad Mej Jen (B),Daging,10,OP72
-13,5,Dato Jamil Osman Laksdya (B),Daging,10,OP72
-13,6,Dato Manaf Zaid Mej Jen (B),Daging,10,OP72
-13,7,Simpanan Op72,nan,10,OP72
-13,8,Simpanan Op72,nan,10,OP72
+13,1,Tan Sri Zulkifle Kassim Jen (B),Daging,10,OP72
+13,2,Mohd Azam Kol (B),Daging,10,OP72
+13,3,Dato Aziz Ahmad Brig Jen (B),Ikan,10,OP72
+13,4,Dato Sofian Arshad,Daging,10,OP72
+13,5,Dato Nasser Ahmad Mej Jen (B),Daging,10,OP72
+13,6,Dato Zulkifli Saini Brig Jen (B),Ayam,10,OP72
+13,7,Dato Razak Ahmad Brig Jen (B) TUDM,Daging,10,OP72
+13,8,Shahrim Ahmad Kdr (B),Daging,10,OP72
 14,1,Tan Sri Hashim Meon,Daging,11,Ramli
 14,2,Dato Hashim Yahaya,nan,11,Ramli
 14,3,Ramli Kinta Lt Kol (B),Daging,11,Ramli
