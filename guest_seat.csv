@@ -2,16 +2,16 @@ table_number,seat,name,menu,gp_id,gp_name
 1,1,Istana Perlis #1,Daging,1,Istana-Perlis
 1,2,Istana Perlis #2,Daging,1,Istana-Perlis
 1,3,Istana Perlis #3,Daging,1,Istana-Perlis
-1,4,Istana Perlis #4,Daging,1,Istana-Perlis
-1,5,Istana Perlis #5,Daging,1,Istana-Perlis
+1,4,Istana Perlis #4,Ayam,1,Istana-Perlis
+1,5,Istana Perlis #5,Ayam,1,Istana-Perlis
 1,6,Istana Perlis #6,Ikan,1,Istana-Perlis
 1,7,Istana Perlis #7,Ikan,1,Istana-Perlis
 1,8,Istana Perlis #8,Ikan,1,Istana-Perlis
 2,1,Istana Perlis #9,Daging,1,Istana-Perlis
 2,2,Istana Perlis #10,Daging,1,Istana-Perlis
 2,3,Istana Perlis #11,Daging,1,Istana-Perlis
-2,4,Istana Perlis #12,Daging,1,Istana-Perlis
-2,5,Istana Perlis #13,Daging,1,Istana-Perlis
+2,4,Istana Perlis #12,Ayam,1,Istana-Perlis
+2,5,Istana Perlis #13,Ayam,1,Istana-Perlis
 2,6,Istana Perlis #14,Ikan,1,Istana-Perlis
 2,7,Istana Perlis #15,Ikan,1,Istana-Perlis
 2,8,Istana Perlis #16,Ikan,1,Istana-Perlis
@@ -87,14 +87,14 @@ table_number,seat,name,menu,gp_id,gp_name
 11,6,Husaini Abdullah Kept (B),Ikan,8,abdullah
 11,7,Hassim Haron Kol (B),Daging,8,abdullah
 11,8,Dato' Abdullah Samsudin Lt Jen (B) | Ahli Keluarga,Daging,8,abdullah
-12,1,Rma Sandhurst #1,Daging,9,RMA-Sandhust
-12,2,Rma Sandhurst #2,Daging,9,RMA-Sandhust
-12,3,Rma Sandhurst #3,Daging,9,RMA-Sandhust
-12,4,Rma Sandhurst #4,Ikan,9,RMA-Sandhust
-12,5,Rma Sandhurst #5,Ikan,9,RMA-Sandhust
-12,6,Rma Sandhurst #6,Ikan,9,RMA-Sandhust
-12,7,Rma Sandhurst #7,Ikan,9,RMA-Sandhust
-12,8,Rma Sandhurst #8,Ikan,9,RMA-Sandhust
+12,1,Tan Sri Ya'Cob Jen (B),Daging,9,RMA-Sandhust
+12,2,Dato Amir Guntur Mej Jen (B),Daging,9,RMA-Sandhust
+12,3,Ramli Nik Kol (B),Daging,9,RMA-Sandhust
+12,4,Dato' Hadi Razak Brig Jen (B),Ikan,9,RMA-Sandhust
+12,5,Dato' Zulkifli Mazlan Mej Jen (B),Ikan,9,RMA-Sandhust
+12,6,Dato' Zulkifli Mazlan Mej Jen (B) | Isteri,Ikan,9,RMA-Sandhust
+12,7,Dato' Tajri Mej Jen (B),Ikan,9,RMA-Sandhust
+12,8,Rdato' Tajri Mej Jen (B) | Isteri,Ikan,9,RMA-Sandhust
 13,1,Tan Sri Zulkifle Kassim Jen (B),Daging,10,OP75
 13,2,Mohd Azam Kol (B),Daging,10,OP75
 13,3,Dato Aziz Ahmad Brig Jen (B),Ikan,10,OP75
@@ -192,14 +192,14 @@ table_number,seat,name,menu,gp_id,gp_name
 24,6,Intake 24 #6,Daging,21,Intake24
 24,7,Intake 24 #7,Daging,21,Intake24
 24,8,Intake 24 #8,Daging,21,Intake24
-25,1,Dato' Nawawi Desa Lt Kol (B),Daging,22,Dato Nawawi Desa Lt Kol (B)
+25,1,Dato' Nawawi Desa Lt Kol (B),Ikan,22,Dato Nawawi Desa Lt Kol (B)
 25,2,Aizat Nawawi,Daging,22,Dato Nawawi Desa Lt Kol (B)
-25,3,Dato' Nawawi #1,nan,22,Dato Nawawi Desa Lt Kol (B)
-25,4,Dato' Nawawi #2,nan,22,Dato Nawawi Desa Lt Kol (B)
-25,5,Dato' Nawawi #3,nan,22,Dato Nawawi Desa Lt Kol (B)
-25,6,Dato' Nawawi #4,nan,22,Dato Nawawi Desa Lt Kol (B)
-25,7,Dato' Nawawi #5,nan,22,Dato Nawawi Desa Lt Kol (B)
-25,8,Dato' Nawawi #6,nan,22,Dato Nawawi Desa Lt Kol (B)
+25,3,Dato' Nawawi #1,Daging,22,Dato Nawawi Desa Lt Kol (B)
+25,4,Dato' Nawawi #2,Daging,22,Dato Nawawi Desa Lt Kol (B)
+25,5,Dato' Nawawi #3,Ikan,22,Dato Nawawi Desa Lt Kol (B)
+25,6,Dato' Nawawi #4,Ikan,22,Dato Nawawi Desa Lt Kol (B)
+25,7,Dato' Nawawi #5,Ikan,22,Dato Nawawi Desa Lt Kol (B)
+25,8,Dato' Nawawi #6,Ikan,22,Dato Nawawi Desa Lt Kol (B)
 26,1,Lim Kim Fong Lt Kol (B),Ikan,23,Intake27
 26,2,Mohd Ali Bin Husin Lt Kol (B),Daging,23,Intake27
 26,3,Dato Asmuni Bin Takriff Brig Jen (B),Daging,23,Intake27
@@ -377,12 +377,12 @@ table_number,seat,name,menu,gp_id,gp_name
 47,7,Simpanan,N/A,0,RESERVE_SEAT
 47,8,Simpanan,N/A,0,RESERVE_SEAT
 48,1,Dato' Manaf Mej Jen (B) TUDM,Daging,44,GV
-48,2,Dato' Manaf Mej Jen (B) TUDM | Isteri,Daging,44,GV
+48,2,Dato' Manaf Mej Jen (B) TUDM | Isteri,Ayam,44,GV
 48,3,Azman Mej (B),Daging,44,GV
 48,4,Azman Mej (B) | Isteri,Daging,44,GV
-48,5,Kadir Sultan Mej (B),Daging,44,GV
-48,6,Mustapha Aka Bob Mej (B),Daging,44,GV
-48,7,Simpanan,N/A,0,RESERVE_SEAT
+48,5,Kadir Sultan Mej (B),Ikan,44,GV
+48,6,Kadir Sultan Mej (B) | Isteri,Ikan,44,GV
+48,7,Mustapha @Bob Mej (B),Daging,44,GV
 48,8,Simpanan,N/A,0,RESERVE_SEAT
 49,1,Raymond Lt Kol (B),Daging,45,Raymond
 49,2,Raymond Lt Kol (B) #1,Daging,45,Raymond
