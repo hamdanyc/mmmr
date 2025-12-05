@@ -198,8 +198,8 @@ table_number,seat,name,menu,gp_id,gp_name
 25,4,Dato' Ariff Soo Mej Jen (B),Ikan,22,AJK
 25,5,Dato' Ariff Soo Mej Jen (B) | Isteri,Ikan,22,AJK
 25,6,Kamal Omar Kol (B),Daging,22,AJK
-25,7,Dato' Baharizan Brig Jen (B),Ikan,22,AJK
-25,8,Dato' Effendi Lt Jen (B),Ikan,22,AJK
+25,7,Meor Rosli Mej (B),Daging,22,AJK
+25,8,Meor Rosli Mej (B) | Isteri,Daging,22,AJK
 26,1,Leong Kuan Kdr (B),Ayam,23,Intake27
 26,2,Ismail Bakar Mej (B),Ikan,23,Intake27
 26,3,Dato’ Mohd Noh Bin Lebai Mahat Laksda (B),Ikan,23,Intake27
@@ -222,7 +222,7 @@ table_number,seat,name,menu,gp_id,gp_name
 28,4,Zulmajdi Zainal,Daging,25,AJK
 28,5,Wawa Hamdan,Daging,25,AJK
 28,6,Hj Abdul Kadir Bin Shoib Mej (B),Ikan,999,Reserve
-28,7,Simpanan,N/A,0,RESERVE_SEAT
+28,7,Dato' Baharizan Brig Jen (B),Daging,999,Reserve
 28,8,Simpanan,N/A,0,RESERVE_SEAT
 29,1,Intake 24 #1,Daging,26,Intake24
 29,2,Intake 24 #2,Daging,26,Intake24
