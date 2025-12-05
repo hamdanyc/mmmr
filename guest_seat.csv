@@ -170,8 +170,8 @@ table_number,seat,name,menu,gp_id,gp_name
 21,8,Andy,Daging,18,MMU
 22,1,Hamdan Yaccob Kol (B),Ikan,19,AJK
 22,2,Hamdan Yaccob Kol (B) | Isteri,Daging,19,AJK
-22,3,Mohd Taufik Omar Mej (B),Daging,19,AJK
-22,4,Mohd Taufik Omar Mej (B) | Isteri,Ikan,19,AJK
+22,3,Zulmajdi Zainal,Daging,19,AJK
+22,4,Wawa Hamdan,Daging,19,AJK
 22,5,Mohd Zainuri Lt Kol (B) TUDM,Ikan,19,AJK
 22,6,Mohd Zainuri Lt Kol (B) TUDM | Isteri,Daging,19,AJK
 22,7,Zulkarnain Abdullah Lt Kol (B),Ikan,19,AJK
@@ -219,8 +219,8 @@ table_number,seat,name,menu,gp_id,gp_name
 28,1,Abu Bakar,Daging,25,AJK
 28,2,Lokman Mohamad Satir,Ayam,25,AJK
 28,3,Lokman Mohamad Satir | Isteri,Daging,25,AJK
-28,4,Zulmajdi Zainal,Daging,25,AJK
-28,5,Wawa Hamdan,Daging,25,AJK
+28,4,Mohd Taufik Omar Mej (B),Daging,25,AJK
+28,5,Mohd Taufik Omar Mej (B) | Isteri,Ikan,25,AJK
 28,6,Hj Abdul Kadir Bin Shoib Mej (B),Ikan,999,Reserve
 28,7,Dato' Baharizan Brig Jen (B),Daging,999,Reserve
 28,8,Simpanan,N/A,0,RESERVE_SEAT
