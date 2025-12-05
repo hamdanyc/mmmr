@@ -90,7 +90,7 @@ grid_html = """
        the structure is now separated, but keeping it for safety */
     .table-grid {
         display: grid;
-        grid-template-columns: repeat(7, 1fr);
+        grid-template-columns: repeat(9, 1fr);
         grid-template-rows: repeat(7, 1fr);
         gap: 5px;
         margin: 0 auto;
@@ -123,8 +123,8 @@ grid_html = """
 # Create 7 rows with 7 columns each (49 tables total)
 wakil_index = 0
 for row in range(7):
-    for col in range(7):
-        table_number = row * 7 + col + 1 
+    for col in range(9):
+        table_number = row * 9 + col + 1 
         table_id = f"R{table_number}"
         
         # If this table is in the booked tables list and we still have wakil names
