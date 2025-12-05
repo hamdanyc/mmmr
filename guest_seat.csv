@@ -135,14 +135,14 @@ table_number,seat,name,menu,gp_id,gp_name
 17,6,Abd Samat Bin Said Lt Kol (B),Daging,14,Intake27
 17,7,James Lam Mun Loong Mej (B),Ayam,14,Intake27
 17,8,Mong Kok Liong Mej (B),Daging,14,Intake27
-18,1,Tan Sri Dato’ Wira Abd Halim Bin Karim Lt (B) | Isteri,Daging,15,Intake27
-18,2,Dato’ Musa Bin Omar Laksda (B) | Isteri,Daging,15,Intake27
-18,3,Dato’ Seri Mohd Noor Bin Daud Mej Jen (B) | Isteri,Daging,15,Intake27
-18,4,Dato’ Mohd Noh Bin Lebai Mahat Laksda (B) | Isteri,Daging,15,Intake27
-18,5,Abdul Rahman Bin Abdul Majid Lt Kol (B) | Isteri,Daging,15,Intake27
-18,6,Mohd Ali Bin Husin Lt Kol (B) | Isteri,Ikan,15,Intake27
-18,7,A. Aziz Ahmad Lt (B) | Isteri,Ikan,15,Intake27
-18,8,Ramli Othman,Daging,15,Intake27
+18,1,Leong Kuan Kdr (B),Ayam,15,Intake27
+18,2,Ismail Bakar Mej (B),Ikan,15,Intake27
+18,3,Dato’ Mohd Noh Bin Lebai Mahat Laksda (B),Ikan,15,Intake27
+18,4,Dato’ Ahmad Tarmizi Mej Jen (B),Daging,15,Intake27
+18,5,Gerard Dennis Singam,Daging,15,Intake27
+18,6,Abd Majid Bin Norudin Mej (B),Daging,15,Intake27
+18,7,Kamaruddin Bin Abdullah Lt Kol (B),Daging,15,Intake27
+18,8,Ramli Othman,Ayam,15,Intake27
 19,1,Tan Sri Zulkifle Kassim Jen (B),Daging,16,OP75
 19,2,Mohd Azam Kol (B),Daging,16,OP75
 19,3,Dato Aziz Ahmad Brig Jen (B),Ikan,16,OP75
@@ -200,14 +200,14 @@ table_number,seat,name,menu,gp_id,gp_name
 25,6,Kamal Omar Kol (B),Daging,22,AJK
 25,7,Meor Rosli Mej (B),Daging,22,AJK
 25,8,Meor Rosli Mej (B) | Isteri,Daging,22,AJK
-26,1,Leong Kuan Kdr (B),Ayam,23,Intake27
-26,2,Ismail Bakar Mej (B),Ikan,23,Intake27
-26,3,Dato’ Mohd Noh Bin Lebai Mahat Laksda (B),Ikan,23,Intake27
-26,4,Dato’ Ahmad Tarmizi Mej Jen (B),Daging,23,Intake27
-26,5,Gerard Dennis Singam,Daging,23,Intake27
-26,6,Abd Majid Bin Norudin Mej (B),Daging,23,Intake27
-26,7,Kamaruddin Bin Abdullah Lt Kol (B),Daging,23,Intake27
-26,8,Ramli Othman,Ayam,23,Intake27
+26,1,Tan Sri Dato’ Wira Abd Halim Bin Karim Lt (B) | Isteri,Daging,23,Intake27
+26,2,Dato’ Musa Bin Omar Laksda (B) | Isteri,Daging,23,Intake27
+26,3,Dato’ Seri Mohd Noor Bin Daud Mej Jen (B) | Isteri,Daging,23,Intake27
+26,4,Dato’ Mohd Noh Bin Lebai Mahat Laksda (B) | Isteri,Daging,23,Intake27
+26,5,Abdul Rahman Bin Abdul Majid Lt Kol (B) | Isteri,Daging,23,Intake27
+26,6,Mohd Ali Bin Husin Lt Kol (B) | Isteri,Ikan,23,Intake27
+26,7,A. Aziz Ahmad Lt (B) | Isteri,Ikan,23,Intake27
+26,8,Ramli Othman,Daging,23,Intake27
 27,1,Dato’ Mohamed Mansor Md Zain Mej (B),Daging,24,Intake27
 27,2,Mohammad Alta Tabor,Ayam,24,Intake27
 27,3,Tan Sri Roslan Saad Jen (B),Daging,24,Intake27
