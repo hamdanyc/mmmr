@@ -183,7 +183,7 @@ with col1:
 with col2:
     total_simpanan = tetamu_df['name'].str.contains('simpanan', case=False).sum()
     total_guests = len(tetamu_df) - total_simpanan
-    guests_target = 560
+    guests_target = 504
     guests_percentage = (total_guests / guests_target) * 100 if guests_target > 0 else 0
 
     fig_guests = go.Figure(go.Indicator(
