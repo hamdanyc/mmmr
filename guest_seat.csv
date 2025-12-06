@@ -95,14 +95,14 @@ table_number,seat,name,menu,gp_id,gp_name
 12,6,Datin Fatimah Huri,Ikan,9,Khas#2
 12,7,Dato Abdullah Ahmad Brig Jen (B) TUDM,Daging,9,Khas#2
 12,8,Datin Hasnah Shariff,Daging,9,Khas#2
-13,1,Lt Jen Dato' Nur Hafis Bin Abd Karim TUDM,Daging,10,Khas#3
-13,2,Datin Maznah Bt Hj Johari,Ikan,10,Khas#3
-13,3,Dato Sameon Marjuki Mej Jen,Daging,10,Khas#3
-13,4,Dato Sameon Marjuki Mej Jen | Isteri,Ikan,10,Khas#3
-13,5,Abdullah Khir Lt Kol (B) TUDM,Ikan,10,Khas#3
-13,6,Abdullah Khir Lt Kol (B) TUDM | Isteri,Daging,10,Khas#3
-13,7,Dato Abdul Aziz Mansur Mej Jen (B),Daging,10,Khas#3
-13,8,Simpanan Khas #3,Daging,10,Khas#3
+13,1,Tan Sri Sulaiman Sujak Jen (B) TUDM,Ikan,10,Khas#3
+13,2,Lt Jen Dato' Nur Hafis Bin Abd Karim TUDM,Daging,10,Khas#3
+13,3,Datin Maznah Bt Hj Johari,Ikan,10,Khas#3
+13,4,Dato Sameon Marjuki Mej Jen,Daging,10,Khas#3
+13,5,Dato Sameon Marjuki Mej Jen | Isteri,Ikan,10,Khas#3
+13,6,Abdullah Khir Lt Kol (B) TUDM,Ikan,10,Khas#3
+13,7,Abdullah Khir Lt Kol (B) TUDM | Isteri,Daging,10,Khas#3
+13,8,Dato Abdul Aziz Mansur Mej Jen (B),Daging,10,Khas#3
 14,1,Dato' Abdullah Samsudin Lt Jen (B),Ikan,11,Abdullah
 14,2,Dato Dr Salleh Sam Mej Jen (B),Daging,11,Abdullah
 14,3,Dato Hashim Abu Brig Jen (B),Daging,11,Abdullah
@@ -344,14 +344,14 @@ table_number,seat,name,menu,gp_id,gp_name
 43,6,Srikandi #6,Daging,39,Srikandi
 43,7,Srikandi #7,Daging,39,Srikandi
 43,8,Srikandi #8,Daging,39,Srikandi
-44,1,Zahid Amran Lt Kol (B),Ikan,40,Khas#4
-44,2,Nazaruddin Idris Mej (B),Ayam,40,Khas#4
-44,3,Nazaruddin Idris Mej (B) | Isteri,Ikan,40,Khas#4
-44,4,Kamaruddin Kassim Lt Kol (B),Ikan,40,Khas#4
-44,5,Kamaruddin Kassim Lt Kol (B) | Isteri,Ayam,40,Khas#4
-44,6,Azman Osman Lt Kol (B),nan,40,Khas#4
-44,7,Simpanan,N/A,0,RESERVE_SEAT
-44,8,Simpanan,N/A,0,RESERVE_SEAT
+44,1,Dato' Kamarudin Mamat Mej Jen (B),Daging,40,Khas#4
+44,2,Dato' Kamarudin Mamat Mej Jen (B) | Isteri,Ikan,40,Khas#4
+44,3,Zahid Amran Lt Kol (B),Ikan,40,Khas#4
+44,4,Nazaruddin Idris Mej (B),Ayam,40,Khas#4
+44,5,Nazaruddin Idris Mej (B) | Isteri,Ikan,40,Khas#4
+44,6,Kamaruddin Kassim Lt Kol (B),Ikan,40,Khas#4
+44,7,Kamaruddin Kassim Lt Kol (B) | Isteri,Ayam,40,Khas#4
+44,8,Azman Osman Lt Kol (B),nan,40,Khas#4
 45,1,Ramli Omar Lt Kol (B),Ayam,41,Khas#5
 45,2,Ramli Omar Lt Kol (B) | Isteri,Daging,41,Khas#5
 45,3,Idros Mat Isa Mej (B),Daging,41,Khas#5
@@ -432,11 +432,11 @@ table_number,seat,name,menu,gp_id,gp_name
 54,6,Elias Bin Abdul Ghani Lt Kol (B),Ikan,49,PVATM
 54,7,Dato' Mohamad Taufik Bin Mohamad Akhir Kapt (B),Daging,49,PVATM
 54,8,Susnan Bin Saad Kapt (B),Ikan,49,PVATM
-55,1,Zygma #1,Daging,50,Zygma
-55,2,Zygma #2,Daging,50,Zygma
-55,3,Zygma #3,Daging,50,Zygma
-55,4,Zygma #4,Ikan,50,Zygma
-55,5,Zygma #5,Ikan,50,Zygma
-55,6,Zygma #6,Ikan,50,Zygma
-55,7,Zygma #7,Ayam,50,Zygma
-55,8,Zygma #8,Ayam,50,Zygma
+55,1,Zygma #1,Daging,50,Zygmar
+55,2,Zygma #2,Daging,50,Zygmar
+55,3,Zygma #3,Daging,50,Zygmar
+55,4,Zygma #4,Ikan,50,Zygmar
+55,5,Zygma #5,Ikan,50,Zygmar
+55,6,Zygma #6,Ikan,50,Zygmar
+55,7,Zygma #7,Ayam,50,Zygmar
+55,8,Zygma #8,Ayam,50,Zygmar
