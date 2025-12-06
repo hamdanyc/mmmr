@@ -172,8 +172,8 @@ table_number,seat,name,menu,gp_id,gp_name
 22,2,Hamdan Yaccob Kol (B) | Isteri,Daging,19,AJK
 22,3,Zulmajdi Zainal,Daging,19,AJK
 22,4,Wawa Hamdan,Daging,19,AJK
-22,5,Mohd Zainuri Lt Kol (B) TUDM,Ikan,19,AJK
-22,6,Mohd Zainuri Lt Kol (B) TUDM | Isteri,Daging,19,AJK
+22,5,Mohammad Zainuri Lt Kol (B) TUDM,Ikan,19,AJK
+22,6,Mohammad Zainuri Lt Kol (B) TUDM | Isteri,Daging,19,AJK
 22,7,Zulkarnain Abdullah Lt Kol (B),Ikan,19,AJK
 22,8,Zulkarnain Abdullah Lt Kol (B) | Isteri,Ayam,19,AJK
 23,1,Datuk Halim Khalid Mej Jen (B),Ikan,20,AJK
@@ -208,14 +208,14 @@ table_number,seat,name,menu,gp_id,gp_name
 26,6,Dato Mazlan Bin Abas Mej Jen (B),Ikan,24,Intake27
 26,7,Ayub Shaharum Kapten (B),Daging,24,Intake27
 26,8,Mustaffa Bin Abu Bakar Kol (B),Ikan,24,Intake27
-27,1,Ssc26 TLDM #1,Daging,25,SSC26L
-27,2,Ssc26 TLDM #2,Daging,25,SSC26L
-27,3,Ssc26 TLDM #3,Daging,25,SSC26L
-27,4,Ssc26 TLDM #4,Ikan,25,SSC26L
-27,5,Ssc26 TLDM #5,Ikan,25,SSC26L
-27,6,Ssc26 TLDM #6,Ikan,25,SSC26L
-27,7,Ssc26 TLDM #7,Ayam,25,SSC26L
-27,8,Ssc26 TLDM #8,Ayam,25,SSC26L
+27,1,Ssc26 TLDM #1,Daging,25,SSC 26 TLDM
+27,2,Ssc26 TLDM #2,Daging,25,SSC 26 TLDM
+27,3,Ssc26 TLDM #3,Daging,25,SSC 26 TLDM
+27,4,Ssc26 TLDM #4,Ikan,25,SSC 26 TLDM
+27,5,Ssc26 TLDM #5,Ikan,25,SSC 26 TLDM
+27,6,Ssc26 TLDM #6,Ikan,25,SSC 26 TLDM
+27,7,Ssc26 TLDM #7,Ayam,25,SSC 26 TLDM
+27,8,Ssc26 TLDM #8,Ayam,25,SSC 26 TLDM
 28,1,Tengku Nazri Mej (B),Daging,26,AJK
 28,2,Mohammad Yusalie Lt Kdr (B) TLDM,Daging,26,AJK
 28,3,Mohammad Yusalie Lt Kdr (B) TLDM | Isteri,nan,26,AJK
@@ -240,14 +240,14 @@ table_number,seat,name,menu,gp_id,gp_name
 30,6,Intake 24 #6,Ikan,28,Intake24
 30,7,Intake 24 #7,Ayam,28,Intake24
 30,8,Intake 24 #8,Ayam,28,Intake24
-31,1,Rmnoa #1,Daging,29,RMNOA
-31,2,Rmnoa #2,Daging,29,RMNOA
-31,3,Rmnoa #3,Daging,29,RMNOA
-31,4,Rmnoa #4,Ikan,29,RMNOA
-31,5,Rmnoa #5,Ikan,29,RMNOA
-31,6,Rmnoa #6,Ikan,29,RMNOA
-31,7,Rmnoa #7,Ikan,29,RMNOA
-31,8,Rmnoa #8,Ikan,29,RMNOA
+31,1,Tan Sri Ramlan Laksamana (B),Daging,29,RMNOA
+31,2,Nv Suriyati,Daging,29,RMNOA
+31,3,Nv Pannir,Ayam,29,RMNOA
+31,4,Nv Puah Bc,Ikan,29,RMNOA
+31,5,Nv Aliza,Daging,29,RMNOA
+31,6,Nv Hariss,Ayam,29,RMNOA
+31,7,Nv Martin,Daging,29,RMNOA
+31,8,Nv Shanmuganathan,Ayam,29,RMNOA
 32,1,KpRAMD #1,Daging,30,KPRAMD
 32,2,KpRAMD #2,Daging,30,KPRAMD
 32,3,KpRAMD #3,Daging,30,KPRAMD
@@ -376,8 +376,8 @@ table_number,seat,name,menu,gp_id,gp_name
 47,6,Michael Choo #6,Daging,43,Michael
 47,7,Michael Choo #7,Daging,43,Michael
 47,8,Michael Choo #8,Daging,43,Michael
-48,1,Datuk Mohd Nazri Brig Jen (B),Daging,44,Media
-48,2,Datuk Mohd Nazri Brig Jen (B) | Isteri,Ikan,44,Media
+48,1,Datuk Mhd Nazri Brig Jen (B),Daging,44,Media
+48,2,Datuk Mhd Nazri Brig Jen (B) | Isteri,Ikan,44,Media
 48,3,Azhari Mej (B) TUDM,Daging,44,Media
 48,4,Azhari Mej (B) TUDM | Isteri,Ikan,44,Media
 48,5,Airtimes #1,Daging,44,Media
