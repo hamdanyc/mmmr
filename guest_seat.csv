@@ -111,14 +111,14 @@ table_number,seat,name,menu,gp_id,gp_name
 14,6,Husaini Abdullah Kept (B),Ikan,11,Abdullah
 14,7,Hassim Haron Kol (B),Daging,11,Abdullah
 14,8,Dato' Abdullah Samsudin Lt Jen (B) | Ahli Keluarga,Daging,11,Abdullah
-15,1,Tan Sri Yaccob Jen (B),Daging,12,RMA-Sandhust
-15,2,Dato Amir Guntur Mej Jen (B),Daging,12,RMA-Sandhust
-15,3,Ramli Nik Kol (B),Daging,12,RMA-Sandhust
-15,4,Dato' Hadi Razak Brig Jen (B),Ikan,12,RMA-Sandhust
-15,5,Dato' Zulkifli Mazlan Mej Jen (B),Ikan,12,RMA-Sandhust
-15,6,Dato' Zulkifli Mazlan Mej Jen (B) | Isteri,Ikan,12,RMA-Sandhust
-15,7,Dato' Tajri Mej Jen (B),Vegetarian,12,RMA-Sandhust
-15,8,Dato' Tajri Mej Jen (B) | Isteri,Ikan,12,RMA-Sandhust
+15,1,Tan Sri Yaccob Jen (B),Daging,12,RMA Sandhurst
+15,2,Dato Amir Guntur Mej Jen (B),Daging,12,RMA Sandhurst
+15,3,Ramli Nik Kol (B),Daging,12,RMA Sandhurst
+15,4,Dato' Hadi Razak Brig Jen (B),Ikan,12,RMA Sandhurst
+15,5,Dato' Zulkifli Mazlan Mej Jen (B),Ikan,12,RMA Sandhurst
+15,6,Dato' Zulkifli Mazlan Mej Jen (B) | Isteri,Ikan,12,RMA Sandhurst
+15,7,Dato' Tajri Mej Jen (B),Vegetarian,12,RMA Sandhurst
+15,8,Dato' Tajri Mej Jen (B) | Isteri,Ikan,12,RMA Sandhurst
 16,1,Ee Teck Chee Lt Kdr (B),Ayam,13,Intake27
 16,2,Abd Rahman Bin Hussin Lt Kdr (B),Daging,13,Intake27
 16,3,Halim Bin Mat Lt Kol (B),Ikan,13,Intake27
@@ -382,8 +382,8 @@ table_number,seat,name,menu,gp_id,gp_name
 48,4,Azhari Mej (B) TUDM | Isteri,Ikan,44,Media
 48,5,Airtimes #1,Daging,44,Media
 48,6,Airtimes #2,Daging,44,Media
-48,7,Simpanan,N/A,0,RESERVE_SEAT
-48,8,Simpanan,N/A,0,RESERVE_SEAT
+48,7,Dato Shahbani Brig Jen (B),Daging,44,Media
+48,8,Dato Shahbani Brig Jen (B) | Isteri,Ikan,44,Media
 49,1,Dato' Manaf Mej Jen (B) TUDM,Daging,45,Gegar-Vaganza
 49,2,Dato' Manaf Mej Jen (B) TUDM | Isteri,Ayam,45,Gegar-Vaganza
 49,3,Azman Mej (B),Daging,45,Gegar-Vaganza
