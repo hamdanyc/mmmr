@@ -153,7 +153,7 @@ def fill_vacant_seats(assigned_df, reserve_guests_list):
 
 def process_guest_files():
     """Process all guest files, assign seating, and fill vacant seats with reserves."""
-    tempahan_folder = 'temp_data'
+    tempahan_folder = 'tempahan'
     
     if not os.path.exists(tempahan_folder):
         print(f"Error: Folder '{tempahan_folder}' not found. Please create it and place CSV files inside.")
