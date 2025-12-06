@@ -6,7 +6,7 @@ sed -i 's/Pat/PAT/gI;s/Ptd/PTD/gI;s/Ptl/PTL/gI;s/Ptu/PTU/gI;s/Tudm/TUDM/gI;s/Mmu
     s/Jhev/JHEV/gI;s/Pvatm/PVATM/gI;s/Ramd/RAMD/gI;s/Pgb/PGB/gI;s/Kagat/KAGAT/gI;s/rma-sandhurst/RMA Sandhurst/gI;s/dmhk/DMHK/gI;
     s/Ramli-Kinta/Ramli Kinta Lt Kol (B)/gI;s/ssc26l/SSC 26 TLDM/gI;s/Pernama/PERNAMA/gI;s/Dymm/DYMM/gI;s/Yb/YB/gI;s/Adc/ADC/gI;s/Hs/HS/gI' guest_seat.csv
 uv run guest_seat_pdf.py
-uv run guest_summary.py
+uv run guest_summary_v1.py
 uv run guest_list.py
 uv run guest_tab_tag.py
 echo "seat allocation -- done"
