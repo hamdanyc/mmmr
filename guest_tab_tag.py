@@ -10,7 +10,7 @@ def get_menu_color(menu):
     return color_map.get(menu, 'unknown')
 
 def main():
-    input_file = 'guest_seat.csv'
+    input_file = 'all_seat.csv'
     
     # Create separate output files for each menu type
     output_files = {
