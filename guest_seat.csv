@@ -416,27 +416,19 @@ table_number,seat,name,menu,gp_id,gp_name
 52,6,Intake 25 #6,Ikan,47,Intake25
 52,7,Intake 25 #7,Ayam,47,Intake25
 52,8,Intake 25 #8,Ayam,47,Intake25
-53,1,Intake 25 #1,Daging,47,Intake25
-53,2,Intake 25 #2,Daging,47,Intake25
-53,3,Intake 25 #3,Daging,47,Intake25
-53,4,Intake 25 #4,Ikan,47,Intake25
-53,5,Intake 25 #5,Ikan,47,Intake25
-53,6,Intake 25 #6,Ikan,47,Intake25
-53,7,Intake 25 #7,Ayam,47,Intake25
-53,8,Intake 25 #8,Ayam,47,Intake25
-54,1,Nurul Shafizi,Ayam,48,Zygmar
-54,2,Mohd Luqman Hasif,Daging,48,Zygmar
-54,3,Nur Anessa,Daging,48,Zygmar
-54,4,Norlila,Daging,48,Zygmar
-54,5,Nuraslina,Ikan,48,Zygmar
-54,6,Chang Li Cheng,Daging,48,Zygmar
-54,7,Leong Choy Har,Ayam,48,Zygmar
-54,8,Mokhtar Tirin,Ayam,48,Zygmar
-55,1,Tengku Razali Mej (B),Daging,50,Ikhlas
-55,2,Tengku Razali Mej (B) | Isteri,Daging,50,Ikhlas
-55,3,Simpanan,N/A,0,RESERVE_SEAT
-55,4,Simpanan,N/A,0,RESERVE_SEAT
-55,5,Simpanan,N/A,0,RESERVE_SEAT
-55,6,Simpanan,N/A,0,RESERVE_SEAT
-55,7,Simpanan,N/A,0,RESERVE_SEAT
-55,8,Simpanan,N/A,0,RESERVE_SEAT
+53,1,Nurul Shafizi,Ayam,48,Zigmar
+53,2,Mohd Luqman Hasif,Daging,48,Zigmar
+53,3,Nur Anessa,Daging,48,Zigmar
+53,4,Norlila,Daging,48,Zigmar
+53,5,Nuraslina,Daging,48,Zigmar
+53,6,Chang Li Cheng,Daging,48,Zigmar
+53,7,Leong Choy Har,Ayam,48,Zigmar
+53,8,Mokhtar Tirin,Ayam,48,Zigmar
+54,1,Tengku Razali Mej (B),Daging,50,Ikhlas
+54,2,Tengku Razali Mej (B) | Isteri,Daging,50,Ikhlas
+54,3,Simpanan,N/A,0,RESERVE_SEAT
+54,4,Simpanan,N/A,0,RESERVE_SEAT
+54,5,Simpanan,N/A,0,RESERVE_SEAT
+54,6,Simpanan,N/A,0,RESERVE_SEAT
+54,7,Simpanan,N/A,0,RESERVE_SEAT
+54,8,Simpanan,N/A,0,RESERVE_SEAT
