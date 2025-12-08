@@ -96,13 +96,13 @@ table_number,seat,name,menu,gp_id,gp_name
 12,7,Dato Abdullah Ahmad Brig Jen (B) TUDM,Daging,9,Khas #2
 12,8,Datin Hasnah Shariff,Daging,9,Khas #2
 13,1,Tan Sri Sulaiman Sujak Jen (B) TUDM,Ikan,10,Khas #3
-13,2,Lt Jen Dato' Nur Hafis Bin Abd Karim TUDM,Daging,10,Khas #3
-13,3,Datin Maznah Bt Hj Johari,Ikan,10,Khas #3
-13,4,Dato Sameon Marjuki Mej Jen,Daging,10,Khas #3
-13,5,Dato Sameon Marjuki Mej Jen | Isteri,Ikan,10,Khas #3
-13,6,Abdullah Khir Lt Kol (B) TUDM,Ikan,10,Khas #3
-13,7,Abdullah Khir Lt Kol (B) TUDM | Isteri,Daging,10,Khas #3
-13,8,Dato Abdul Aziz Mansur Mej Jen (B),Daging,10,Khas #3
+13,2,Datin Maznah Bt Hj Johari,Ikan,10,Khas #3
+13,3,Dato Sameon Marjuki Mej Jen,Daging,10,Khas #3
+13,4,Dato Sameon Marjuki Mej Jen | Isteri,Ikan,10,Khas #3
+13,5,Abdullah Khir Lt Kol (B) TUDM,Ikan,10,Khas #3
+13,6,Abdullah Khir Lt Kol (B) TUDM | Isteri,Daging,10,Khas #3
+13,7,Dato Abdul Aziz Mansur Mej Jen (B),Daging,10,Khas #3
+13,8,Simpanan Khas  #3,nan,10,Khas #3
 14,1,Dato' Abdullah Samsudin Lt Jen (B),Ikan,11,Abdullah Lt Jen (B)
 14,2,Dato Dr Salleh Sam Mej Jen (B),Daging,11,Abdullah Lt Jen (B)
 14,3,Dato Hashim Abu Brig Jen (B),Daging,11,Abdullah Lt Jen (B)
@@ -232,14 +232,14 @@ table_number,seat,name,menu,gp_id,gp_name
 29,6,Airtimes #1,Daging,27,AJK
 29,7,Airtimes #2,Daging,27,AJK
 29,8,Airtimes #3,Ayam,27,AJK
-30,1,Intake 24 #1,Daging,28,Intake24
-30,2,Intake 24 #2,Daging,28,Intake24
-30,3,Intake 24 #3,Daging,28,Intake24
-30,4,Intake 24 #4,Ikan,28,Intake24
-30,5,Intake 24 #5,Ikan,28,Intake24
-30,6,Intake 24 #6,Ikan,28,Intake24
-30,7,Intake 24 #7,Ayam,28,Intake24
-30,8,Intake 24 #8,Ayam,28,Intake24
+30,1,Intake 24 #1,Daging,28,Ganesh TBC
+30,2,Intake 24 #2,Daging,28,Ganesh TBC
+30,3,Intake 24 #3,Daging,28,Ganesh TBC
+30,4,Intake 24 #4,Ikan,28,Ganesh TBC
+30,5,Intake 24 #5,Ikan,28,Ganesh TBC
+30,6,Intake 24 #6,Ikan,28,Ganesh TBC
+30,7,Intake 24 #7,Ayam,28,Ganesh TBC
+30,8,Intake 24 #8,Ayam,28,Ganesh TBC
 31,1,Tan Sri Ramlan Laksamana (B),Daging,29,RMNOA
 31,2,NV Suriyati,Daging,29,RMNOA
 31,3,NV Pannir,Ayam,29,RMNOA
@@ -272,14 +272,14 @@ table_number,seat,name,menu,gp_id,gp_name
 34,6,Macva #6,Ikan,32,MACVA
 34,7,Macva #7,Ikan,32,MACVA
 34,8,Macva #8,Ikan,32,MACVA
-35,1,Kprad #1,Daging,33,KPRAD
-35,2,Kprad #2,Daging,33,KPRAD
-35,3,Kprad #3,Daging,33,KPRAD
-35,4,Kprad #4,Ikan,33,KPRAD
-35,5,Kprad #5,Ikan,33,KPRAD
-35,6,Kprad #6,Ikan,33,KPRAD
-35,7,Kprad #7,Ikan,33,KPRAD
-35,8,Kprad #8,Ikan,33,KPRAD
+35,1,Kprad #1,Daging,33,PVRAD
+35,2,Kprad #2,Daging,33,PVRAD
+35,3,Kprad #3,Daging,33,PVRAD
+35,4,Kprad #4,Ikan,33,PVRAD
+35,5,Kprad #5,Ikan,33,PVRAD
+35,6,Kprad #6,Ikan,33,PVRAD
+35,7,Kprad #7,Ikan,33,PVRAD
+35,8,Kprad #8,Ikan,33,PVRAD
 36,1,Ibrahim Lt Kol (B),Daging,34,Othman Yaakob Lt Kol (B)
 36,2,Ibrahim Lt Kol (B) | Isteri,Ayam,34,Othman Yaakob Lt Kol (B)
 36,3,Johar Lt Kol (B),Ayam,34,Othman Yaakob Lt Kol (B)
@@ -338,12 +338,12 @@ table_number,seat,name,menu,gp_id,gp_name
 42,8,Op79 #8,Ikan,38,OP79
 43,1,Datin Ruziah,Daging,39,Srikandi
 43,2,Datin Ruziah | Ahli Keluarga,Daging,39,Srikandi
-43,3,Srikandi #3,Daging,39,Srikandi
-43,4,Srikandi #4,Daging,39,Srikandi
-43,5,Srikandi #5,nan,39,Srikandi
-43,6,Srikandi #6,Daging,39,Srikandi
-43,7,Srikandi #7,Daging,39,Srikandi
-43,8,Srikandi #8,Daging,39,Srikandi
+43,3,Tengku Razali Mej (B),Daging,39,Srikandi
+43,4,Tengku Razali Mej (B) | Isteri,Daging,39,Srikandi
+43,5,Simpanan #5,nan,39,Srikandi
+43,6,Simpanan #6,nan,39,Srikandi
+43,7,Simpanan #7,nan,39,Srikandi
+43,8,Simpanan #8,nan,39,Srikandi
 44,1,Dato' Kamarudin Mamat Mej Jen (B),Daging,40,Khas #4
 44,2,Dato' Kamarudin Mamat Mej Jen (B) | Isteri,Ikan,40,Khas #4
 44,3,Zahid Amran Lt Kol (B),Ikan,40,Khas #4
@@ -440,11 +440,3 @@ table_number,seat,name,menu,gp_id,gp_name
 55,6,Zygma #6,Ikan,50,Zygmar
 55,7,Zygma #7,Ayam,50,Zygmar
 55,8,Zygma #8,Ayam,50,Zygmar
-56,1,Zygma #1,Daging,51,BHC
-56,2,Zygma #2,Daging,51,BHC
-56,3,Zygma #3,Daging,51,BHC
-56,4,Zygma #4,Ikan,51,BHC
-56,5,Zygma #5,Ikan,51,BHC
-56,6,Zygma #6,Ikan,51,BHC
-56,7,Zygma #7,Ayam,51,BHC
-56,8,Zygma #8,Ayam,51,BHC
