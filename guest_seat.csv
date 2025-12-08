@@ -112,13 +112,13 @@ table_number,seat,name,menu,gp_id,gp_name
 14,7,Hassim Haron Kol (B),Daging,11,Abdullah Lt Jen (B)
 14,8,Dato' Abdullah Samsudin Lt Jen (B) | Ahli Keluarga,Daging,11,Abdullah Lt Jen (B)
 15,1,Tan Sri Yaccob Jen (B),Daging,12,RMA Sandhurst
-15,2,Dato Amir Guntur Mej Jen (B),Daging,12,RMA Sandhurst
+15,2,Dato Amir Guntur Mej Jen (B),Vegetarian,12,RMA Sandhurst
 15,3,Ramli Nik Kol (B),Daging,12,RMA Sandhurst
-15,4,Dato' Hadi Razak Brig Jen (B),Ikan,12,RMA Sandhurst
+15,4,Dato' Hadi Razak Brig Jen (B),Daging,12,RMA Sandhurst
 15,5,Dato' Zulkifli Mazlan Mej Jen (B),Ikan,12,RMA Sandhurst
 15,6,Dato' Zulkifli Mazlan Mej Jen (B) | Isteri,Ikan,12,RMA Sandhurst
-15,7,Dato' Tajri Mej Jen (B),Vegetarian,12,RMA Sandhurst
-15,8,Dato' Tajri Mej Jen (B) | Isteri,Ikan,12,RMA Sandhurst
+15,7,Dato' Tajri Mej Jen (B),Daging,12,RMA Sandhurst
+15,8,Dato' Tajri Mej Jen (B) | Isteri,Vegetarian,12,RMA Sandhurst
 16,1,Ee Teck Chee Lt Kdr (B),Ayam,13,Intake27
 16,2,Abd Rahman Bin Hussin Lt Kdr (B),Daging,13,Intake27
 16,3,Halim Bin Mat Lt Kol (B),Ikan,13,Intake27
@@ -232,14 +232,14 @@ table_number,seat,name,menu,gp_id,gp_name
 29,6,Airtimes #1,Daging,27,AJK
 29,7,Airtimes #2,Daging,27,AJK
 29,8,Airtimes #3,Ayam,27,AJK
-30,1,Intake 24 #1,Daging,28,Ganesh TBC
-30,2,Intake 24 #2,Daging,28,Ganesh TBC
-30,3,Intake 24 #3,Daging,28,Ganesh TBC
-30,4,Intake 24 #4,Ikan,28,Ganesh TBC
-30,5,Intake 24 #5,Ikan,28,Ganesh TBC
-30,6,Intake 24 #6,Ikan,28,Ganesh TBC
-30,7,Intake 24 #7,Ayam,28,Ganesh TBC
-30,8,Intake 24 #8,Ayam,28,Ganesh TBC
+30,1,Datuk Mohd Bustaman Bin Mat Zin Brig Jen (B),Ikan,28,PVATM
+30,2,Tajul Ariffin Chu Johari Lt Kol (B),Daging,28,PVATM
+30,3,Mohamad Bin Yusof Lt Kol (B),Daging,28,PVATM
+30,4,Azhar Lee Abdullah Lt Kol (B),Ayam,28,PVATM
+30,5,Shamsuddin Bin Ahmad Kdr (B) TLDM,Ikan,28,PVATM
+30,6,Elias Bin Abdul Ghani Lt Kol (B),Ikan,28,PVATM
+30,7,Dato' Mohamad Taufik Bin Mohamad Akhir Kapt (B),Daging,28,PVATM
+30,8,Susnan Bin Saad Kapt (B),Ikan,28,PVATM
 31,1,Tan Sri Ramlan Laksamana (B),Daging,29,RMNOA
 31,2,NV Suriyati,Daging,29,RMNOA
 31,3,NV Pannir,Ayam,29,RMNOA
@@ -296,30 +296,30 @@ table_number,seat,name,menu,gp_id,gp_name
 37,6,Shanan Kol (B),Daging,35,Rose #1
 37,7,Shanan Kol (B) | Isteri,Ikan,35,Rose #1
 37,8,Maj Jack Yew,Daging,35,Rose #1
-38,1,Dato Dr Murthy Mej (B) #1,Daging,36,Dato Dr Murthy Mej (B)
-38,2,Dato Dr Murthy Mej (B) #2,Vegetarian,36,Dato Dr Murthy Mej (B)
-38,3,Dato Dr Murthy Mej (B) #3,Ayam,36,Dato Dr Murthy Mej (B)
-38,4,Dato Dr Murthy Mej (B) #5,Ikan,36,Dato Dr Murthy Mej (B)
-38,5,Dato Dr Murthy Mej (B) #6,Ikan,36,Dato Dr Murthy Mej (B)
-38,6,Dato Dr Murthy Mej (B) #7,Ikan,36,Dato Dr Murthy Mej (B)
-38,7,Dato Dr Murthy Mej (B) #8,Ikan,36,Dato Dr Murthy Mej (B)
-38,8,Dato Dr Murthy Mej (B) #9,Daging,36,Dato Dr Murthy Mej (B)
-39,1,Dato Dr Murthy Mej (B) #10,Vegetarian,36,Dato Dr Murthy Mej (B)
-39,2,Dato Dr Murthy Mej (B) #11,Ayam,36,Dato Dr Murthy Mej (B)
-39,3,Dato Dr Murthy Mej (B) #12,Ayam,36,Dato Dr Murthy Mej (B)
-39,4,Dato Dr Murthy Mej (B) #13,Ikan,36,Dato Dr Murthy Mej (B)
-39,5,Dato Dr Murthy Mej (B) #14,Ikan,36,Dato Dr Murthy Mej (B)
-39,6,Dato Dr Murthy Mej (B) #15,Ikan,36,Dato Dr Murthy Mej (B)
-39,7,Dato Dr Murthy Mej (B) #16,Ikan,36,Dato Dr Murthy Mej (B)
-39,8,Dato Dr Murthy Mej (B) #17,Daging,36,Dato Dr Murthy Mej (B)
-40,1,Dato Dr Murthy Mej (B) #18,Vegetarian,36,Dato Dr Murthy Mej (B)
-40,2,Dato Dr Murthy Mej (B) #19,Ayam,36,Dato Dr Murthy Mej (B)
-40,3,Dato Dr Murthy Mej (B) #20,Ayam,36,Dato Dr Murthy Mej (B)
-40,4,Dato Dr Murthy Mej (B) #21,Ikan,36,Dato Dr Murthy Mej (B)
-40,5,Dato Dr Murthy Mej (B) #22,Ikan,36,Dato Dr Murthy Mej (B)
-40,6,Dato Dr Murthy Mej (B) #23,Ikan,36,Dato Dr Murthy Mej (B)
-40,7,Dato Dr Murthy Mej (B) #24,Ikan,36,Dato Dr Murthy Mej (B)
-40,8,Dato Dr Murthy Mej (B) #25,Ikan,36,Dato Dr Murthy Mej (B)
+38,1,Mej Datuk M.S. Murthi #1,Daging,36,Mej Datuk M.S. Murthi
+38,2,Mej Datuk M.S. Murthi #2,Vegetarian,36,Mej Datuk M.S. Murthi
+38,3,Mej Datuk M.S. Murthi #3,Ayam,36,Mej Datuk M.S. Murthi
+38,4,Mej Datuk M.S. Murthi #5,Ikan,36,Mej Datuk M.S. Murthi
+38,5,Mej Datuk M.S. Murthi #6,Ikan,36,Mej Datuk M.S. Murthi
+38,6,Mej Datuk M.S. Murthi #7,Ikan,36,Mej Datuk M.S. Murthi
+38,7,Mej Datuk M.S. Murthi #8,Ikan,36,Mej Datuk M.S. Murthi
+38,8,Mej Datuk M.S. Murthi #9,Daging,36,Mej Datuk M.S. Murthi
+39,1,Mej Datuk M.S. Murthi #10,Vegetarian,36,Mej Datuk M.S. Murthi
+39,2,Mej Datuk M.S. Murthi #11,Ayam,36,Mej Datuk M.S. Murthi
+39,3,Mej Datuk M.S. Murthi #12,Ayam,36,Mej Datuk M.S. Murthi
+39,4,Mej Datuk M.S. Murthi #13,Ikan,36,Mej Datuk M.S. Murthi
+39,5,Mej Datuk M.S. Murthi #14,Ikan,36,Mej Datuk M.S. Murthi
+39,6,Mej Datuk M.S. Murthi #15,Ikan,36,Mej Datuk M.S. Murthi
+39,7,Mej Datuk M.S. Murthi #16,Ikan,36,Mej Datuk M.S. Murthi
+39,8,Mej Datuk M.S. Murthi #17,Daging,36,Mej Datuk M.S. Murthi
+40,1,Mej Datuk M.S. Murthi #18,Vegetarian,36,Mej Datuk M.S. Murthi
+40,2,Mej Datuk M.S. Murthi #19,Ayam,36,Mej Datuk M.S. Murthi
+40,3,Mej Datuk M.S. Murthi #20,Ayam,36,Mej Datuk M.S. Murthi
+40,4,Mej Datuk M.S. Murthi #21,Ikan,36,Mej Datuk M.S. Murthi
+40,5,Mej Datuk M.S. Murthi #22,Ikan,36,Mej Datuk M.S. Murthi
+40,6,Mej Datuk M.S. Murthi #23,Ikan,36,Mej Datuk M.S. Murthi
+40,7,Mej Datuk M.S. Murthi #24,Ikan,36,Mej Datuk M.S. Murthi
+40,8,Mej Datuk M.S. Murthi #25,Ikan,36,Mej Datuk M.S. Murthi
 41,1,Softlab #1,Daging,37,Softlab
 41,2,Softlab #2,Daging,37,Softlab
 41,3,Softlab #3,Daging,37,Softlab
@@ -424,19 +424,11 @@ table_number,seat,name,menu,gp_id,gp_name
 53,6,Intake 25 #6,Ikan,47,Intake25
 53,7,Intake 25 #7,Ayam,47,Intake25
 53,8,Intake 25 #8,Ayam,47,Intake25
-54,1,Datuk Mohd Bustaman Bin Mat Zin Brig Jen (B),Ikan,49,PVATM
-54,2,Tajul Ariffin Chu Johari Lt Kol (B),Daging,49,PVATM
-54,3,Mohamad Bin Yusof Lt Kol (B),Daging,49,PVATM
-54,4,Azhar Lee Abdullah Lt Kol (B),Ayam,49,PVATM
-54,5,Shamsuddin Bin Ahmad Kdr (B) TLDM,Ikan,49,PVATM
-54,6,Elias Bin Abdul Ghani Lt Kol (B),Ikan,49,PVATM
-54,7,Dato' Mohamad Taufik Bin Mohamad Akhir Kapt (B),Daging,49,PVATM
-54,8,Susnan Bin Saad Kapt (B),Ikan,49,PVATM
-55,1,Zygma #1,Daging,50,Zygmar
-55,2,Zygma #2,Daging,50,Zygmar
-55,3,Zygma #3,Daging,50,Zygmar
-55,4,Zygma #4,Ikan,50,Zygmar
-55,5,Zygma #5,Ikan,50,Zygmar
-55,6,Zygma #6,Ikan,50,Zygmar
-55,7,Zygma #7,Ayam,50,Zygmar
-55,8,Zygma #8,Ayam,50,Zygmar
+54,1,Zygma #1,Daging,48,Zygmar
+54,2,Zygma #2,Daging,48,Zygmar
+54,3,Zygma #3,Daging,48,Zygmar
+54,4,Zygma #4,Ikan,48,Zygmar
+54,5,Zygma #5,Ikan,48,Zygmar
+54,6,Zygma #6,Ikan,48,Zygmar
+54,7,Zygma #7,Ayam,48,Zygmar
+54,8,Zygma #8,Ayam,48,Zygmar
