@@ -336,14 +336,15 @@ table_number,seat,name,menu,gp_id,gp_name
 42,6,Op79 #6,Ikan,38,OP79
 42,7,Op79 #7,Ikan,38,OP79
 42,8,Op79 #8,Ikan,38,OP79
-43,1,Datin Ruziah,Daging,39,Srikandi
-43,2,Datin Ruziah | Ahli Keluarga,Daging,39,Srikandi
-43,3,Tengku Razali Mej (B),Daging,39,Srikandi
-43,4,Tengku Razali Mej (B) | Isteri,Daging,39,Srikandi
-43,5,Simpanan #5,nan,39,Srikandi
-43,6,Simpanan #6,nan,39,Srikandi
-43,7,Simpanan #7,nan,39,Srikandi
-43,8,Simpanan #8,nan,39,Srikandi
+43,1,Puan Sri Rosliah,Daging,39,Srikandi
+43,2,Puan Sri Rosliah | Ahli Keluarga,Daging,39,Srikandi
+43,3,Puan Sri Rohani,Daging,39,Srikandi
+43,4,Puan Sri Rohani | Ahli Keluarga,Daging,39,Srikandi
+43,5,Datin Ruziah,Daging,39,Srikandi
+43,6,Datin Ruziah | Ahli Keluarga,Daging,39,Srikandi
+43,7,Datin Hafizah,Daging,39,Srikandi
+43,8,Datin Hafizah | Ahli Keluarga,Daging,39,Srikandi
+43,9,Siti Badriah Binti Sheikh Othman,Daging,39,Srikandi
 44,1,Dato' Kamarudin Mamat Mej Jen (B),Daging,40,Khas #4
 44,2,Dato' Kamarudin Mamat Mej Jen (B) | Isteri,Ikan,40,Khas #4
 44,3,Zahid Amran Lt Kol (B),Ikan,40,Khas #4
@@ -424,11 +425,19 @@ table_number,seat,name,menu,gp_id,gp_name
 53,6,Intake 25 #6,Ikan,47,Intake25
 53,7,Intake 25 #7,Ayam,47,Intake25
 53,8,Intake 25 #8,Ayam,47,Intake25
-54,1,Zygma #1,Daging,48,Zygmar
-54,2,Zygma #2,Daging,48,Zygmar
-54,3,Zygma #3,Daging,48,Zygmar
-54,4,Zygma #4,Ikan,48,Zygmar
-54,5,Zygma #5,Ikan,48,Zygmar
-54,6,Zygma #6,Ikan,48,Zygmar
-54,7,Zygma #7,Ayam,48,Zygmar
-54,8,Zygma #8,Ayam,48,Zygmar
+54,1,Nurul Shafizi,Ayam,48,Zygmar
+54,2,Mohd Luqman Hasif,Daging,48,Zygmar
+54,3,Nur Anessa,Daging,48,Zygmar
+54,4,Norlila,Daging,48,Zygmar
+54,5,Nuraslina,Ikan,48,Zygmar
+54,6,Chang Li Cheng,Daging,48,Zygmar
+54,7,Leong Choy Har,Ayam,48,Zygmar
+54,8,Mokhtar Tirin,Ayam,48,Zygmar
+55,1,Tengku Razali Mej (B),Daging,50,Ikhlas
+55,2,Tengku Razali Mej (B) | Isteri,Daging,50,Ikhlas
+55,3,Simpanan,N/A,0,RESERVE_SEAT
+55,4,Simpanan,N/A,0,RESERVE_SEAT
+55,5,Simpanan,N/A,0,RESERVE_SEAT
+55,6,Simpanan,N/A,0,RESERVE_SEAT
+55,7,Simpanan,N/A,0,RESERVE_SEAT
+55,8,Simpanan,N/A,0,RESERVE_SEAT
