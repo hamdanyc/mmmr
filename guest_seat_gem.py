@@ -75,7 +75,7 @@ def assign_seats(guests_df):
         group_df = group_df.sort_values(by='original_order').reset_index(drop=True)
         gp_name = group_df['gp_name'].iloc[0]
         
-        if gp_name.lower() == "diraja" or gp_name.lower()=="ramli":
+        if gp_name.lower() == "diraja" or gp_name.lower()=="ramli" or gp_name.lower()=="srikandi":
             guests_per_table = DIRAJA_TABLE_CAPACITY
         else:
             guests_per_table = STANDARD_TABLE_CAPACITY

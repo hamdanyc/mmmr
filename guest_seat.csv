@@ -15,22 +15,22 @@ table_number,seat,name,menu,gp_id,gp_name
 2,6,Sulaiman Ismail,Ikan,1,weststar
 2,7,Mohd Azim Syahmi Bin Abd Latif,Daging,1,weststar
 2,8,Datuk Jamil Bin Osman Laksda (B),Daging,1,weststar
-3,1,Nadi #1,Daging,2,NADI
-3,2,Nadi #2,Daging,2,NADI
-3,3,Nadi #3,Daging,2,NADI
-3,4,Nadi #4,Ikan,2,NADI
-3,5,Nadi #5,Ikan,2,NADI
-3,6,Nadi #6,Ikan,2,NADI
-3,7,Nadi #7,Ikan,2,NADI
-3,8,Nadi #8,Ikan,2,NADI
-4,1,Nadi #9,Daging,2,NADI
-4,2,Nadi #10,Daging,2,NADI
-4,3,Nadi #11,Daging,2,NADI
-4,4,Nadi #12,Ikan,2,NADI
-4,5,Nadi #13,Ikan,2,NADI
+3,1,Tan Sri Dato Seri Mohd Yunus Bin Mohd Tasi Jen (B) TUDM,Daging,2,NADI
+3,2,Selina Binti Mohd Yunus,Ikan,2,NADI
+3,3,Dato’ Seri Abdul Rahim Bin Abdul Rahman Brig Jen (B),Ikan,2,NADI
+3,4,Datin Seri Noor Fuziah Binti Ariffin,Daging,2,NADI
+3,5,Dato’ Ismail Bin Ibrahim Mej Jen (B) TUDM,Ikan,2,NADI
+3,6,Dato’ Aishah Binti Ahmad,Ikan,2,NADI
+3,7,Dato Mohd Fadzar Bin Haji Suhada Lt Kol (B) TUDM,Daging,2,NADI
+3,8,Datin Latifah Binti Haroon,Daging,2,NADI
+4,1,Mej Jen Dato’ Dr Mohd Yunus Bin Masjuki,Daging,2,NADI
+4,2,Datin Nur Lizah Binti Wagiyo,Ikan,2,NADI
+4,3,Ashaari Bin Shafie Mej (B) TUDM,Ikan,2,NADI
+4,4,Nadi #12,Daging,2,NADI
+4,5,Nadi #13,Ayam,2,NADI
 4,6,Nadi #14,Ikan,2,NADI
-4,7,Nadi #15,Ikan,2,NADI
-4,8,Nadi #16,Ikan,2,NADI
+4,7,Simpanan Nadi,nan,2,NADI
+4,8,Simpanan Nadi,nan,2,NADI
 5,1,Istana Perlis #1,Daging,3,Istana-Perlis
 5,2,Istana Perlis #2,Daging,3,Istana-Perlis
 5,3,Istana Perlis #3,Daging,3,Istana-Perlis
@@ -97,12 +97,12 @@ table_number,seat,name,menu,gp_id,gp_name
 12,8,Datin Hasnah Shariff,Daging,9,Khas #2
 13,1,Tan Sri Sulaiman Sujak Jen (B) TUDM,Ikan,10,Khas #3
 13,2,Tan Sri Zulkifli Zain Jen (B),Ikan,10,Khas #3
-13,3,Mej Jen Dato' Sameon Marjuki,Daging,10,Khas #3
-13,4,Mej Jen Dato' Sameon Marjuki | Isteri,Ikan,10,Khas #3
-13,5,Abdullah Khir Lt Kol (B) TUDM,Ikan,10,Khas #3
-13,6,Siti Badriah Binti Sheikh Othman,Ikan,10,Khas #3
-13,7,Dato Abdul Aziz Mansur Mej Jen (B),Daging,10,Khas #3
-13,8,Simpanan Khas  #3,nan,10,Khas #3
+13,3,Dato Megat Mohd Yusoff Mej Jen (B),Ayam,10,Khas #3
+13,4,Dato Megat Mohd Yusoff Mej Jen (B) | Isteri,Ikan,10,Khas #3
+13,5,Mej Jen Dato' Sameon Marjuki,Daging,10,Khas #3
+13,6,Mej Jen Dato' Sameon Marjuki | Isteri,Ikan,10,Khas #3
+13,7,Abdullah Khir Lt Kol (B) TUDM,Ikan,10,Khas #3
+13,8,Dato Abdul Aziz Mansur Mej Jen (B),Daging,10,Khas #3
 14,1,Dato' Abdullah Samsudin Lt Jen (B),Ikan,11,Abdullah Lt Jen (B)
 14,2,Dato Dr Salleh Sam Mej Jen (B),Daging,11,Abdullah Lt Jen (B)
 14,3,Dato Hashim Abu Brig Jen (B),Daging,11,Abdullah Lt Jen (B)
@@ -111,14 +111,14 @@ table_number,seat,name,menu,gp_id,gp_name
 14,6,Husaini Abdullah Kept (B),Ikan,11,Abdullah Lt Jen (B)
 14,7,Hassim Haron Kol (B),Daging,11,Abdullah Lt Jen (B)
 14,8,Mohd Alif Daniel,Daging,11,Abdullah Lt Jen (B)
-15,1,Tan Sri Yaccob Jen (B),Daging,12,RMA Sandhurst
+15,1,Dato Md Noor,Daging,12,RMA Sandhurst
 15,2,Dato Amir Guntur Mej Jen (B),Vegetarian,12,RMA Sandhurst
 15,3,Ramli Nik Kol (B),Daging,12,RMA Sandhurst
 15,4,Dato' Hadi Razak Brig Jen (B),Daging,12,RMA Sandhurst
-15,5,Dato' Zulkifli Mazlan Mej Jen (B),Ikan,12,RMA Sandhurst
-15,6,Dato' Zulkifli Mazlan Mej Jen (B) | Isteri,Ikan,12,RMA Sandhurst
-15,7,Dato' Tajri Mej Jen (B),Daging,12,RMA Sandhurst
-15,8,Dato' Tajri Mej Jen (B) | Isteri,Vegetarian,12,RMA Sandhurst
+15,5,Dato' Azmi,Daging,12,RMA Sandhurst
+15,6,Dato' Tajri Mej Jen (B),Daging,12,RMA Sandhurst
+15,7,Dato' Tajri Mej Jen (B) | Isteri,Vegetarian,12,RMA Sandhurst
+15,8,Simpanan Rma #1,nan,12,RMA Sandhurst
 16,1,Ee Teck Chee Lt Kdr (B),Ayam,13,Intake27
 16,2,Abd Rahman Bin Hussin Lt Kdr (B),Daging,13,Intake27
 16,3,Halim Bin Mat Lt Kol (B),Ikan,13,Intake27
@@ -320,14 +320,14 @@ table_number,seat,name,menu,gp_id,gp_name
 40,6,Mej Datuk M.S. Murthi #23,Ikan,36,Mej Datuk M.S. Murthi
 40,7,Mej Datuk M.S. Murthi #24,Ikan,36,Mej Datuk M.S. Murthi
 40,8,Mej Datuk M.S. Murthi #25,Ikan,36,Mej Datuk M.S. Murthi
-41,1,Softlab #1,Daging,37,Softlab
-41,2,Softlab #2,Daging,37,Softlab
-41,3,Softlab #3,Daging,37,Softlab
-41,4,Softlab #4,Ikan,37,Softlab
-41,5,Softlab #5,Ikan,37,Softlab
-41,6,Softlab #6,Ikan,37,Softlab
-41,7,Softlab #7,Ikan,37,Softlab
-41,8,Softlab #8,Ikan,37,Softlab
+41,1,Muhammad Lokman Bin Mohd Zain Lt Kol (B),Daging,37,Fleetsol
+41,2,Zainon Binti Mohamed Lt Kol (B),Daging,37,Fleetsol
+41,3,Dato' Ir Ts Haji Khairul Said Bin Hj Mohd Ali Brig Jen(B),Ikan,37,Fleetsol
+41,4,Dato' Pahlawan Ir Abdul Hamid Bin Mohd Isa Mej Jen (B),Daging,37,Fleetsol
+41,5,Mohammad Fadzilah Bin Haji Salleh Kol (B),Daging,37,Fleetsol
+41,6,Azman Bin Daud Lt Kol (B),Daging,37,Fleetsol
+41,7,Amran Bin Parimon Mej (B),Ikan,37,Fleetsol
+41,8,Fizal Bin Muhammad Mej (B),Daging,37,Fleetsol
 42,1,Op79 #1,Daging,38,OP79
 42,2,Op79 #2,Daging,38,OP79
 42,3,Op79 #3,Daging,38,OP79
@@ -338,12 +338,13 @@ table_number,seat,name,menu,gp_id,gp_name
 42,8,Op79 #8,Ikan,38,OP79
 43,1,Puan Sri Rosliah,Ikan,39,Srikandi
 43,2,Puan Sri Rosliah | Ahli Keluarga,Daging,39,Srikandi
-43,3,Datin Ruziah,Ikan,39,Srikandi
-43,4,Datin Ruziah | Ahli Keluarga,Daging,39,Srikandi
-43,5,Datin Hafizah,Daging,39,Srikandi
-43,6,Datin Hafizah | Ahli Keluarga,Daging,39,Srikandi
-43,7,Tengku Razali Mej (B),Daging,39,Srikandi
-43,8,Tengku Razali Mej (B) | Isteri,Daging,39,Srikandi
+43,3,Siti Badriah Binti Sheikh Othman,Ikan,39,Srikandi
+43,4,Datin Ruziah,Ikan,39,Srikandi
+43,5,Datin Ruziah | Ahli Keluarga,Daging,39,Srikandi
+43,6,Datin Hafizah,Daging,39,Srikandi
+43,7,Datin Hafizah | Ahli Keluarga,Daging,39,Srikandi
+43,8,Fatimah Musa Mej (B),Ikan,39,Srikandi
+43,9,Fatimah Musa Mej (B) | Ahli Keluarga,Daging,39,Srikandi
 44,1,Dato' Kamarudin Mamat Mej Jen (B),Daging,40,Khas #4
 44,2,Dato' Kamarudin Mamat Mej Jen (B) | Isteri,Ikan,40,Khas #4
 44,3,Zahid Amran Lt Kol (B),Ikan,40,Khas #4
@@ -382,8 +383,8 @@ table_number,seat,name,menu,gp_id,gp_name
 48,4,Azhari Mej (B) TUDM | Isteri,Ikan,44,Khas #6
 48,5,Dato Shahbani Brig Jen (B),Ikan,44,Khas #6
 48,6,Dato Shahbani Brig Jen (B) | Isteri,Ikan,44,Khas #6
-48,7,Dato' Baharizan Brig Jen (B),Daging,999,Reserve
-48,8,Simpanan,N/A,0,RESERVE_SEAT
+48,7,Tengku Razali Mej (B),Daging,44,Khas #6
+48,8,Tengku Razali Mej (B) | Isteri,Daging,44,Khas #6
 49,1,Dato' Manaf Mej Jen (B) TUDM,Daging,45,Gegar-Vaganza
 49,2,Dato' Manaf Mej Jen (B) TUDM | Isteri,Ayam,45,Gegar-Vaganza
 49,3,Azman Mej (B),Daging,45,Gegar-Vaganza
@@ -391,15 +392,15 @@ table_number,seat,name,menu,gp_id,gp_name
 49,5,Kadir Sultan Mej (B),Ikan,45,Gegar-Vaganza
 49,6,Kadir Sultan Mej (B) | Isteri,Ikan,45,Gegar-Vaganza
 49,7,Mustapha @Bob Mej (B),Daging,45,Gegar-Vaganza
-49,8,Simpanan,N/A,0,RESERVE_SEAT
-50,1,Black Hackle Club #1,Daging,46,Black Hackle Club
-50,2,Black Hackle Club #2,Daging,46,Black Hackle Club
-50,3,Black Hackle Club #3,Daging,46,Black Hackle Club
-50,4,Black Hackle Club #4,Ikan,46,Black Hackle Club
-50,5,Black Hackle Club #5,Ikan,46,Black Hackle Club
-50,6,Black Hackle Club #6,Ikan,46,Black Hackle Club
-50,7,Black Hackle Club #7,Ayam,46,Black Hackle Club
-50,8,Black Hackle Club #8,Ayam,46,Black Hackle Club
+49,8,Dato' Baharizan Brig Jen (B),Daging,999,Reserve
+50,1,Datuk Muhamad Effendi Bin Mustaffa Lt Jen (B),Daging,46,Black Hackle Club
+50,2,Abdul Razak Bin Abdullah Lt Kol (B),Daging,46,Black Hackle Club
+50,3,Mohd Yusof Shabijhan Bin Ibrahim Kol (B),Daging,46,Black Hackle Club
+50,4,Omar Hamzah Zamhari Bin Mohd Nasir Lt Kol (B),Daging,46,Black Hackle Club
+50,5,Dato’ Muhammad Anwar Bin Abdullah Mej Jen (B),Daging,46,Black Hackle Club
+50,6,Ahmad Suhaimi Navinder Bin Abdullah Brig Jen (B),Ayam,46,Black Hackle Club
+50,7,Muhammad Izwan Bin Abdullah Lt Kol (B),Ikan,46,Black Hackle Club
+50,8,Dato’ Nazrul Edgar Brig Jen (B),Ikan,46,Black Hackle Club
 51,1,Raymond Lt Kol (B),Daging,46,Raymond
 51,2,Raymond Lt Kol (B) #1,Daging,46,Raymond
 51,3,Raymond Lt Kol (B) #2,Daging,46,Raymond
@@ -408,14 +409,14 @@ table_number,seat,name,menu,gp_id,gp_name
 51,6,Raymond Lt Kol (B) #5,Ikan,46,Raymond
 51,7,Raymond Lt Kol (B) #6,Ayam,46,Raymond
 51,8,Raymond Lt Kol (B) #7,Ayam,46,Raymond
-52,1,Intake 25 #1,Daging,47,Intake25
-52,2,Intake 25 #2,Daging,47,Intake25
-52,3,Intake 25 #3,Daging,47,Intake25
-52,4,Intake 25 #4,Ikan,47,Intake25
-52,5,Intake 25 #5,Ikan,47,Intake25
-52,6,Intake 25 #6,Ikan,47,Intake25
-52,7,Intake 25 #7,Ayam,47,Intake25
-52,8,Intake 25 #8,Ayam,47,Intake25
+52,1,Ahmad Sarkun,Ikan,47,Intake25
+52,2,⁠Dato Mohd Rais Ali,Daging,47,Intake25
+52,3,⁠Rajie Mahmood,Daging,47,Intake25
+52,4,⁠Saminal Idris,Ikan,47,Intake25
+52,5,⁠Marzukie Jemain,Ikan,47,Intake25
+52,6,⁠Yusoff Marson,Daging,47,Intake25
+52,7,⁠Badran Ismail,Ayam,47,Intake25
+52,8,⁠Selamat Mustamin,Daging,47,Intake25
 53,1,Nurul Shafizi,Ayam,48,Zigmar
 53,2,Mohd Luqman Hasif,Daging,48,Zigmar
 53,3,Nur Anessa,Daging,48,Zigmar
@@ -430,7 +431,7 @@ table_number,seat,name,menu,gp_id,gp_name
 54,4,Hj Shamsuddin | Isteri,Daging,49,PVTKR
 54,5,Mahadzir,Daging,49,PVTKR
 54,6,Mahadzir | Isteri,Ikan,49,PVTKR
-54,7,Robert Rizal,ikan,49,PVTKR
+54,7,Robert Rizal,Ikan,49,PVTKR
 54,8,Robert Rizal | Ahli Keluarga,Ayam,49,PVTKR
 55,1,Unicam #1,Daging,50,UNICAM
 55,2,Unicam #1,Daging,50,UNICAM
@@ -440,11 +441,3 @@ table_number,seat,name,menu,gp_id,gp_name
 55,6,Unicam #6,Ikan,50,UNICAM
 55,7,Unicam #7,Ayam,50,UNICAM
 55,8,Unicam #8,Ayam,50,UNICAM
-56,1,Fleetsol #1,Daging,51,Fleetsol
-56,2,Fleetsol #2,Daging,51,Fleetsol
-56,3,Fleetsol #3,Daging,51,Fleetsol
-56,4,Fleetsol #4,Ikan,51,Fleetsol
-56,5,Fleetsol #5,Ikan,51,Fleetsol
-56,6,Fleetsol #6,Ikan,51,Fleetsol
-56,7,Fleetsol #7,Ayam,51,Fleetsol
-56,8,Fleetsol #8,Ayam,51,Fleetsol
