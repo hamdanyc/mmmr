@@ -96,13 +96,13 @@ table_number,seat,name,menu,gp_id,gp_name
 12,7,Dato Abdullah Ahmad Brig Jen (B) TUDM,Daging,9,Khas #2
 12,8,Datin Hasnah Shariff,Daging,9,Khas #2
 13,1,Tan Sri Sulaiman Sujak Jen (B) TUDM,Ikan,10,Khas #3
-13,2,Mej Jen Dato' Sameon Marjuki,Daging,10,Khas #3
-13,3,Mej Jen Dato' Sameon Marjuki | Isteri,Ikan,10,Khas #3
-13,4,Abdullah Khir Lt Kol (B) TUDM,Ikan,10,Khas #3
-13,5,Siti Badriah Binti Sheikh Othman,Ikan,10,Khas #3
-13,6,Dato Abdul Aziz Mansur Mej Jen (B),Daging,10,Khas #3
-13,7,Simpanan Khas  #3-1,nan,10,Khas #3
-13,8,Simpanan Khas  #3-2,nan,10,Khas #3
+13,2,Tan Sri Zulkifli Zain Jen (B),Ikan,10,Khas #3
+13,3,Mej Jen Dato' Sameon Marjuki,Daging,10,Khas #3
+13,4,Mej Jen Dato' Sameon Marjuki | Isteri,Ikan,10,Khas #3
+13,5,Abdullah Khir Lt Kol (B) TUDM,Ikan,10,Khas #3
+13,6,Siti Badriah Binti Sheikh Othman,Ikan,10,Khas #3
+13,7,Dato Abdul Aziz Mansur Mej Jen (B),Daging,10,Khas #3
+13,8,Simpanan Khas  #3,nan,10,Khas #3
 14,1,Dato' Abdullah Samsudin Lt Jen (B),Ikan,11,Abdullah Lt Jen (B)
 14,2,Dato Dr Salleh Sam Mej Jen (B),Daging,11,Abdullah Lt Jen (B)
 14,3,Dato Hashim Abu Brig Jen (B),Daging,11,Abdullah Lt Jen (B)
@@ -336,14 +336,14 @@ table_number,seat,name,menu,gp_id,gp_name
 42,6,Op79 #6,Ikan,38,OP79
 42,7,Op79 #7,Ikan,38,OP79
 42,8,Op79 #8,Ikan,38,OP79
-43,1,Puan Sri Rosliah,Daging,39,Srikandi
+43,1,Puan Sri Rosliah,Ikan,39,Srikandi
 43,2,Puan Sri Rosliah | Ahli Keluarga,Daging,39,Srikandi
-43,3,Puan Sri Rohani,Daging,39,Srikandi
-43,4,Puan Sri Rohani | Ahli Keluarga,Daging,39,Srikandi
-43,5,Datin Ruziah,Daging,39,Srikandi
-43,6,Datin Ruziah | Ahli Keluarga,Daging,39,Srikandi
-43,7,Datin Hafizah,Daging,39,Srikandi
-43,8,Datin Hafizah | Ahli Keluarga,Daging,39,Srikandi
+43,3,Datin Ruziah,Ikan,39,Srikandi
+43,4,Datin Ruziah | Ahli Keluarga,Daging,39,Srikandi
+43,5,Datin Hafizah,Daging,39,Srikandi
+43,6,Datin Hafizah | Ahli Keluarga,Daging,39,Srikandi
+43,7,Simpanan #1,nan,39,Srikandi
+43,8,Simpanan #2,nan,39,Srikandi
 44,1,Dato' Kamarudin Mamat Mej Jen (B),Daging,40,Khas #4
 44,2,Dato' Kamarudin Mamat Mej Jen (B) | Isteri,Ikan,40,Khas #4
 44,3,Zahid Amran Lt Kol (B),Ikan,40,Khas #4
@@ -380,7 +380,7 @@ table_number,seat,name,menu,gp_id,gp_name
 48,2,Datuk Mhd Nazri Brig Jen (B) | Isteri,Ikan,44,Khas #6
 48,3,Azhari Mej (B) TUDM,Daging,44,Khas #6
 48,4,Azhari Mej (B) TUDM | Isteri,Ikan,44,Khas #6
-48,5,Dato Shahbani Brig Jen (B),Daging,44,Khas #6
+48,5,Dato Shahbani Brig Jen (B),Ikan,44,Khas #6
 48,6,Dato Shahbani Brig Jen (B) | Isteri,Ikan,44,Khas #6
 48,7,Dato' Baharizan Brig Jen (B),Daging,999,Reserve
 48,8,Simpanan,N/A,0,RESERVE_SEAT
@@ -392,22 +392,22 @@ table_number,seat,name,menu,gp_id,gp_name
 49,6,Kadir Sultan Mej (B) | Isteri,Ikan,45,Gegar-Vaganza
 49,7,Mustapha @Bob Mej (B),Daging,45,Gegar-Vaganza
 49,8,Simpanan,N/A,0,RESERVE_SEAT
-50,1,Raymond Lt Kol (B),Daging,46,Raymond
-50,2,Raymond Lt Kol (B) #1,Daging,46,Raymond
-50,3,Raymond Lt Kol (B) #2,Daging,46,Raymond
-50,4,Raymond Lt Kol (B) #3,Ikan,46,Raymond
-50,5,Raymond Lt Kol (B) #4,Ikan,46,Raymond
-50,6,Raymond Lt Kol (B) #5,Ikan,46,Raymond
-50,7,Raymond Lt Kol (B) #6,Ayam,46,Raymond
-50,8,Raymond Lt Kol (B) #7,Ayam,46,Raymond
-51,1,Rjrd #1,Daging,46,RJRD
-51,2,Rjrd #2,Daging,46,RJRD
-51,3,Rjrd #3,Daging,46,RJRD
-51,4,Rjrd #4,Ikan,46,RJRD
-51,5,Rjrd #5,Ikan,46,RJRD
-51,6,Rjrd #6,Ikan,46,RJRD
-51,7,Rjrd #7,Ayam,46,RJRD
-51,8,Rjrd #8,Ayam,46,RJRD
+50,1,Rjrd #1,Daging,46,Black Hackle Club
+50,2,Rjrd #2,Daging,46,Black Hackle Club
+50,3,Rjrd #3,Daging,46,Black Hackle Club
+50,4,Rjrd #4,Ikan,46,Black Hackle Club
+50,5,Rjrd #5,Ikan,46,Black Hackle Club
+50,6,Rjrd #6,Ikan,46,Black Hackle Club
+50,7,Rjrd #7,Ayam,46,Black Hackle Club
+50,8,Rjrd #8,Ayam,46,Black Hackle Club
+51,1,Raymond Lt Kol (B),Daging,46,Raymond
+51,2,Raymond Lt Kol (B) #1,Daging,46,Raymond
+51,3,Raymond Lt Kol (B) #2,Daging,46,Raymond
+51,4,Raymond Lt Kol (B) #3,Ikan,46,Raymond
+51,5,Raymond Lt Kol (B) #4,Ikan,46,Raymond
+51,6,Raymond Lt Kol (B) #5,Ikan,46,Raymond
+51,7,Raymond Lt Kol (B) #6,Ayam,46,Raymond
+51,8,Raymond Lt Kol (B) #7,Ayam,46,Raymond
 52,1,Intake 25 #1,Daging,47,Intake25
 52,2,Intake 25 #2,Daging,47,Intake25
 52,3,Intake 25 #3,Daging,47,Intake25
@@ -432,3 +432,19 @@ table_number,seat,name,menu,gp_id,gp_name
 54,6,Simpanan,N/A,0,RESERVE_SEAT
 54,7,Simpanan,N/A,0,RESERVE_SEAT
 54,8,Simpanan,N/A,0,RESERVE_SEAT
+55,1,Mohammad Melintang,Daging,51,PVTKR
+55,2,Mohammad Melintang | Isteri,Daging,51,PVTKR
+55,3,Hj Shamsuddin,Ayam,51,PVTKR
+55,4,Hj Shamsuddin | Isteri,Daging,51,PVTKR
+55,5,Mahadzir,Daging,51,PVTKR
+55,6,Mahadzir | Isteri,Ikan,51,PVTKR
+55,7,Robert Rizal,ikan,51,PVTKR
+55,8,Robert Rizal | Ahli Keluarga,Ayam,51,PVTKR
+56,1,Unicam #1,Daging,51,UNICAM
+56,2,Unicam #1,Daging,51,UNICAM
+56,3,Unicam #3,Daging,51,UNICAM
+56,4,Unicam #4,Ikan,51,UNICAM
+56,5,Unicam #5,Ikan,51,UNICAM
+56,6,Unicam #6,Ikan,51,UNICAM
+56,7,Unicam #7,Ayam,51,UNICAM
+56,8,Unicam #8,Ayam,51,UNICAM
