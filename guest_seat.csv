@@ -342,8 +342,8 @@ table_number,seat,name,menu,gp_id,gp_name
 43,4,Datin Ruziah | Ahli Keluarga,Daging,39,Srikandi
 43,5,Datin Hafizah,Daging,39,Srikandi
 43,6,Datin Hafizah | Ahli Keluarga,Daging,39,Srikandi
-43,7,Simpanan #1,nan,39,Srikandi
-43,8,Simpanan #2,nan,39,Srikandi
+43,7,Tengku Razali Mej (B),Daging,39,Srikandi
+43,8,Tengku Razali Mej (B) | Isteri,Daging,39,Srikandi
 44,1,Dato' Kamarudin Mamat Mej Jen (B),Daging,40,Khas #4
 44,2,Dato' Kamarudin Mamat Mej Jen (B) | Isteri,Ikan,40,Khas #4
 44,3,Zahid Amran Lt Kol (B),Ikan,40,Khas #4
@@ -424,27 +424,19 @@ table_number,seat,name,menu,gp_id,gp_name
 53,6,Chang Li Cheng,Daging,48,Zigmar
 53,7,Leong Choy Har,Ayam,48,Zigmar
 53,8,Mokhtar Tirin,Ayam,48,Zigmar
-54,1,Tengku Razali Mej (B),Daging,50,Ikhlas
-54,2,Tengku Razali Mej (B) | Isteri,Daging,50,Ikhlas
-54,3,Simpanan,N/A,0,RESERVE_SEAT
-54,4,Simpanan,N/A,0,RESERVE_SEAT
-54,5,Simpanan,N/A,0,RESERVE_SEAT
-54,6,Simpanan,N/A,0,RESERVE_SEAT
-54,7,Simpanan,N/A,0,RESERVE_SEAT
-54,8,Simpanan,N/A,0,RESERVE_SEAT
-55,1,Mohammad Melintang,Daging,51,PVTKR
-55,2,Mohammad Melintang | Isteri,Daging,51,PVTKR
-55,3,Hj Shamsuddin,Ayam,51,PVTKR
-55,4,Hj Shamsuddin | Isteri,Daging,51,PVTKR
-55,5,Mahadzir,Daging,51,PVTKR
-55,6,Mahadzir | Isteri,Ikan,51,PVTKR
-55,7,Robert Rizal,ikan,51,PVTKR
-55,8,Robert Rizal | Ahli Keluarga,Ayam,51,PVTKR
-56,1,Unicam #1,Daging,51,UNICAM
-56,2,Unicam #1,Daging,51,UNICAM
-56,3,Unicam #3,Daging,51,UNICAM
-56,4,Unicam #4,Ikan,51,UNICAM
-56,5,Unicam #5,Ikan,51,UNICAM
-56,6,Unicam #6,Ikan,51,UNICAM
-56,7,Unicam #7,Ayam,51,UNICAM
-56,8,Unicam #8,Ayam,51,UNICAM
+54,1,Mohammad Melintang,Daging,49,PVTKR
+54,2,Mohammad Melintang | Isteri,Daging,49,PVTKR
+54,3,Hj Shamsuddin,Ayam,49,PVTKR
+54,4,Hj Shamsuddin | Isteri,Daging,49,PVTKR
+54,5,Mahadzir,Daging,49,PVTKR
+54,6,Mahadzir | Isteri,Ikan,49,PVTKR
+54,7,Robert Rizal,ikan,49,PVTKR
+54,8,Robert Rizal | Ahli Keluarga,Ayam,49,PVTKR
+55,1,Unicam #1,Daging,50,UNICAM
+55,2,Unicam #1,Daging,50,UNICAM
+55,3,Unicam #3,Daging,50,UNICAM
+55,4,Unicam #4,Ikan,50,UNICAM
+55,5,Unicam #5,Ikan,50,UNICAM
+55,6,Unicam #6,Ikan,50,UNICAM
+55,7,Unicam #7,Ayam,50,UNICAM
+55,8,Unicam #8,Ayam,50,UNICAM
