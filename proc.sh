@@ -15,4 +15,6 @@ uv run guest_seat_pdf.py
 uv run guest_summary_v1.py
 uv run guest_list.py
 uv run guest_tab_tag.py
+# append extra data to files
+cat rs99.csv >> ayam.csv;cat rs99.csv >> daging.csv;cat rs99.csv >> ikan.csv
 echo "seat allocation -- done"
