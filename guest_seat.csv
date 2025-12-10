@@ -77,8 +77,8 @@ table_number,seat,name,menu,gp_id,gp_name
 10,4,PERNAMA #4,Ikan,7,PERNAMA
 10,5,PERNAMA #5,Ikan,7,PERNAMA
 10,6,PERNAMA #6,Ikan,7,PERNAMA
-10,7,PERNAMA #7,Ikan,7,PERNAMA
-10,8,PERNAMA #8,Ikan,7,PERNAMA
+10,7,PERNAMA #7,Ayam,7,PERNAMA
+10,8,PERNAMA #8,Ayam,7,PERNAMA
 11,1,Tan Sri Aziz Zainal Jen (B),Daging,8,Khas #1
 11,2,Puan Sri Rozita Hj Mat Mawi,Daging,8,Khas #1
 11,3,Tan Sri Ismail Hassan Jen (B),Ayam,8,Khas #1
@@ -297,29 +297,29 @@ table_number,seat,name,menu,gp_id,gp_name
 37,7,Shanan Kol (B) | Isteri,Ikan,35,Rose #1
 37,8,Maj Jack Yew,Daging,35,Rose #1
 38,1,Mej Datuk M.S. Murthi #1,Daging,36,Mej Datuk M.S. Murthi
-38,2,Mej Datuk M.S. Murthi #2,Vegetarian,36,Mej Datuk M.S. Murthi
-38,3,Mej Datuk M.S. Murthi #3,Ayam,36,Mej Datuk M.S. Murthi
-38,4,Mej Datuk M.S. Murthi #5,Ikan,36,Mej Datuk M.S. Murthi
-38,5,Mej Datuk M.S. Murthi #6,Ikan,36,Mej Datuk M.S. Murthi
-38,6,Mej Datuk M.S. Murthi #7,Ikan,36,Mej Datuk M.S. Murthi
-38,7,Mej Datuk M.S. Murthi #8,Ikan,36,Mej Datuk M.S. Murthi
-38,8,Mej Datuk M.S. Murthi #9,Daging,36,Mej Datuk M.S. Murthi
-39,1,Mej Datuk M.S. Murthi #10,Vegetarian,36,Mej Datuk M.S. Murthi
-39,2,Mej Datuk M.S. Murthi #11,Ayam,36,Mej Datuk M.S. Murthi
-39,3,Mej Datuk M.S. Murthi #12,Ayam,36,Mej Datuk M.S. Murthi
+38,2,Mej Datuk M.S. Murthi #2,Daging,36,Mej Datuk M.S. Murthi
+38,3,Mej Datuk M.S. Murthi #3,Daging,36,Mej Datuk M.S. Murthi
+38,4,Mej Datuk M.S. Murthi #4,Ikan,36,Mej Datuk M.S. Murthi
+38,5,Mej Datuk M.S. Murthi #5,Ikan,36,Mej Datuk M.S. Murthi
+38,6,Mej Datuk M.S. Murthi #6,Ikan,36,Mej Datuk M.S. Murthi
+38,7,Mej Datuk M.S. Murthi #7,Ayam,36,Mej Datuk M.S. Murthi
+38,8,Mej Datuk M.S. Murthi #8,Vegetarian,36,Mej Datuk M.S. Murthi
+39,1,Mej Datuk M.S. Murthi #10,Daging,36,Mej Datuk M.S. Murthi
+39,2,Mej Datuk M.S. Murthi #11,Daging,36,Mej Datuk M.S. Murthi
+39,3,Mej Datuk M.S. Murthi #12,Daging,36,Mej Datuk M.S. Murthi
 39,4,Mej Datuk M.S. Murthi #13,Ikan,36,Mej Datuk M.S. Murthi
 39,5,Mej Datuk M.S. Murthi #14,Ikan,36,Mej Datuk M.S. Murthi
 39,6,Mej Datuk M.S. Murthi #15,Ikan,36,Mej Datuk M.S. Murthi
-39,7,Mej Datuk M.S. Murthi #16,Ikan,36,Mej Datuk M.S. Murthi
-39,8,Mej Datuk M.S. Murthi #17,Daging,36,Mej Datuk M.S. Murthi
-40,1,Mej Datuk M.S. Murthi #18,Vegetarian,36,Mej Datuk M.S. Murthi
-40,2,Mej Datuk M.S. Murthi #19,Ayam,36,Mej Datuk M.S. Murthi
-40,3,Mej Datuk M.S. Murthi #20,Ayam,36,Mej Datuk M.S. Murthi
+39,7,Mej Datuk M.S. Murthi #16,Ayam,36,Mej Datuk M.S. Murthi
+39,8,Mej Datuk M.S. Murthi #17,Vegetarian,36,Mej Datuk M.S. Murthi
+40,1,Mej Datuk M.S. Murthi #18,Daging,36,Mej Datuk M.S. Murthi
+40,2,Mej Datuk M.S. Murthi #19,Daging,36,Mej Datuk M.S. Murthi
+40,3,Mej Datuk M.S. Murthi #20,Daging,36,Mej Datuk M.S. Murthi
 40,4,Mej Datuk M.S. Murthi #21,Ikan,36,Mej Datuk M.S. Murthi
 40,5,Mej Datuk M.S. Murthi #22,Ikan,36,Mej Datuk M.S. Murthi
 40,6,Mej Datuk M.S. Murthi #23,Ikan,36,Mej Datuk M.S. Murthi
-40,7,Mej Datuk M.S. Murthi #24,Ikan,36,Mej Datuk M.S. Murthi
-40,8,Mej Datuk M.S. Murthi #25,Ikan,36,Mej Datuk M.S. Murthi
+40,7,Mej Datuk M.S. Murthi #24,Ayam,36,Mej Datuk M.S. Murthi
+40,8,Mej Datuk M.S. Murthi #25,Vegetarian,36,Mej Datuk M.S. Murthi
 41,1,Muhammad Lokman Bin Mohd Zain Lt Kol (B),Daging,37,Fleetsol
 41,2,Zainon Binti Mohamed Lt Kol (B),Daging,37,Fleetsol
 41,3,Dato' Ir Ts Haji Khairul Said Bin Hj Mohd Ali Brig Jen(B),Ikan,37,Fleetsol
