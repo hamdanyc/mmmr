@@ -118,7 +118,7 @@ table_number,seat,name,menu,gp_id,gp_name
 15,5,Dato' Azmi,Daging,12,RMA Sandhurst
 15,6,Dato' Tajri Mej Jen (B),Daging,12,RMA Sandhurst
 15,7,Dato' Tajri Mej Jen (B) | Isteri,Vegetarian,12,RMA Sandhurst
-15,8,Simpanan Rma #1,nan,12,RMA Sandhurst
+15,8,Dato Abu Muslim Ismail Lt Jen (B),Ikan,12,RMA Sandhurst
 16,1,Ee Teck Chee Lt Kdr (B),Ayam,13,Intake27
 16,2,Abd Rahman Bin Hussin Lt Kdr (B),Daging,13,Intake27
 16,3,Halim Bin Mat Lt Kol (B),Ikan,13,Intake27
@@ -231,7 +231,7 @@ table_number,seat,name,menu,gp_id,gp_name
 29,5,Mohd Taufik Omar Mej (B) | Isteri,Ikan,27,AJK
 29,6,Muhammad Zul Fadhli Bin Azmie,Daging,27,AJK
 29,7,Mohamad Zulhaizi Bin Mohamad Rosdi,Daging,27,AJK
-29,8,Airtimes #3,Ayam,27,AJK
+29,8,Ghaffar Mej (B),Daging,27,AJK
 30,1,Datuk Mohd Bustaman Bin Mat Zin Brig Jen (B),Ikan,28,PVATM
 30,2,Tajul Ariffin Chu Johari Lt Kol (B),Daging,28,PVATM
 30,3,Mohamad Bin Yusof Lt Kol (B),Daging,28,PVATM
