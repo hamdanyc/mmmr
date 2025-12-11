@@ -440,14 +440,14 @@ table_number,seat,name,menu,gp_id,gp_name
 55,6,Intake 36 #6,Ikan,50,Intake36
 55,7,Intake 36 #7,Ayam,50,Intake36
 55,8,Intake 36 #8,Ayam,50,Intake36
-56,1,Simpanan-1 #1,Daging,51,Simpanan#1
-56,2,Simpanan-1 #2,Daging,51,Simpanan#1
-56,3,Simpanan-1 #3,Daging,51,Simpanan#1
-56,4,Simpanan-1 #4,Daging,51,Simpanan#1
-56,5,Simpanan-1 #5,Ikan,51,Simpanan#1
-56,6,Simpanan-1 #6,Ikan,51,Simpanan#1
-56,7,Simpanan-1 #7,Ayam,51,Simpanan#1
-56,8,Simpanan-1 #8,Ayam,51,Simpanan#1
+56,1,AIROD #1,Daging,51,AIROD
+56,2,AIROD #2,Daging,51,AIROD
+56,3,AIROD #3,Daging,51,AIROD
+56,4,AIROD #4,Daging,51,AIROD
+56,5,AIROD #5,Ikan,51,AIROD
+56,6,AIROD #6,Ikan,51,AIROD
+56,7,AIROD #7,Ayam,51,AIROD
+56,8,AIROD #8,Ayam,51,AIROD
 57,1,Simpanan-2 #1,Daging,52,Simpanan#2
 57,2,Simpanan-2 #2,Daging,52,Simpanan#2
 57,3,Simpanan-2 #3,Daging,52,Simpanan#2
