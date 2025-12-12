@@ -98,7 +98,7 @@ table_number,seat,name,menu,gp_id,gp_name
 13,1,Tan Sri Sulaiman Sujak Jen (B) TUDM,Ikan,10,Khas #3
 13,2,Tan Sri Zulkifeli Zain Jen (B),Ikan,10,Khas #3
 13,3,Lt Jen Dato' Tengku Mohammad Fauzi Bin Tengku Ibrahim,Daging,10,Khas #3
-13,4,Datin Haslinda Bt Mohd Ali,Daging,10,Khas #3
+13,4,Datin Haslinda Bt Mohd Ali,Ikan,10,Khas #3
 13,5,Mej Jen Dato' Sameon Marjuki,Daging,10,Khas #3
 13,6,Mej Jen Dato' Sameon Marjuki | Isteri,Ikan,10,Khas #3
 13,7,Abdullah Khir Lt Kol (B) TUDM,Ikan,10,Khas #3
@@ -275,7 +275,7 @@ table_number,seat,name,menu,gp_id,gp_name
 35,1,Dato Abdul Aziz Hassan,Ikan,33,The Gunners
 35,2,Farroukh Abdul Aziz,Daging,33,The Gunners
 35,3,Dato Abdul Wahid Anwar,Ikan,33,The Gunners
-35,4,⁠Datin Zubaidah Ahmad,Ikan,33,The Gunners
+35,4,Datin Zubaidah Ahmad,Ikan,33,The Gunners
 35,5,Ho Wah Juan Kol (B),Ikan,33,The Gunners
 35,6,Mohamed Shuhaimi Lt Kol (B),Ayam,33,The Gunners
 35,7,Abdullah Othman Lt Kol (B),Ayam,33,The Gunners
@@ -296,30 +296,30 @@ table_number,seat,name,menu,gp_id,gp_name
 37,6,Shanan Kol (B),Daging,35,Rose #1
 37,7,Shanan Kol (B) | Isteri,Ikan,35,Rose #1
 37,8,Maj Jack Yew,Daging,35,Rose #1
-38,1,Mej Datuk M.S. Murthi #1,Daging,36,Mej Datuk M.S. Murthi
-38,2,Mej Datuk M.S. Murthi #2,Daging,36,Mej Datuk M.S. Murthi
-38,3,Mej Datuk M.S. Murthi #3,Daging,36,Mej Datuk M.S. Murthi
-38,4,Mej Datuk M.S. Murthi #4,Ikan,36,Mej Datuk M.S. Murthi
-38,5,Mej Datuk M.S. Murthi #5,Ikan,36,Mej Datuk M.S. Murthi
-38,6,Mej Datuk M.S. Murthi #6,Ikan,36,Mej Datuk M.S. Murthi
-38,7,Mej Datuk M.S. Murthi #7,Ayam,36,Mej Datuk M.S. Murthi
-38,8,Mej Datuk M.S. Murthi #8,Vegetarian,36,Mej Datuk M.S. Murthi
-39,1,Mej Datuk M.S. Murthi #10,Daging,36,Mej Datuk M.S. Murthi
-39,2,Mej Datuk M.S. Murthi #11,Daging,36,Mej Datuk M.S. Murthi
-39,3,Mej Datuk M.S. Murthi #12,Daging,36,Mej Datuk M.S. Murthi
-39,4,Mej Datuk M.S. Murthi #13,Ikan,36,Mej Datuk M.S. Murthi
-39,5,Mej Datuk M.S. Murthi #14,Ikan,36,Mej Datuk M.S. Murthi
-39,6,Mej Datuk M.S. Murthi #15,Ikan,36,Mej Datuk M.S. Murthi
-39,7,Mej Datuk M.S. Murthi #16,Ayam,36,Mej Datuk M.S. Murthi
-39,8,Mej Datuk M.S. Murthi #17,Vegetarian,36,Mej Datuk M.S. Murthi
-40,1,Mej Datuk M.S. Murthi #18,Daging,36,Mej Datuk M.S. Murthi
-40,2,Mej Datuk M.S. Murthi #19,Daging,36,Mej Datuk M.S. Murthi
-40,3,Mej Datuk M.S. Murthi #20,Daging,36,Mej Datuk M.S. Murthi
-40,4,Mej Datuk M.S. Murthi #21,Ikan,36,Mej Datuk M.S. Murthi
-40,5,Mej Datuk M.S. Murthi #22,Ikan,36,Mej Datuk M.S. Murthi
-40,6,Mej Datuk M.S. Murthi #23,Ikan,36,Mej Datuk M.S. Murthi
-40,7,Mej Datuk M.S. Murthi #24,Ayam,36,Mej Datuk M.S. Murthi
-40,8,Mej Datuk M.S. Murthi #25,Vegetarian,36,Mej Datuk M.S. Murthi
+38,1,Dato Murthi,Ikan,36,Mej Datuk M.S. Murthi
+38,2,Dato Vijandran,Daging,36,Mej Datuk M.S. Murthi
+38,3,Dato Malik,Ikan,36,Mej Datuk M.S. Murthi
+38,4,Datin Shanthini,Ikan,36,Mej Datuk M.S. Murthi
+38,5,Naga,Ikan,36,Mej Datuk M.S. Murthi
+38,6,Vela,Ikan,36,Mej Datuk M.S. Murthi
+38,7,Krishan,Ayam,36,Mej Datuk M.S. Murthi
+38,8,Surin Anath,Ikan,36,Mej Datuk M.S. Murthi
+39,1,Ganeson Alwar Mej (B),Ayam,36,Mej Datuk M.S. Murthi
+39,2,Satwant Singh Lt Kol (B),Ikan,36,Mej Datuk M.S. Murthi
+39,3,Joseph Rajah Lt Kol (B),Daging,36,Mej Datuk M.S. Murthi
+39,4,Mohan Ayappan Kdr (B),Ikan,36,Mej Datuk M.S. Murthi
+39,5,Chandran Lt Kol (B),Ikan,36,Mej Datuk M.S. Murthi
+39,6,Saravanan Laksma (B),Ayam,36,Mej Datuk M.S. Murthi
+39,7,Richard Santhanam Lt Kol (B),Ayam,36,Mej Datuk M.S. Murthi
+39,8,Joseph Chandy Mej (B),Ikan,36,Mej Datuk M.S. Murthi
+40,1,Dr Ashok Kumar Lt Kol (B),Ayam,36,Mej Datuk M.S. Murthi
+40,2,Gurcharan Singh Mej (B),Ikan,36,Mej Datuk M.S. Murthi
+40,3,Sivarajan Mej (B),Ikan,36,Mej Datuk M.S. Murthi
+40,4,Ajaya Kumar Lt Kol (B),Ayam,36,Mej Datuk M.S. Murthi
+40,5,Kalaimoney Lt Kol (B),Ayam,36,Mej Datuk M.S. Murthi
+40,6,Dr Santherabalan Lt Kol (B),Ayam,36,Mej Datuk M.S. Murthi
+40,7,Vincent Sinappan Mej (B),Ayam,36,Mej Datuk M.S. Murthi
+40,8,Haramugam Mej (B),Ikan,36,Mej Datuk M.S. Murthi
 41,1,Muhammad Lokman Bin Mohd Zain Lt Kol (B),Daging,37,Fleetsol
 41,2,Zainon Binti Mohamed Lt Kol (B),Daging,37,Fleetsol
 41,3,Dato' Ir Ts Haji Khairul Said Bin Hj Mohd Ali Brig Jen(B),Ikan,37,Fleetsol
@@ -403,7 +403,7 @@ table_number,seat,name,menu,gp_id,gp_name
 51,1,Raymond Lt Kol (B),Daging,46,Raymond
 51,2,Raymond Lt Kol (B) #1,Daging,46,Raymond
 51,3,Raymond Lt Kol (B) #2,Daging,46,Raymond
-51,4,Raymond Lt Kol (B) #3,Ikan,46,Raymond
+51,4,Raymond Lt Kol (B) #3,Daging,46,Raymond
 51,5,Raymond Lt Kol (B) #4,Ikan,46,Raymond
 51,6,Raymond Lt Kol (B) #5,Ikan,46,Raymond
 51,7,Raymond Lt Kol (B) #6,Ayam,46,Raymond
@@ -432,7 +432,7 @@ table_number,seat,name,menu,gp_id,gp_name
 54,6,Mahadzir | Isteri,Ikan,49,PVTKR
 54,7,Robert Rizal,Ikan,49,PVTKR
 54,8,Robert Rizal | Ahli Keluarga,Ayam,49,PVTKR
-55,1,Dato Md Noor,Daging,50,RMA Sandhurst
+55,1,Amreek Singh Mej (B),Ikan,50,RMA Sandhurst
 55,2,Dato Amir Guntur Mej Jen (B),Vegetarian,50,RMA Sandhurst
 55,3,Ramli Nik Kol (B),Daging,50,RMA Sandhurst
 55,4,Dato' Hadi Razak Brig Jen (B),Daging,50,RMA Sandhurst
@@ -448,14 +448,14 @@ table_number,seat,name,menu,gp_id,gp_name
 56,6,AIROD #6,Ikan,51,AIROD
 56,7,AIROD #7,Ayam,51,AIROD
 56,8,AIROD #8,Ayam,51,AIROD
-57,1,Simpanan-2 #1,Daging,52,Simpanan#2
-57,2,Simpanan-2 #2,Daging,52,Simpanan#2
-57,3,Simpanan-2 #3,Daging,52,Simpanan#2
-57,4,Simpanan-2 #4,Daging,52,Simpanan#2
-57,5,Simpanan-2 #5,Ikan,52,Simpanan#2
-57,6,Simpanan-2 #6,Ikan,52,Simpanan#2
-57,7,Simpanan-2 #7,Ayam,52,Simpanan#2
-57,8,Simpanan-2 #8,Ayam,52,Simpanan#2
+57,1,Tetamu Istana Perlis-2 #1,Daging,52,Tetamu-Perlis
+57,2,Tetamu Istana Perlis-2 #2,Daging,52,Tetamu-Perlis
+57,3,Tetamu Istana Perlis-2 #3,Daging,52,Tetamu-Perlis
+57,4,Tetamu Istana Perlis-2 #4,Daging,52,Tetamu-Perlis
+57,5,Tetamu Istana Perlis-2 #5,Ikan,52,Tetamu-Perlis
+57,6,Tetamu Istana Perlis-2 #6,Ikan,52,Tetamu-Perlis
+57,7,Tetamu Istana Perlis-2 #7,Ayam,52,Tetamu-Perlis
+57,8,Tetamu Istana Perlis-2 #8,Ayam,52,Tetamu-Perlis
 58,1,Simpanan-3 #1,Daging,53,Simpanan#3
 58,2,Simpanan-3 #2,Daging,53,Simpanan#3
 58,3,Simpanan-3 #3,Daging,53,Simpanan#3
