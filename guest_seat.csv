@@ -16,7 +16,7 @@ table_number,seat,name,menu,gp_id,gp_name
 2,7,Mohd Azim Syahmi Bin Abd Latif,Daging,1,weststar
 2,8,Datuk Jamil Bin Osman Laksda (B),Daging,1,weststar
 3,1,Tan Sri Dato Seri Mohd Yunus Bin Mohd Tasi Jen (B) TUDM,Daging,2,NADI
-3,2,Selina Binti Mohd Yunus,Ikan,2,NADI
+3,2,Dato Edron Hayata Ahmad,Ikan,2,NADI
 3,3,Dato Megat Mohd Yusoff Mej Jen (B),Ayam,2,NADI
 3,4,Dato Megat Mohd Yusoff Mej Jen (B) | Isteri,Ikan,2,NADI
 3,5,Dato Seri Abdul Rahim Bin Abdul Rahman Brig Jen (B),Ikan,2,NADI
@@ -240,11 +240,11 @@ table_number,seat,name,menu,gp_id,gp_name
 30,6,Elias Bin Abdul Ghani Lt Kol (B),Ikan,28,PVATM
 30,7,Dato' Mohamad Taufik Bin Mohamad Akhir Kapt (B),Daging,28,PVATM
 30,8,Susnan Bin Saad Kapt (B),Ikan,28,PVATM
-31,1,Tan Sri Ramlan Laksamana (B),Daging,29,RMNOA
-31,2,NV Suriyati,Daging,29,RMNOA
-31,3,NV Pannir,Ayam,29,RMNOA
-31,4,NV Puah Bc,Ikan,29,RMNOA
-31,5,NV Aliza,Daging,29,RMNOA
+31,1,Dato Wah,Daging,29,RMNOA
+31,2,Yuen Wah,Ikan,29,RMNOA
+31,3,NV Suriyati,Daging,29,RMNOA
+31,4,NV Pannir,Ayam,29,RMNOA
+31,5,NV Aleeza,Daging,29,RMNOA
 31,6,NV Hariss,Ayam,29,RMNOA
 31,7,NV Martin,Daging,29,RMNOA
 31,8,NV Shanmuganathan,Ayam,29,RMNOA
